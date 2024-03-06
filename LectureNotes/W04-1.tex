@@ -1,0 +1,58 @@
+\section{Binding Energy}
+\subsection{Formulas and Definitions}
+\begin{itemize}
+    \item Binding Energy: The energy required to keep the nucleus together. The mass of the nucleus is not equal to the sum of its parts. The mass of the individual nucleons is higher than the mass of the nucleus. The difference is the binding energy.
+    \begin{equation}
+    Zm_p + Nm_n - M_{\text{Nucleus}} = \text{Binding Energy}  \quad ⇒ \quad Zm_p + Nm_n > M_{\text{Nucleus}}
+    \end{equation}
+\end{itemize}
+
+\subsection{Mass of the Nucleus}
+The total mass of the atom is the mass of the nucleus and electrons, minus the binding energy of the electrons. 
+\begin{equation}
+M_{\text{Atom}} = M_{\text{Nucleus}} + Zm_e - \underbrace{∑_{i=1}^{Z} B_i / c^2}_{\text{Often negligible}}
+\end{equation}
+
+\begin{equation}
+M_{\text{Atom}} = M_{\text{Nucleus}} + Zm_e
+\end{equation}
+
+$M$ usually refers to the mass of the entire atom, and so the subscript "Atom" is often omitted. We usually write the atom using the following notation:
+\begin{equation}
+M\left(_{Z}^{A}X_{N}\right) = M_{\text{Nucleus}} \left(_{Z}^{A}X_{N}\right) + Zm_e
+\end{equation}
+Multiplying by $c^2$ we get the mass in energy units ($E = mc^2$):
+\begin{equation}
+M_{\text{Nucleus}}\left(_{Z}^{A}X_{N}\right) = M\left(_{Z}^{A}X_{N}\right) - Zm_ec^2
+\end{equation}
+\begin{equation}
+\underline{\underline{M_{\text{Nucleus}}\left(_{Z}^{A}X_{N}\right)c^2 = M\left(_{Z}^{A}X_{N}\right)c^2 - Zm_e c^2 
+}}
+\end{equation}
+\subsection{Nuclear Binding Energy (B.E.)}
+This energy is very small compared to the mass energy of the nucleus. We can derive this from the mass of the nucleus. 
+\begin{align}
+    B.E. &= \left(Zm_{p} + Nm_{n} - M_{N}\left(_{Z}^{A}X_{N}\right)\right) c^2 \\
+    &= \left(Zm_{p} + Nm_{n} - \left(M\left(_{Z}^{A}X_{N}\right) - Zm_e\right)\right) c^2 \\ 
+    &= \left(Z(\underbrace{m_{p} + m_e}_{\text{Hydrogen}}) + Nm_{n} - M\left(_{Z}^{A}X_{N}\right)\right) c^2 \\ \\
+   B.E. &= \underline{\underline{\left(Zm\left(^{1}H\right) + Nm_{n} - M\left(_{Z}^{A}X_{N}\right)\right) c^2}}
+\end{align}
+As the units so far has been energy $(mc^2)$ we can switch to MeV. 
+\begin{equation}
+B.E. = \left[mc^2\right] = \left[uc^2\right] = u931.5\text{MeV /}u \quad ⇒ \quad c^2 = 931.5 \text{MeV/u}
+\end{equation}
+\begin{equation}\label{eq: binding_energy}
+B.E. = \underline{\underline{\left(Zm\left(^{1}H\right) + Nm_{n} - M\left(_{Z}^{A}X_{N}\right)\right) 931.5 \text{MeV/u}}}
+\end{equation}
+
+\subsubsection{Example: Helium \protect{$_{2}^{4}H_{2}$}}
+We use the formula for binding energy from \cref{eq: binding_energy} to calculate the binding energy of the hydrogen atom $_{2}^{4}He_{2}$.
+\begin{align}
+B.E. &= \left(2m_p + 2m_n - M\left(_{2}^{4}He_{2}\right)\right) 931.5 \text{MeV/u} \\
+&= \left(2 ⋅ 1.007825u + 2 ⋅ 1.008664u - 4.002603u\right) ⋅ 931.5 \text{MeV/u} \\
+&= \underline{\underline{0.0304 ⋅  931.5 \text{MeV} = 28.3 \text{MeV}}}\label{eq: helium_binding_energy}
+\end{align}
+The ratio between the binding energy and the rest mass of the nucleus is very small. Using the binding energy from \cref{eq: helium_binding_energy} and the mass of the helium nucleus, we can calculate the ratio:
+\begin{equation}
+\frac{28.3}{3728} = 0.75\%
+\end{equation}
