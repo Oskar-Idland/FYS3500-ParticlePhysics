@@ -1,31 +1,44 @@
 \babel@toc {english}{}\relax 
-\contentsline {section}{\numberline {1}History}{2}{section.1}%
-\contentsline {subsection}{\numberline {1.1}Proton Discovery: The Rutherford Scattering Experiment}{2}{subsection.1.1}%
-\contentsline {subsubsection}{\numberline {1.1.1}Conclusion}{2}{subsubsection.1.1.1}%
-\contentsline {subsection}{\numberline {1.2}Discovery of the Neutron}{2}{subsection.1.2}%
-\contentsline {section}{\numberline {2}Nucleus}{2}{section.2}%
-\contentsline {subsection}{\numberline {2.1}Notation}{3}{subsection.2.1}%
-\contentsline {subsection}{\numberline {2.2}Nuclides}{3}{subsection.2.2}%
-\contentsline {subsubsection}{\numberline {2.2.1}Stable Numbers}{3}{subsubsection.2.2.1}%
-\contentsline {section}{\numberline {3}Units and Dimensions in Nuclear Physics}{3}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Length}{3}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}Time Scale}{3}{subsection.3.2}%
-\contentsline {subsection}{\numberline {3.3}Energy}{3}{subsection.3.3}%
-\contentsline {subsection}{\numberline {3.4}Mass}{4}{subsection.3.4}%
-\contentsline {section}{\numberline {4}Nuclear Properties}{4}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Connected Terms}{4}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}Charge Distribution}{5}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}Nuclear Charge Distribution from Electron Scattering}{5}{subsection.4.3}%
-\contentsline {subsection}{\numberline {4.4}Nuclear Size}{5}{subsection.4.4}%
-\contentsline {subsection}{\numberline {4.5}Nuclear Mass Distribution from Hadron Scattering}{5}{subsection.4.5}%
-\contentsline {subsubsection}{\numberline {4.5.1}Fixed Angle of Observation with Changing Energy}{6}{subsubsection.4.5.1}%
-\contentsline {subsection}{\numberline {4.6}Conclusion from Charge Radius Experiments}{6}{subsection.4.6}%
-\contentsline {subsection}{\numberline {4.7}Nuclear Mass}{7}{subsection.4.7}%
-\contentsline {subsection}{\numberline {4.8}Deflection Spectrometer}{7}{subsection.4.8}%
-\contentsline {subsubsection}{\numberline {4.8.1}Calculating the Mass}{7}{subsubsection.4.8.1}%
-\contentsline {paragraph}{Accuracy}{8}{section*.5}%
-\contentsline {section}{\numberline {5}Binding Energy}{8}{section.5}%
-\contentsline {subsection}{\numberline {5.1}Formulas and Definitions}{8}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2}Mass of the Nucleus}{8}{subsection.5.2}%
-\contentsline {subsection}{\numberline {5.3}Nuclear Binding Energy (B.E.)}{9}{subsection.5.3}%
-\contentsline {subsubsection}{\numberline {5.3.1}Example: Helium {$_{2}^{4}H_{2}$}}{9}{subsubsection.5.3.1}%
+\contentsline {section}{\numberline {1}History}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Proton Discovery: The Rutherford Scattering Experiment}{3}{subsection.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.1}Conclusion}{3}{subsubsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.2}Discovery of the Neutron}{3}{subsection.1.2}%
+\contentsline {section}{\numberline {2}Nucleus}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Notation}{4}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Nuclides}{4}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Stable Numbers}{4}{subsubsection.2.2.1}%
+\contentsline {section}{\numberline {3}Units and Dimensions in Nuclear Physics}{4}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Length}{4}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Time Scale}{4}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Energy}{4}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Mass}{5}{subsection.3.4}%
+\contentsline {section}{\numberline {4}Nuclear Properties}{5}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Connected Terms}{5}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Charge Distribution}{6}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Nuclear Charge Distribution from Electron Scattering}{6}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Nuclear Size}{6}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Nuclear Mass Distribution from Hadron Scattering}{6}{subsection.4.5}%
+\contentsline {subsubsection}{\numberline {4.5.1}Fixed Angle of Observation with Changing Energy}{7}{subsubsection.4.5.1}%
+\contentsline {subsection}{\numberline {4.6}Conclusion from Charge Radius Experiments}{7}{subsection.4.6}%
+\contentsline {subsection}{\numberline {4.7}Nuclear Mass}{8}{subsection.4.7}%
+\contentsline {subsection}{\numberline {4.8}Deflection Spectrometer}{8}{subsection.4.8}%
+\contentsline {subsubsection}{\numberline {4.8.1}Calculating the Mass}{8}{subsubsection.4.8.1}%
+\contentsline {paragraph}{Accuracy}{9}{section*.5}%
+\contentsline {section}{\numberline {5}Binding Energy}{9}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Formulas and Definitions}{9}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Mass of the Nucleus}{9}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Nuclear Binding Energy (B.E.)}{10}{subsection.5.3}%
+\contentsline {subsubsection}{\numberline {5.3.1}Example: Helium {$_{2}^{4}H_{2}$}}{10}{subsubsection.5.3.1}%
+\contentsline {subsection}{\numberline {5.4}Nuclear Separation Energy}{10}{subsection.5.4}%
+\contentsline {subsubsection}{\numberline {5.4.1}Neutron Separation Energy}{10}{subsubsection.5.4.1}%
+\contentsline {subsubsection}{\numberline {5.4.2}Proton Separation Energy}{11}{subsubsection.5.4.2}%
+\contentsline {subsection}{\numberline {5.5}Average Binding Energy}{11}{subsection.5.5}%
+\contentsline {subsection}{\numberline {5.6}Semi-Empirical Mass Formula}{12}{subsection.5.6}%
+\contentsline {subsubsection}{\numberline {5.6.1}Explanation of the Terms in the Semi-Empirical Mass Formula}{12}{subsubsection.5.6.1}%
+\contentsline {subsubsection}{\numberline {5.6.2}SEMF Conclusion}{13}{subsubsection.5.6.2}%
+\contentsline {subsection}{\numberline {5.7}Mass Parabolas of Isobars}{13}{subsection.5.7}%
+\contentsline {subsubsection}{\numberline {5.7.1}Finding the Minimum of the Mass Parabola}{13}{subsubsection.5.7.1}%
+\contentsline {paragraph}{Example: A = 10}{14}{section*.8}%
+\contentsline {paragraph}{Example: A = 200}{14}{section*.9}%
+\contentsline {subsubsection}{\numberline {5.7.2}Valley of (beta) stability}{14}{subsubsection.5.7.2}%
+\contentsline {paragraph}{Beta Decay}{15}{section*.11}%
