@@ -28,7 +28,7 @@
 \contentsline {subsection}{\numberline {5.1}Formulas and Definitions}{9}{subsection.5.1}%
 \contentsline {subsection}{\numberline {5.2}Mass of the Nucleus}{9}{subsection.5.2}%
 \contentsline {subsection}{\numberline {5.3}Nuclear Binding Energy (B.E.)}{10}{subsection.5.3}%
-\contentsline {subsubsection}{\numberline {5.3.1}Example: Helium {$_{2}^{4}H_{2}$}}{10}{subsubsection.5.3.1}%
+\contentsline {subsubsection}{\numberline {5.3.1}}{10}{subsubsection.5.3.1}%
 \contentsline {subsection}{\numberline {5.4}Nuclear Separation Energy}{10}{subsection.5.4}%
 \contentsline {subsubsection}{\numberline {5.4.1}Neutron Separation Energy}{10}{subsubsection.5.4.1}%
 \contentsline {subsubsection}{\numberline {5.4.2}Proton Separation Energy}{11}{subsubsection.5.4.2}%
@@ -42,3 +42,33 @@
 \contentsline {paragraph}{Example: A = 200}{14}{section*.9}%
 \contentsline {subsubsection}{\numberline {5.7.2}Valley of (beta) stability}{14}{subsubsection.5.7.2}%
 \contentsline {paragraph}{Beta Decay}{15}{section*.11}%
+\contentsline {section}{\numberline {6}Angular Momentum \& Parity}{15}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Angular Momentum of the Nucleus}{15}{subsection.6.1}%
+\contentsline {subsubsection}{\numberline {6.1.1}Orbital Angular Momentum}{16}{subsubsection.6.1.1}%
+\contentsline {subsubsection}{\numberline {6.1.2}Spin}{16}{subsubsection.6.1.2}%
+\contentsline {subsubsection}{\numberline {6.1.3}Total Angular Momentum}{18}{subsubsection.6.1.3}%
+\contentsline {subsubsection}{\numberline {6.1.4}Total Angular Momentum of the Nucleus}{18}{subsubsection.6.1.4}%
+\contentsline {subsection}{\numberline {6.2}Parity}{19}{subsection.6.2}%
+\contentsline {subsubsection}{\numberline {6.2.1}Splitting the Wave Function}{19}{subsubsection.6.2.1}%
+\contentsline {section}{\numberline {7}Electric and Magnetic Moments}{20}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Parity Selection Rules}{20}{subsection.7.1}%
+\contentsline {subsubsection}{\numberline {7.1.1}}{20}{subsubsection.7.1.1}%
+\contentsline {subsubsection}{\numberline {7.1.2}}{20}{subsubsection.7.1.2}%
+\contentsline {subsection}{\numberline {7.2}Bohr Magneton \& Nuclear Magneton}{21}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}Magnetic Moments of Nuclei}{21}{subsection.7.3}%
+\contentsline {subsubsection}{\numberline {7.3.1}Nuclear Structure from Magnetic Moments}{21}{subsubsection.7.3.1}%
+\contentsline {subsection}{\numberline {7.4}}{22}{subsection.7.4}%
+\contentsline {subsection}{\numberline {7.5}Example: Calculating Parity of State}{23}{subsection.7.5}%
+\contentsline {paragraph}{Case 1: Calculate the parity of two nucleons in the $p_{3 /2}$ orbital}{23}{section*.19}%
+\contentsline {paragraph}{Case 2: Calculate the parity of two nucleons in the $g_{9 /2}$ orbital}{23}{section*.20}%
+\contentsline {subsection}{\numberline {7.6}Level Schemes \& Excited States}{23}{subsection.7.6}%
+\contentsline {section}{\numberline {8}Nuclear Force}{23}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Effects of the Short Range of the Strong Force}{24}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}Deuteron}{24}{subsection.8.2}%
+\contentsline {subsubsection}{\numberline {8.2.1}Deuteron Binding Energy}{24}{subsubsection.8.2.1}%
+\contentsline {subsubsection}{\numberline {8.2.2}Nucleon-Nucleon Potential}{25}{subsubsection.8.2.2}%
+\contentsline {subsubsection}{\numberline {8.2.3}Deuteron Spin and Parity}{26}{subsubsection.8.2.3}%
+\contentsline {paragraph}{Total Spin:}{26}{section*.24}%
+\contentsline {paragraph}{Spin Configuration with $I = 1$}{26}{section*.25}%
+\contentsline {paragraph}{Electric Quadrupole Moment}{26}{section*.26}%
+\contentsline {section}{\numberline {9}The Standard Model}{26}{section.9}%

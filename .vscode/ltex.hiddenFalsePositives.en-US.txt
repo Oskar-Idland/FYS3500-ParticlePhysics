@@ -1,1 +1,5 @@
 {"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qnucleons\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QprotectElectric Dipole Moments \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QprotectMagnetic Dipole Moments \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QprotectElectric Quadrupole Moments \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q & Shape of the Nucleus.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QprotectExample: Helium \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q.\\E$"}
