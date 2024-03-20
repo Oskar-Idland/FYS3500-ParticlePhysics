@@ -1,0 +1,276 @@
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{titlesec}
+\usepackage[mathletters]{ucs}
+\usepackage[utf8x]{inputenc}
+\usepackage[margin=1.5in]{geometry}
+\usepackage{enumerate}
+\newtheorem{theorem}{Theorem}
+\usepackage[dvipsnames]{xcolor}
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.18}
+\setlength{\parindent}{0cm}
+\usepackage{graphics}
+\usepackage{graphicx} % Required for including images
+\usepackage{subcaption}
+\usepackage{bigintcalc}
+\usepackage{pythonhighlight} %for pythonkode \begin{python}   \end{python}
+\usepackage{appendix}
+\usepackage{arydshln}
+\usepackage{physics}
+\usepackage{booktabs} 
+\usepackage{adjustbox}
+\usepackage{mdframed}
+\usepackage{relsize}
+\usepackage{physics}
+\usepackage[thinc]{esdiff}
+\usepackage{esint}  %for lukket-linje-integral
+\usepackage{xfrac} %for sfrac
+\usepackage[colorlinks=true]{hyperref} %for linker, må ha med hypersetup
+\usepackage[noabbrev, nameinlink]{cleveref} % to be loaded after hyperref
+\usepackage{amssymb} %\mathbb{R} for reelle tall, \mathcal{B} for "matte"-font
+\usepackage{listings} %for kode/lstlisting
+\usepackage{verbatim}
+\usepackage{graphicx,wrapfig,lipsum,caption} %for wrapping av bilder
+\usepackage{mathtools} %for \abs{x}
+\usepackage[english]{babel}
+\usepackage{cancel}
+\usepackage{mhchem} % for atom notasjon
+\usepackage{tikz-feynman}
+\definecolor{codegreen}{rgb}{0,0.6,0}
+\definecolor{codegray}{rgb}{0.5,0.5,0.5}
+\definecolor{codepurple}{rgb}{0.58,0,0.82}
+\definecolor{backcolour}{rgb}{0.95,0.95,0.92}
+\lstdefinestyle{mystyle}{
+    backgroundcolor=\color{backcolour},   
+    commentstyle=\color{codegreen},
+    keywordstyle=\color{magenta},
+    numberstyle=\tiny\color{codegray},
+    stringstyle=\color{codepurple},
+    basicstyle=\ttfamily\footnotesize,
+    breakatwhitespace=false,         
+    breaklines=true,                 
+    captionpos=b,                    
+    keepspaces=true,                 
+    numbers=left,                    
+    numbersep=5pt,                  
+    showspaces=false,                
+    showstringspaces=false,
+    showtabs=false,                  
+    tabsize=2
+}
+
+\lstset{style=mystyle}
+\author{Oskar Idland}
+\title{Midterm}
+\date{}
+\begin{document}
+\maketitle
+%\tableofcontents
+\newpage
+
+\section{Cross Sections}
+\subsection*{a)}
+
+
+\subsection*{b)}
+
+
+\section{Nuclear Properties and Force}
+\subsection*{a)}
+\begin{itemize}
+    \item \textbf{Rutherford scattering experiment} taught us that the atom is mostly empty space, with a small, dense nucleus carrying the positive charge. This is because the alpha particles, which are positively charged, are deflected by the nucleus, which is also positively charged. Many alpha particles pass through the gold foil without being deflected, which means that the nucleus is very small compared to the atom.
+    \item \textbf{Chadwick's scattering experiment} showed that the nucleus also contains neutral particles, named neutrons. This was discovered by bombarding beryllium with alpha particles, which resulted in the emission of neutral radiation.
+    \item \textbf{Electron scattering experiments} showed that the nucleus is not a point particle but has a radius which increases with the atomic number $A$ (or mass) which it's charge is distributed over.
+    \item \textbf{Hadron scattering experiments} taught us the mass distribution of the nucleus is proportional to the nuclear force and not the Coulomb force.
+\end{itemize}
+
+
+\subsection*{b)}
+\textbf{Yes}, nuclear radius is a definitive property of the nucleus. Still, it is not entirely accurate, as the nucleus does not have a well-defined surface. This is shown by electron scattering as the diffraction pattern is not exactly that of a circular disk.
+
+
+\subsection*{c)}
+\begin{enumerate}
+    \item \textbf{Charge Independence:} The nuclear force is nearly independent of the charge of the nucleons. We know this from experiments on excited states of \textit{mirror nuclei} like $\ce{_{6}^{11}\text{C}_{5}}$ and $\ce{_{5}^{11}\text{B}_{6}}$. 
+    \item \textbf{Attractive and Repulsive:} The nuclear force is strongly attractive distances shorter than 1-2 fm and negligible at greater distances. The nuclear force is repelling at distances shorter than 1 fm. We know the nuclear force is attractive at those smaller distances because of Rutherford scattering experiments. Here we see that the alpha particles needs a certain amount of energy to overcome the Coulomb force and get close enough to the nucleus to be attracted. The linear dependence of the binding energy per nucleon also shows that not all nucleons are attracted by each other at the same time, only the nearest neighbors. 
+    \item \textbf{Electrons:} Electrons are not affected by the nuclear force (hence the name)
+\end{enumerate}
+
+
+\section{Nuclear Binding Energy}
+\subsection*{a)}
+The semi-empirical binding energy formula shows how the binding energy per nucleus depends on the number of electrons and protons as seen in \cref{eq: SEBE}.  When the atoms are small, the nucleons are all close together and therefore the protons are affected by both the nuclear force, and the Coulomb force. When the size of the atom increases, we need more neutrons to keep the nucleus stable, as the extra neutrons provide more attractive nuclear force to counteract the repulsive Coulomb force, and move the protons further apart which again reduces the Coulomb force. This keeps the nucleus stable, but makes the $N / Z$ ration less than one for larger nuclei.   
+\begin{equation}\label{eq: SEBE}
+B(A,Z) = a_{V}A - a_{S}A^{2/3} - a_{C}\frac{Z(Z-1)}{A^{1/3}} - a_{A}\frac{(A-2Z)^{2}}{A} + \delta(A,Z)
+\end{equation}
+
+\subsection*{b)}
+There are three components to the semi-empirical binding energy formula as seen in \cref{eq: SEBE}. 
+\begin{enumerate}
+    \item $\mathbf{a_vA}$: \textbf{Volume term}. The binding energy is proportional to the volume of the nucleus approximated to a sphere $\left(V = 4πR^3/3\right)$. This dominates the binding energy for large nuclei. 
+    \begin{equation}
+    a_v ≈ 15.8 \text{ MeV}
+    \end{equation}
+    The linear dependence of the binding energy on the number of nucleons tells us that the strong force is short range as each nucleon only interacts with its nearest neighbors. 
+    \item $\mathbf{a_sA^{2 / 3}}$: \textbf{Surface term}. The volume term is not quite accurate as the nucleons on the surface have fewer neighbors. This term corrects for that. The binding energy is proportional to $πR^2$
+    \begin{equation}
+    a_s ≈ 16.8 \text{ MeV}
+    \end{equation} 
+    \item $\mathbf{a_cZ(Z-1)A^{-1 / 3}}$: \textbf{Coulomb term}. The binding energy is reduced by the repulsion between the protons. It is therefore detracted. The Coulomb force is long range and is therefore proportional to $Z(Z-1)$ as all protons interact. 
+    \begin{equation}
+    a_c ≈ 0.72 \text{ MeV}
+    \end{equation}
+\end{enumerate}
+
+\subsection*{c)}
+$\ce{_{}^{16}\text{O}_{}}$ has an even atomic number $A = 16$, and it's number of protons and neutrons are both the magic number $Z = N = 8$. This means that the nucleus is particularly stable.
+
+Between $\ce{_{}^{118}\text{Sn}_{}}$ $\ce{_{}^{119}\text{Sn}_{}}$ we know the latter to have an odd atomic number $A = 119$, making it less stable than the former. We therefore get the list of nuclei in order of stability:
+
+\begin{enumerate}
+    \item $\ce{_{}^{16}\text{O}_{}}$
+    \item $\ce{_{}^{118}\text{Sn}_{}}$
+    \item $\ce{_{}^{119}\text{Sn}_{}}$
+\end{enumerate}
+
+\subsection*{d)}
+Using an approximation of the $Z_{\text{min}}$ as seen in \cref{eq: Zmin} we get the following for $Z_{\text{min}(136)} = 56.3$ which rounds to the nearest integer $Z_{\text{min}} = 56$. 
+
+Doing the same calculation for $Z_{\text{min}}(135)$ gives $Z_{\text{min}} = 55.97$, which again rounds to the nearest integer $Z_{\text{min}} = 56$. 
+\begin{equation}\label{eq: Zmin}
+Z_{\text{min}}(A) = \frac{A}{2} \frac{1}{1 + \frac{1}{4}A^{2 / 3}a_c / a_{\text{sym}}} \quad , \quad  a_{\text{syn}} ≈ 23 \text{ MeV} \ , \ a_c ≈ 0.72 \text{ MeV}
+\end{equation}
+
+Through beta decay, a proton is converted to a neutron, or vice versa. The atomic number $A$ remains constant. The nucleons along the same isobaric line, have a tendency to decay down the valley of stability to the most stable isobar. When on the left side of the valley, the nucleus will decay by converting a neutron to a proton $(β^{+})$. 
+
+
+\section{Nuclear Shell Model}
+\subsection*{a)}
+There are multiple experimental observations that support the nuclear shell model. The model takes inspiration from the atomic shell model, and the following observations are made:
+\begin{enumerate}
+    \item \textbf{Magic Numbers:} The magic numbers are the numbers of protons or neutrons that make the nucleus particularly stable. This hints at the existence of shells which are filled with nucleons.
+    \item \textbf{Separation Energies:} The separation energies are the energies required to remove a nucleon from the nucleus. The separation energies are not constant, but rather have peaks at the magic numbers. This is because the nucleons in the filled shells are more tightly bound than the nucleons in the unfilled shells.
+\end{enumerate}
+
+\subsection*{b)}
+\begin{itemize}
+    \item The central potential assumes that the nucleons are not interacting with each other, but rather with a central potential. One could use a many-body problem, but this is not practical or always solvable analytically. 
+    \item Looking at the nuclear force in a more holistic way makes it easier to calculate how every nucleon interacts with the potential.
+\end{itemize}
+
+\subsection*{c)}
+
+
+\subsection*{d)}
+
+
+\subsection*{e)}
+
+
+
+\section{Relativistic B-mesoon pairs at SuperKEKB}
+\subsection*{a)}
+
+
+\subsection*{b)}
+
+
+\subsection*{c)}
+
+
+\subsection*{d)}
+
+
+
+
+\section{Neutrino Oscillations}
+\subsection*{a)}
+
+
+\subsection*{b)}
+
+
+
+\section{Quantum Numbers}
+
+\subsection*{a)}
+
+
+\subsection*{b)}
+
+
+\subsection*{c)}
+Only $π^{0}$ is an eigenstate of C-parity. This is because if you flip the charge, you still have the same particle (aka. quantum state). Flipping the charge of $π^{+}$ gives $π^{-}$, and flipping the charge of $π^{-}$ gives $π^{+}$, which are different particles and therefore not an eigenstate. 
+
+
+\section{Allowed, Suppressed and Forbidden Processes}
+\subsection*{a)}
+\begin{equation}\label{eq: s_1}
+ν_ee^{-} → ν_{μ}μ^{-}
+\end{equation}
+\cref{eq: s_1} will be evaluated on the following:
+\begin{itemize}
+    \item \textbf{Lepton Number:} The number of leptons is conserved going from 2 to 2.  
+    \item \textbf{Baryon Number:} The number of baryons is conserved as there are no baryons on either side.
+    \item \textbf{Charge:} The charge is conserved going from $-1$ to $-1$. 
+    \item \textbf{Mass:} The mass is increases as the left-hand side is much lighter than the right-hand side due to the massive muon. 
+\end{itemize}
+The process in \cref{eq: s_1} is \textbf{suppressed} because the mass is increased. The process is mediated by the weak force, but has never been observed
+
+\subsection*{b)}
+\begin{equation}\label{eq: s_2}
+Λ^{0} → p^{+} π^{-}
+\end{equation}
+\cref{eq: s_2} will be evaluated on the following:
+\begin{itemize}
+    \item \textbf{Lepton Number:} There are no leptons on either side, so the lepton number is conserved.
+    \item \textbf{Baryon Number:} There is one baryon on the left-hand side and one on the right-hand side (the proton). The baryon number is conserved.
+    \item \textbf{Charge:} The charge is conserved going from 0 tone net charge of $+1 -1 = 0$.
+    \item \textbf{Mass:} The mass decreases as $Λ^{0}$ is much heavier than the proton and the pion.
+\end{itemize}
+The process in \cref{eq: s_2} is \textbf{allowed} because the mass is decreased and the other conservation laws are conserved. The process is mediated by the weak force as depicted in figure \ref{fig: 8b}, where the strange quark in the $Λ^{0}$ decays into a up quark and emits a $W^{-}$ boson which turns into a $π^{-}$. 
+
+\begin{figure}[h!]
+\centering
+  \begin{tikzpicture}
+    \begin{feynman}
+    \vertex (a) {$Λ^0$};
+    \vertex [right=of a] (b);
+    \vertex [above right=of b] (c) {\(p^+\)};
+    \vertex [below right=of b] (d) {\(\pi^-\)};
+    \diagram* {
+      (a) -- [fermion] (b) -- [fermion] (c),
+      (b) -- [boson, edge label=\(W^-\)] (d),
+    };
+  \end{feynman}
+\end{tikzpicture}
+\end{figure}\label{fig: 8b}
+
+\subsection*{c)}
+\begin{equation}\label{eq: s_3}
+μ^{+}μ^{-} →  t\bar{t} 
+\end{equation}
+\cref{eq: s_3} will be evaluated on the following:
+\begin{itemize}
+    \item \textbf{Lepton Number:} The number of leptons is conserved going from net 0 to 0.
+    \item \textbf{Baryon Number:} The number of baryons is conserved going from 0 to 0.
+    \item \textbf{Charge:} The charge is conserved going from $-1 + 1 = 0$ to $2 / 3 - 2 / 3 = 0$.
+    \item \textbf{Mass:} The mass increases from the left-hand side to the right-hand side.
+\end{itemize}
+The process in \cref{eq: s_3} is \textbf{suppressed} because the mass is increased.
+
+
+\subsection*{d)}
+\begin{equation}\label{eq: s_4}
+\bar{p} → ne^{-}\bar{ν}_e
+\end{equation}
+\cref{eq: s_4} will be evaluated on the following:
+\begin{itemize}
+    \item \textbf{Lepton Number:} The number of leptons is conserved going from 0 to net 0.
+    \item \textbf{Baryon Number:} The number of baryons is not conserved going from $-1$ to $1$.
+    \item \textbf{Charge:} The charge is conserved going from $-1$ to $-1$.
+    \item \textbf{Mass:} The mass decreases from the left-hand side to the right-hand side.
+\end{itemize}
+The process in \cref{eq: s_4} is \textbf{forbidden} because the baryon number is not conserved. 
+\end{document}
