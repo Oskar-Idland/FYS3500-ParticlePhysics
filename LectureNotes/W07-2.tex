@@ -1,0 +1,109 @@
+\subsection{Cross-Section}
+\begin{itemize}
+    \item We measure the rate $W$ of a process happening. 
+    \item The number of particles hitting a target per unit area is called flux $J = n_{b} v_i$, where $n_{b}$ is the number of particles per unit volume and $v_i$ is the velocity of the beam. 
+    \item The area per target particle is called the cross section $σ$. This represents the area in which the particles interact in the relevant process.
+    \item The rate of particles hitting the target is $W = JNσ$. where $N$ is the number of particles. 
+    \item The rate $W$ is proportional to the luminosity $L$ by $W = L(t)σ$. 
+    \item The cross section $σ$ is invariant under Lorentz transformations in the direction of the beam, meaning it is independent of the reference frame. 
+    \item Colliding two beams beams of $N_1$ number of particles and $N_2$ number of particles, we get a luminosity $L(t) = f N_1 N_2 / A$, where $f$ is the frequency of the beam (how often they collide) and $A$ is the area of the beam.
+\end{itemize}
+
+\subsubsection{Differential Cross-Section}
+Measured time-integrated rate as a function of some observable. This could be momentum: 
+\begin{equation}
+    σ = ∫_{p_{\text{min}}}^{p_{\text{max}}} \frac{\mathrm{d}σ(p)}{\mathrm{d}p} \ \mathrm{d}p
+\end{equation}
+
+\subsubsection{Measured Cross-Section}
+\begin{enumerate}
+    \item Define the process of interest. 
+    \item Count the number of times the process happens.
+    \item Remove the background noise as measurement is imperfect. 
+    \item Find the time-integrated luminosity $\mathcal{L} ≡ ∫  L(t) \mathrm{d}t$. 
+    \item For the total cross-section, we have $N = σ \mathcal{L}ϵ + b$ or $\displaystyle σ = \frac{N - b}{\mathcal{L}ϵ}$, where $ϵ$ is the efficiency of the detector and $b$ is the background noise.
+\end{enumerate}
+
+\subsubsection{Integrated Luminosity}
+\begin{itemize}
+    \item One can either precisely control the details of the beam and target to determine $\mathcal{L}$.
+    \item One can also used well-known processes to determine $\mathcal{L} = N_1 / σ_1$, if this event has a known cross-section. After that, one can correct for noise and efficiency, to then find the cross-section of the process of interest by $σ_2 = \frac{N_2}{\mathcal{L}} = \frac{N_2}{N_1} σ_1$
+    \item Barn: Unit of cross-section, $1 \text{b} = 10^{-24} \text{cm}^2$ or $1 \text{b} = 10^{-28} \text{m}^2$. Integrated luminosity is often given in $\text{fb}^{-1}$ or $\text{pb}^{-1}$, where f $(10^{-15})$ and p $(10^{-12})$ stands for femto and pico, respectively. $1\text{pb} ≈ 10^{-40}\text{m}^2 = (10^{-5}\text{fm})^2$. In comparison the proton has a radius of about $0.84\text{fm}$.
+\end{itemize}
+
+
+\subsubsection{Single Beam Particle and Target}
+\begin{itemize}
+    \item Again we use that the rate of observing some scattering process $r$ is $W_r = JNσr$. 
+    \item In the case of a single target particle we have $N = 1$. 
+    \item The flux $J = n_{b} v_i$ where $n_{b}$ is the number of beam particles per unit volume $V$ and $v_i$ is the velocity of the beam. 
+    \item The differential rate of observing the process $r$ in a solid angle at direction $(θ,ϕ)$, is therefore $ \displaystyle \mathrm{d}W_r = v_\frac{i}{V} \frac{\mathrm{d}σ_r(θ,ϕ)}{\mathrm{d}Ω}dΩ$
+\end{itemize}
+
+\subsubsection{Born Approximation}
+\begin{itemize}
+    \item Assuming the particle has a wavefunction traveling a large distance around the accelerator, we can describe it as a plane wave $ψ_i$. 
+    \item When disturbed by a potential $V(r)$, we can calculate the rate of scattering by the Born approximation. This is also known as "Fermi's Golden Rule". If we define the probability amplitude $\mathcal{M}(\vec{q})$, we get from \cref{eq: fermis_golden_rule} that the rate of scattering is given by \cref{eq: fermis_golden_rule_2}. Here $\vec{q}$ is the momentum transferred. 
+    \begin{equation}\label{eq: fermis_golden_rule}
+      \mathrm{d}W_r = \frac{2π}{ℏ} \left|∫ ψ_f^{*}V(\vec{r})ψ_i \mathrm{d}^3 \vec{r}\right| ρ(E_f) 
+    \end{equation}
+    \begin{equation}\label{eq: fermis_golden_rule_2}
+      \mathrm{d}W_r = \frac{2π}{ℏ} \left|M(\vec{q})\right|^2 ρ(E_f), \quad M ≡ ∫ V(\vec{r})\exp \left(i \vec{q} ⋅ \vec{r} / ℏ\right)d^3 \vec{r}
+    \end{equation}
+    \item Multiplying by $ℏ^2c^2$ which we know to be about $(197 \text{ MeV F})^2$ we cancel out the energy and get $σ$ in units of $\text{F}^2$ aka barn. 
+\end{itemize}
+
+\subsubsection{Natural Units and Cross Section}
+\begin{itemize}
+    \item Cross-sections $σ$ has unit of area, barn (b) of $10^{-28}$ m$^2$. 
+    \item In natural units this is proportional to $1 / E^2$ with units $1 / $MeV$^2$
+\end{itemize}
+
+\subsection{Density of States (Energy States)}
+The number of states in a range of momenta $d^3 \vec{p}$. This is derived from a wavefunction in a box of volume $V = L^3$ with walls of infinite potential. The coordinate system is places in one of the corners such that the walls are at $x = L$, $y = L$ and $z = L$. From this we get the density of states in momentum space $d^3 \vec{p}$ as seen in \cref{eq: density_of_states}.
+\begin{equation}\label{eq: density_of_states}
+ ρ(E) \mathrm{d}q = \frac{L^3}{(2πℏ)^3} d^3 \vec{p} \quad , \quad  → \mathrm{d}^3 \vec{p} = q^2 \ \mathrm{d}q \ \mathrm{d}ϕ \ \mathrm{d}(\cos ϕ) ≡ q^2 \mathrm{d}q \mathrm{d}Ω
+\end{equation}
+\cref{eq: density_of_states} can be used further where \cref{eq: density_of_states_2} is defined. Now we need to find $\frac{\mathrm{d}q}{\mathrm{d}E}$
+\begin{equation}\label{eq: density_of_states_2}
+    ρ(q)\mathrm{d}q ≡ ρ(E)\mathrm{d}E → ρ(E) = ρ(q) \frac{\mathrm{d}q}{\mathrm{d}E} = \frac{L^3}{(2πℏ)^3} q^2 \frac{\mathrm{d}q}{\mathrm{d}E} \mathrm{d}Ω
+\end{equation}
+\paragraph{Non-Relativistic Case:}
+\begin{itemize}
+    \item $E = q^2 / 2m$
+    \item $\mathrm{d}E = 2q \mathrm{d}q / 2m = q \mathrm{d}q /m$
+    \item \textbf{Conclusions:} $\frac{\mathrm{d}q}{\mathrm{d}E} = m / q = 1 / v$
+\end{itemize}
+
+\paragraph{Relativistic Case:}
+\begin{itemize}
+    \item $E^2 = m^2c^{4} + q^2 c^2$
+    \item $2E \mathrm{d}E = 2c^2 q \mathrm{d}q$
+    \item \textbf{Conclusions:} $\frac{\mathrm{d}q}{\mathrm{d}E} = E / qc^2 = mγc^2 / mγβc^3 =  \frac{1}{ βc} = 1 / v$
+    The result is the same!
+\end{itemize}
+
+\subsubsection{Conclusion}
+\begin{equation}
+\frac{\mathrm{d}σ_r(θ,ϕ)}{\mathrm{d}Ω} = \frac{1}{(2π^2)} \frac{1}{ℏ^{4}} \frac{q_f^2}{v_f v_i} \left|M(\vec{q})\right|^2
+\end{equation}
+
+\subsection{Theoretical Cross-Section for $ab → cd$}
+\begin{itemize}
+    \item The differential cross-section for a process $ab → cd$ is given by \cref{eq: differential_cross_section}, where $g_i$ and $g_f$ are number of spin-states for the initial and final states particles, respectively. $g_f = (2S_{c} + 1)(2S_{d} + 1)$ and $g_i = (2S_{a} + 1)(2S_{b} + 1)$. $k$ represent all possible spin states. 
+    \begin{equation}\label{eq: differential_cross_section}
+    \frac{\mathrm{d}σ}{\mathrm{d}Ω} = \frac{g_f}{4π^2ℏ^{4}} \frac{q_f^2}{v_i v_f} \overline{|M(\vec{q})|^2} \quad , \quad  \overline{|M(\vec{q})|^2} = \frac{1}{g_i g_f} ∑_{k}^{} \left|M_k\right|^2
+    \end{equation}
+    \item In general, the particle beams are unpolarized and we therefore do not measure the spin of the final state particles. 
+    \item We average over the initial spin states, and sum over the final ones. 
+\end{itemize}
+
+\section{Particle Phenomenology}
+\subsection{Leptons}
+\begin{itemize}
+    \item 3 generations increasing in mass. 
+    \item Neutrinos has only weak interactions due to lack of charge. This makes it has to detect and is a hint of a weak interaction. 
+    \item Except a few cases, the generations of leptons are conserved in interactions.
+    \item The weakness of the weak force comes from the massive mediating particles $W^{\pm}$ and $Z^{0}$. 
+    \item The flavour of the lepton does not affect the strength of the interaction. 
+\end{itemize}

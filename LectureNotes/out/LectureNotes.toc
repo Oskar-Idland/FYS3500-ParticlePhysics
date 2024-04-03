@@ -96,3 +96,18 @@
 \contentsline {subsubsection}{\numberline {11.2.5}Natural Units}{36}{}%
 \contentsline {subsection}{\numberline {11.3}Scattering}{36}{}%
 \contentsline {subsubsection}{\numberline {11.3.1}Decay}{36}{}%
+\contentsline {paragraph}{Tau Particle}{37}{}%
+\contentsline {subsection}{\numberline {11.4}Cross-Section}{37}{}%
+\contentsline {subsubsection}{\numberline {11.4.1}Differential Cross-Section}{37}{}%
+\contentsline {subsubsection}{\numberline {11.4.2}Measured Cross-Section}{38}{}%
+\contentsline {subsubsection}{\numberline {11.4.3}Integrated Luminosity}{38}{}%
+\contentsline {subsubsection}{\numberline {11.4.4}Single Beam Particle and Target}{38}{}%
+\contentsline {subsubsection}{\numberline {11.4.5}Born Approximation}{38}{}%
+\contentsline {subsubsection}{\numberline {11.4.6}Natural Units and Cross Section}{39}{}%
+\contentsline {subsection}{\numberline {11.5}Density of States (Energy States)}{39}{}%
+\contentsline {paragraph}{Non-Relativistic Case:}{39}{}%
+\contentsline {paragraph}{Relativistic Case:}{39}{}%
+\contentsline {subsubsection}{\numberline {11.5.1}Conclusion}{39}{}%
+\contentsline {subsection}{\numberline {11.6}Theoretical Cross-Section for $ab → cd$}{40}{}%
+\contentsline {section}{\numberline {12}Particle Phenomenology}{40}{}%
+\contentsline {subsection}{\numberline {12.1}Leptons}{40}{}%
