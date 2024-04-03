@@ -1,74 +1,98 @@
 \babel@toc {english}{}\relax 
-\contentsline {section}{\numberline {1}History}{3}{section.1}%
-\contentsline {subsection}{\numberline {1.1}Proton Discovery: The Rutherford Scattering Experiment}{3}{subsection.1.1}%
-\contentsline {subsubsection}{\numberline {1.1.1}Conclusion}{3}{subsubsection.1.1.1}%
-\contentsline {subsection}{\numberline {1.2}Discovery of the Neutron}{3}{subsection.1.2}%
-\contentsline {section}{\numberline {2}Nucleus}{3}{section.2}%
-\contentsline {subsection}{\numberline {2.1}Notation}{4}{subsection.2.1}%
-\contentsline {subsection}{\numberline {2.2}Nuclides}{4}{subsection.2.2}%
-\contentsline {subsubsection}{\numberline {2.2.1}Stable Numbers}{4}{subsubsection.2.2.1}%
-\contentsline {section}{\numberline {3}Units and Dimensions in Nuclear Physics}{4}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Length}{4}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}Time Scale}{4}{subsection.3.2}%
-\contentsline {subsection}{\numberline {3.3}Energy}{4}{subsection.3.3}%
-\contentsline {subsection}{\numberline {3.4}Mass}{5}{subsection.3.4}%
-\contentsline {section}{\numberline {4}Nuclear Properties}{5}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Connected Terms}{5}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}Charge Distribution}{6}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}Nuclear Charge Distribution from Electron Scattering}{6}{subsection.4.3}%
-\contentsline {subsection}{\numberline {4.4}Nuclear Size}{6}{subsection.4.4}%
-\contentsline {subsection}{\numberline {4.5}Nuclear Mass Distribution from Hadron Scattering}{6}{subsection.4.5}%
-\contentsline {subsubsection}{\numberline {4.5.1}Fixed Angle of Observation with Changing Energy}{7}{subsubsection.4.5.1}%
-\contentsline {subsection}{\numberline {4.6}Conclusion from Charge Radius Experiments}{7}{subsection.4.6}%
-\contentsline {subsection}{\numberline {4.7}Nuclear Mass}{8}{subsection.4.7}%
-\contentsline {subsection}{\numberline {4.8}Deflection Spectrometer}{8}{subsection.4.8}%
-\contentsline {subsubsection}{\numberline {4.8.1}Calculating the Mass}{8}{subsubsection.4.8.1}%
-\contentsline {paragraph}{Accuracy}{9}{section*.5}%
-\contentsline {section}{\numberline {5}Binding Energy}{9}{section.5}%
-\contentsline {subsection}{\numberline {5.1}Formulas and Definitions}{9}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2}Mass of the Nucleus}{9}{subsection.5.2}%
-\contentsline {subsection}{\numberline {5.3}Nuclear Binding Energy (B.E.)}{10}{subsection.5.3}%
-\contentsline {subsubsection}{\numberline {5.3.1}}{10}{subsubsection.5.3.1}%
-\contentsline {subsection}{\numberline {5.4}Nuclear Separation Energy}{10}{subsection.5.4}%
-\contentsline {subsubsection}{\numberline {5.4.1}Neutron Separation Energy}{10}{subsubsection.5.4.1}%
-\contentsline {subsubsection}{\numberline {5.4.2}Proton Separation Energy}{11}{subsubsection.5.4.2}%
-\contentsline {subsection}{\numberline {5.5}Average Binding Energy}{11}{subsection.5.5}%
-\contentsline {subsection}{\numberline {5.6}Semi-Empirical Mass Formula}{12}{subsection.5.6}%
-\contentsline {subsubsection}{\numberline {5.6.1}Explanation of the Terms in the Semi-Empirical Mass Formula}{12}{subsubsection.5.6.1}%
-\contentsline {subsubsection}{\numberline {5.6.2}SEMF Conclusion}{13}{subsubsection.5.6.2}%
-\contentsline {subsection}{\numberline {5.7}Mass Parabolas of Isobars}{13}{subsection.5.7}%
-\contentsline {subsubsection}{\numberline {5.7.1}Finding the Minimum of the Mass Parabola}{13}{subsubsection.5.7.1}%
-\contentsline {paragraph}{Example: A = 10}{14}{section*.8}%
-\contentsline {paragraph}{Example: A = 200}{14}{section*.9}%
-\contentsline {subsubsection}{\numberline {5.7.2}Valley of (beta) stability}{14}{subsubsection.5.7.2}%
-\contentsline {paragraph}{Beta Decay}{15}{section*.11}%
-\contentsline {section}{\numberline {6}Angular Momentum \& Parity}{15}{section.6}%
-\contentsline {subsection}{\numberline {6.1}Angular Momentum of the Nucleus}{15}{subsection.6.1}%
-\contentsline {subsubsection}{\numberline {6.1.1}Orbital Angular Momentum}{16}{subsubsection.6.1.1}%
-\contentsline {subsubsection}{\numberline {6.1.2}Spin}{16}{subsubsection.6.1.2}%
-\contentsline {subsubsection}{\numberline {6.1.3}Total Angular Momentum}{18}{subsubsection.6.1.3}%
-\contentsline {subsubsection}{\numberline {6.1.4}Total Angular Momentum of the Nucleus}{18}{subsubsection.6.1.4}%
-\contentsline {subsection}{\numberline {6.2}Parity}{19}{subsection.6.2}%
-\contentsline {subsubsection}{\numberline {6.2.1}Splitting the Wave Function}{19}{subsubsection.6.2.1}%
-\contentsline {section}{\numberline {7}Electric and Magnetic Moments}{20}{section.7}%
-\contentsline {subsection}{\numberline {7.1}Parity Selection Rules}{20}{subsection.7.1}%
-\contentsline {subsubsection}{\numberline {7.1.1}}{20}{subsubsection.7.1.1}%
-\contentsline {subsubsection}{\numberline {7.1.2}}{20}{subsubsection.7.1.2}%
-\contentsline {subsection}{\numberline {7.2}Bohr Magneton \& Nuclear Magneton}{21}{subsection.7.2}%
-\contentsline {subsection}{\numberline {7.3}Magnetic Moments of Nuclei}{21}{subsection.7.3}%
-\contentsline {subsubsection}{\numberline {7.3.1}Nuclear Structure from Magnetic Moments}{21}{subsubsection.7.3.1}%
-\contentsline {subsection}{\numberline {7.4}}{22}{subsection.7.4}%
-\contentsline {subsection}{\numberline {7.5}Example: Calculating Parity of State}{23}{subsection.7.5}%
-\contentsline {paragraph}{Case 1: Calculate the parity of two nucleons in the $p_{3 /2}$ orbital}{23}{section*.19}%
-\contentsline {paragraph}{Case 2: Calculate the parity of two nucleons in the $g_{9 /2}$ orbital}{23}{section*.20}%
-\contentsline {subsection}{\numberline {7.6}Level Schemes \& Excited States}{23}{subsection.7.6}%
-\contentsline {section}{\numberline {8}Nuclear Force}{23}{section.8}%
-\contentsline {subsection}{\numberline {8.1}Effects of the Short Range of the Strong Force}{24}{subsection.8.1}%
-\contentsline {subsection}{\numberline {8.2}Deuteron}{24}{subsection.8.2}%
-\contentsline {subsubsection}{\numberline {8.2.1}Deuteron Binding Energy}{24}{subsubsection.8.2.1}%
-\contentsline {subsubsection}{\numberline {8.2.2}Nucleon-Nucleon Potential}{25}{subsubsection.8.2.2}%
-\contentsline {subsubsection}{\numberline {8.2.3}Deuteron Spin and Parity}{26}{subsubsection.8.2.3}%
-\contentsline {paragraph}{Total Spin:}{26}{section*.24}%
-\contentsline {paragraph}{Spin Configuration with $I = 1$}{26}{section*.25}%
-\contentsline {paragraph}{Electric Quadrupole Moment}{26}{section*.26}%
-\contentsline {section}{\numberline {9}The Standard Model}{26}{section.9}%
+\contentsline {section}{\numberline {1}History}{4}{}%
+\contentsline {subsection}{\numberline {1.1}Proton Discovery: The Rutherford Scattering Experiment}{4}{}%
+\contentsline {subsubsection}{\numberline {1.1.1}Conclusion}{4}{}%
+\contentsline {subsection}{\numberline {1.2}Discovery of the Neutron}{4}{}%
+\contentsline {section}{\numberline {2}Nucleus}{4}{}%
+\contentsline {subsection}{\numberline {2.1}Notation}{5}{}%
+\contentsline {subsection}{\numberline {2.2}Nuclides}{5}{}%
+\contentsline {subsubsection}{\numberline {2.2.1}Stable Numbers}{5}{}%
+\contentsline {section}{\numberline {3}Units and Dimensions in Nuclear Physics}{5}{}%
+\contentsline {subsection}{\numberline {3.1}Length}{5}{}%
+\contentsline {subsection}{\numberline {3.2}Time Scale}{5}{}%
+\contentsline {subsection}{\numberline {3.3}Energy}{5}{}%
+\contentsline {subsection}{\numberline {3.4}Mass}{6}{}%
+\contentsline {section}{\numberline {4}Nuclear Properties}{6}{}%
+\contentsline {subsection}{\numberline {4.1}Connected Terms}{6}{}%
+\contentsline {subsection}{\numberline {4.2}Charge Distribution}{7}{}%
+\contentsline {subsection}{\numberline {4.3}Nuclear Charge Distribution from Electron Scattering}{7}{}%
+\contentsline {subsection}{\numberline {4.4}Nuclear Size}{7}{}%
+\contentsline {subsection}{\numberline {4.5}Nuclear Mass Distribution from Hadron Scattering}{7}{}%
+\contentsline {subsubsection}{\numberline {4.5.1}Fixed Angle of Observation with Changing Energy}{8}{}%
+\contentsline {subsection}{\numberline {4.6}Conclusion from Charge Radius Experiments}{8}{}%
+\contentsline {subsection}{\numberline {4.7}Nuclear Mass}{9}{}%
+\contentsline {subsection}{\numberline {4.8}Deflection Spectrometer}{9}{}%
+\contentsline {subsubsection}{\numberline {4.8.1}Calculating the Mass}{9}{}%
+\contentsline {paragraph}{Accuracy}{10}{}%
+\contentsline {section}{\numberline {5}Binding Energy}{10}{}%
+\contentsline {subsection}{\numberline {5.1}Formulas and Definitions}{10}{}%
+\contentsline {subsection}{\numberline {5.2}Mass of the Nucleus}{10}{}%
+\contentsline {subsection}{\numberline {5.3}Nuclear Binding Energy (B.E.)}{11}{}%
+\contentsline {subsubsection}{\numberline {5.3.1}}{11}{}%
+\contentsline {subsection}{\numberline {5.4}Nuclear Separation Energy}{11}{}%
+\contentsline {subsubsection}{\numberline {5.4.1}Neutron Separation Energy}{11}{}%
+\contentsline {subsubsection}{\numberline {5.4.2}Proton Separation Energy}{12}{}%
+\contentsline {subsection}{\numberline {5.5}Semi-Empirical Mass Formula}{13}{}%
+\contentsline {subsubsection}{\numberline {5.5.1}Explanation of the Terms in the Semi-Empirical Mass Formula}{13}{}%
+\contentsline {subsubsection}{\numberline {5.5.2}SEMF Conclusion}{14}{}%
+\contentsline {subsection}{\numberline {5.6}Mass Parabolas of Isobars}{14}{}%
+\contentsline {subsubsection}{\numberline {5.6.1}Finding the Minimum of the Mass Parabola}{14}{}%
+\contentsline {paragraph}{Example: A = 10}{15}{}%
+\contentsline {paragraph}{Example: A = 200}{15}{}%
+\contentsline {subsubsection}{\numberline {5.6.2}Valley of (beta) stability}{15}{}%
+\contentsline {paragraph}{Beta Decay}{16}{}%
+\contentsline {section}{\numberline {6}Angular Momentum \& Parity}{16}{}%
+\contentsline {subsection}{\numberline {6.1}Angular Momentum of the Nucleus}{16}{}%
+\contentsline {subsubsection}{\numberline {6.1.1}Orbital Angular Momentum}{17}{}%
+\contentsline {subsubsection}{\numberline {6.1.2}Spin}{17}{}%
+\contentsline {subsubsection}{\numberline {6.1.3}Total Angular Momentum}{19}{}%
+\contentsline {subsubsection}{\numberline {6.1.4}Total Angular Momentum of the Nucleus}{19}{}%
+\contentsline {subsection}{\numberline {6.2}Parity}{20}{}%
+\contentsline {subsubsection}{\numberline {6.2.1}Splitting the Wave Function}{20}{}%
+\contentsline {section}{\numberline {7}Electric and Magnetic Moments}{21}{}%
+\contentsline {subsection}{\numberline {7.1}Parity Selection Rules}{21}{}%
+\contentsline {subsubsection}{\numberline {7.1.1}}{21}{}%
+\contentsline {subsubsection}{\numberline {7.1.2}}{21}{}%
+\contentsline {subsection}{\numberline {7.2}Bohr Magneton \& Nuclear Magneton}{22}{}%
+\contentsline {subsection}{\numberline {7.3}Magnetic Moments of Nuclei}{22}{}%
+\contentsline {subsubsection}{\numberline {7.3.1}Nuclear Structure from Magnetic Moments}{22}{}%
+\contentsline {subsection}{\numberline {7.4}}{23}{}%
+\contentsline {subsection}{\numberline {7.5}Example: Calculating Parity of State}{24}{}%
+\contentsline {paragraph}{Case 1: Calculate the parity of two nucleons in the $p_{3 /2}$ orbital}{24}{}%
+\contentsline {paragraph}{Case 2: Calculate the parity of two nucleons in the $g_{9 /2}$ orbital}{24}{}%
+\contentsline {subsection}{\numberline {7.6}Level Schemes \& Excited States}{24}{}%
+\contentsline {section}{\numberline {8}Nuclear Force}{24}{}%
+\contentsline {subsection}{\numberline {8.1}Effects of the Short Range of the Strong Force}{25}{}%
+\contentsline {subsection}{\numberline {8.2}Deuteron}{25}{}%
+\contentsline {subsubsection}{\numberline {8.2.1}Deuteron Binding Energy}{25}{}%
+\contentsline {subsubsection}{\numberline {8.2.2}Nucleon-Nucleon Potential}{26}{}%
+\contentsline {subsubsection}{\numberline {8.2.3}Deuteron Spin and Parity}{27}{}%
+\contentsline {paragraph}{Total Spin:}{27}{}%
+\contentsline {paragraph}{Spin Configuration with $I = 1$}{27}{}%
+\contentsline {paragraph}{Electric Quadrupole Moment}{27}{}%
+\contentsline {section}{\numberline {9}The Standard Model}{27}{}%
+\contentsline {subsection}{\numberline {9.1}The Particles}{27}{}%
+\contentsline {subsection}{\numberline {9.2}The Forces}{28}{}%
+\contentsline {section}{\numberline {10}Feynman Diagrams}{29}{}%
+\contentsline {subsection}{\numberline {10.1}Charges}{29}{}%
+\contentsline {subsubsection}{\numberline {10.1.1}Examples}{29}{}%
+\contentsline {subsection}{\numberline {10.2}Allowed Vertices (\cref {fig: feynman_diagram_vertices})}{29}{}%
+\contentsline {subsubsection}{\numberline {10.2.1}Allowed EM Vertices}{31}{}%
+\contentsline {subsubsection}{\numberline {10.2.2}Allowed Strong Vertices}{31}{}%
+\contentsline {subsubsection}{\numberline {10.2.3}Neutral Weak Vertices}{31}{}%
+\contentsline {subsubsection}{\numberline {10.2.4}Charged Weak Vertices}{32}{}%
+\contentsline {subsubsection}{\numberline {10.2.5}Higgs Boson Vertices}{32}{}%
+\contentsline {subsubsection}{\numberline {10.2.6}4-Line Vertices}{32}{}%
+\contentsline {subsection}{\numberline {10.3}Creating Feynman Diagrams}{33}{}%
+\contentsline {subsubsection}{\numberline {10.3.1}Tip for Choosing Time-Ordering}{33}{}%
+\contentsline {subsubsection}{\numberline {10.3.2}Current interactions}{34}{}%
+\contentsline {section}{\numberline {11}Relativity and Anti-Particles}{34}{}%
+\contentsline {subsection}{\numberline {11.1}Dirac Equation}{34}{}%
+\contentsline {subsection}{\numberline {11.2}Symmetries and Conservation Laws}{35}{}%
+\contentsline {subsubsection}{\numberline {11.2.1}Symmetries and Conserved Quantities}{35}{}%
+\contentsline {subsubsection}{\numberline {11.2.2}Intrinsic Parity}{35}{}%
+\contentsline {subsubsection}{\numberline {11.2.3}Parity of Bound States}{35}{}%
+\contentsline {subsubsection}{\numberline {11.2.4}Charge Conjugation}{35}{}%
+\contentsline {subsubsection}{\numberline {11.2.5}Natural Units}{36}{}%
+\contentsline {subsection}{\numberline {11.3}Scattering}{36}{}%
+\contentsline {subsubsection}{\numberline {11.3.1}Decay}{36}{}%

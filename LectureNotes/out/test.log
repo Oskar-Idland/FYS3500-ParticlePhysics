@@ -1,0 +1,3667 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.3.26)  2 APR 2024 22:25
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test
+(/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-02-20>
+(/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count188
+\c@section=\count189
+\c@subsection=\count190
+\c@subsubsection=\count191
+\c@paragraph=\count192
+\c@subparagraph=\count193
+\c@figure=\count194
+\c@table=\count195
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+) (/usr/share/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2023/05/13 v2.17o AMS math features
+\@mathmargin=\skip50
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+ (/usr/share/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen141
+)) (/usr/share/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen142
+) (/usr/share/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count196
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count197
+\leftroot@=\count198
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count199
+\DOTSCASE@=\count266
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box51
+\strutbox@=\box52
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen143
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count267
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count268
+\dotsspace@=\muskip16
+\c@parentequation=\count269
+\dspbrk@lvl=\count270
+\tag@help=\toks18
+\row@=\count271
+\column@=\count272
+\maxfields@=\count273
+\andhelp@=\toks19
+\eqnshift@=\dimen144
+\alignsep@=\dimen145
+\tagshift@=\dimen146
+\tagwidth@=\dimen147
+\totwidth@=\dimen148
+\lineht@=\dimen149
+\@envbody=\toks20
+\multlinegap=\skip51
+\multlinetaggap=\skip52
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+) (/usr/share/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2023/10/27 v2.16 Sectioning titles
+\ttl@box=\box53
+\beforetitleunit=\skip53
+\aftertitleunit=\skip54
+\ttl@plus=\dimen150
+\ttl@minus=\dimen151
+\ttl@toksa=\toks22
+\titlewidth=\dimen152
+\titlewidthlast=\dimen153
+\titlewidthfirst=\dimen154
+) (/usr/share/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks23
+\inpenc@posthook=\toks24
+ (/usr/share/texmf-dist/tex/latex/ucs/utf8x.def
+File: utf8x.def 2023/11/09 UCS: Input encoding UTF-8
+
+
+Package ucs Info: utf8x disabled, assuming standard utf8 processing
+(ucs)             load ucs package to force utf8x processing.
+
+(/usr/share/texmf-dist/tex/latex/base/utf8.def
+File: utf8.def 2022/06/07 v1.3c UTF-8 support
+Now handling font encoding OML ...
+... no UTF-8 mapping file for font encoding OML
+Now handling font encoding OMS ...
+... processing UTF-8 mapping file for font encoding OMS
+ (/usr/share/texmf-dist/tex/latex/base/omsenc.dfu
+File: omsenc.dfu 2022/06/07 v1.3c UTF-8 support
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+)
+Now handling font encoding OT1 ...
+... processing UTF-8 mapping file for font encoding OT1
+ (/usr/share/texmf-dist/tex/latex/base/ot1enc.dfu
+File: ot1enc.dfu 2022/06/07 v1.3c UTF-8 support
+   defining Unicode char U+00A0 (decimal 160)
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AD (decimal 173)
+   defining Unicode char U+00B8 (decimal 184)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0174 (decimal 372)
+   defining Unicode char U+0175 (decimal 373)
+   defining Unicode char U+0176 (decimal 374)
+   defining Unicode char U+0177 (decimal 375)
+   defining Unicode char U+0218 (decimal 536)
+   defining Unicode char U+0219 (decimal 537)
+   defining Unicode char U+021A (decimal 538)
+   defining Unicode char U+021B (decimal 539)
+   defining Unicode char U+0237 (decimal 567)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+FB00 (decimal 64256)
+   defining Unicode char U+FB01 (decimal 64257)
+   defining Unicode char U+FB02 (decimal 64258)
+   defining Unicode char U+FB03 (decimal 64259)
+   defining Unicode char U+FB04 (decimal 64260)
+   defining Unicode char U+FB05 (decimal 64261)
+   defining Unicode char U+FB06 (decimal 64262)
+)
+Now handling font encoding T1 ...
+... processing UTF-8 mapping file for font encoding T1
+ (/usr/share/texmf-dist/tex/latex/base/t1enc.dfu
+File: t1enc.dfu 2022/06/07 v1.3c UTF-8 support
+   defining Unicode char U+00A0 (decimal 160)
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00AD (decimal 173)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C4 (decimal 196)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00C7 (decimal 199)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CB (decimal 203)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00CE (decimal 206)
+   defining Unicode char U+00CF (decimal 207)
+   defining Unicode char U+00D0 (decimal 208)
+   defining Unicode char U+00D1 (decimal 209)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D6 (decimal 214)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DB (decimal 219)
+   defining Unicode char U+00DC (decimal 220)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00DE (decimal 222)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E4 (decimal 228)
+   defining Unicode char U+00E5 (decimal 229)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00E7 (decimal 231)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EB (decimal 235)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F0 (decimal 240)
+   defining Unicode char U+00F1 (decimal 241)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F6 (decimal 246)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FB (decimal 251)
+   defining Unicode char U+00FC (decimal 252)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+00FE (decimal 254)
+   defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0100 (decimal 256)
+   defining Unicode char U+0101 (decimal 257)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0104 (decimal 260)
+   defining Unicode char U+0105 (decimal 261)
+   defining Unicode char U+0106 (decimal 262)
+   defining Unicode char U+0107 (decimal 263)
+   defining Unicode char U+0108 (decimal 264)
+   defining Unicode char U+0109 (decimal 265)
+   defining Unicode char U+010A (decimal 266)
+   defining Unicode char U+010B (decimal 267)
+   defining Unicode char U+010C (decimal 268)
+   defining Unicode char U+010D (decimal 269)
+   defining Unicode char U+010E (decimal 270)
+   defining Unicode char U+010F (decimal 271)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0112 (decimal 274)
+   defining Unicode char U+0113 (decimal 275)
+   defining Unicode char U+0114 (decimal 276)
+   defining Unicode char U+0115 (decimal 277)
+   defining Unicode char U+0116 (decimal 278)
+   defining Unicode char U+0117 (decimal 279)
+   defining Unicode char U+0118 (decimal 280)
+   defining Unicode char U+0119 (decimal 281)
+   defining Unicode char U+011A (decimal 282)
+   defining Unicode char U+011B (decimal 283)
+   defining Unicode char U+011C (decimal 284)
+   defining Unicode char U+011D (decimal 285)
+   defining Unicode char U+011E (decimal 286)
+   defining Unicode char U+011F (decimal 287)
+   defining Unicode char U+0120 (decimal 288)
+   defining Unicode char U+0121 (decimal 289)
+   defining Unicode char U+0122 (decimal 290)
+   defining Unicode char U+0123 (decimal 291)
+   defining Unicode char U+0124 (decimal 292)
+   defining Unicode char U+0125 (decimal 293)
+   defining Unicode char U+0128 (decimal 296)
+   defining Unicode char U+0129 (decimal 297)
+   defining Unicode char U+012A (decimal 298)
+   defining Unicode char U+012B (decimal 299)
+   defining Unicode char U+012C (decimal 300)
+   defining Unicode char U+012D (decimal 301)
+   defining Unicode char U+012E (decimal 302)
+   defining Unicode char U+012F (decimal 303)
+   defining Unicode char U+0130 (decimal 304)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0132 (decimal 306)
+   defining Unicode char U+0133 (decimal 307)
+   defining Unicode char U+0134 (decimal 308)
+   defining Unicode char U+0135 (decimal 309)
+   defining Unicode char U+0136 (decimal 310)
+   defining Unicode char U+0137 (decimal 311)
+   defining Unicode char U+0139 (decimal 313)
+   defining Unicode char U+013A (decimal 314)
+   defining Unicode char U+013B (decimal 315)
+   defining Unicode char U+013C (decimal 316)
+   defining Unicode char U+013D (decimal 317)
+   defining Unicode char U+013E (decimal 318)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0143 (decimal 323)
+   defining Unicode char U+0144 (decimal 324)
+   defining Unicode char U+0145 (decimal 325)
+   defining Unicode char U+0146 (decimal 326)
+   defining Unicode char U+0147 (decimal 327)
+   defining Unicode char U+0148 (decimal 328)
+   defining Unicode char U+014A (decimal 330)
+   defining Unicode char U+014B (decimal 331)
+   defining Unicode char U+014C (decimal 332)
+   defining Unicode char U+014D (decimal 333)
+   defining Unicode char U+014E (decimal 334)
+   defining Unicode char U+014F (decimal 335)
+   defining Unicode char U+0150 (decimal 336)
+   defining Unicode char U+0151 (decimal 337)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0154 (decimal 340)
+   defining Unicode char U+0155 (decimal 341)
+   defining Unicode char U+0156 (decimal 342)
+   defining Unicode char U+0157 (decimal 343)
+   defining Unicode char U+0158 (decimal 344)
+   defining Unicode char U+0159 (decimal 345)
+   defining Unicode char U+015A (decimal 346)
+   defining Unicode char U+015B (decimal 347)
+   defining Unicode char U+015C (decimal 348)
+   defining Unicode char U+015D (decimal 349)
+   defining Unicode char U+015E (decimal 350)
+   defining Unicode char U+015F (decimal 351)
+   defining Unicode char U+0160 (decimal 352)
+   defining Unicode char U+0161 (decimal 353)
+   defining Unicode char U+0162 (decimal 354)
+   defining Unicode char U+0163 (decimal 355)
+   defining Unicode char U+0164 (decimal 356)
+   defining Unicode char U+0165 (decimal 357)
+   defining Unicode char U+0168 (decimal 360)
+   defining Unicode char U+0169 (decimal 361)
+   defining Unicode char U+016A (decimal 362)
+   defining Unicode char U+016B (decimal 363)
+   defining Unicode char U+016C (decimal 364)
+   defining Unicode char U+016D (decimal 365)
+   defining Unicode char U+016E (decimal 366)
+   defining Unicode char U+016F (decimal 367)
+   defining Unicode char U+0170 (decimal 368)
+   defining Unicode char U+0171 (decimal 369)
+   defining Unicode char U+0172 (decimal 370)
+   defining Unicode char U+0173 (decimal 371)
+   defining Unicode char U+0174 (decimal 372)
+   defining Unicode char U+0175 (decimal 373)
+   defining Unicode char U+0176 (decimal 374)
+   defining Unicode char U+0177 (decimal 375)
+   defining Unicode char U+0178 (decimal 376)
+   defining Unicode char U+0179 (decimal 377)
+   defining Unicode char U+017A (decimal 378)
+   defining Unicode char U+017B (decimal 379)
+   defining Unicode char U+017C (decimal 380)
+   defining Unicode char U+017D (decimal 381)
+   defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+01C4 (decimal 452)
+   defining Unicode char U+01C5 (decimal 453)
+   defining Unicode char U+01C6 (decimal 454)
+   defining Unicode char U+01C7 (decimal 455)
+   defining Unicode char U+01C8 (decimal 456)
+   defining Unicode char U+01C9 (decimal 457)
+   defining Unicode char U+01CA (decimal 458)
+   defining Unicode char U+01CB (decimal 459)
+   defining Unicode char U+01CC (decimal 460)
+   defining Unicode char U+01CD (decimal 461)
+   defining Unicode char U+01CE (decimal 462)
+   defining Unicode char U+01CF (decimal 463)
+   defining Unicode char U+01D0 (decimal 464)
+   defining Unicode char U+01D1 (decimal 465)
+   defining Unicode char U+01D2 (decimal 466)
+   defining Unicode char U+01D3 (decimal 467)
+   defining Unicode char U+01D4 (decimal 468)
+   defining Unicode char U+01E2 (decimal 482)
+   defining Unicode char U+01E3 (decimal 483)
+   defining Unicode char U+01E6 (decimal 486)
+   defining Unicode char U+01E7 (decimal 487)
+   defining Unicode char U+01E8 (decimal 488)
+   defining Unicode char U+01E9 (decimal 489)
+   defining Unicode char U+01EA (decimal 490)
+   defining Unicode char U+01EB (decimal 491)
+   defining Unicode char U+01F0 (decimal 496)
+   defining Unicode char U+01F4 (decimal 500)
+   defining Unicode char U+01F5 (decimal 501)
+   defining Unicode char U+0218 (decimal 536)
+   defining Unicode char U+0219 (decimal 537)
+   defining Unicode char U+021A (decimal 538)
+   defining Unicode char U+021B (decimal 539)
+   defining Unicode char U+0232 (decimal 562)
+   defining Unicode char U+0233 (decimal 563)
+   defining Unicode char U+0237 (decimal 567)
+   defining Unicode char U+02D9 (decimal 729)
+   defining Unicode char U+02DB (decimal 731)
+   defining Unicode char U+1E02 (decimal 7682)
+   defining Unicode char U+1E03 (decimal 7683)
+   defining Unicode char U+1E0D (decimal 7693)
+   defining Unicode char U+1E1E (decimal 7710)
+   defining Unicode char U+1E1F (decimal 7711)
+   defining Unicode char U+1E25 (decimal 7717)
+   defining Unicode char U+1E30 (decimal 7728)
+   defining Unicode char U+1E31 (decimal 7729)
+   defining Unicode char U+1E37 (decimal 7735)
+   defining Unicode char U+1E8E (decimal 7822)
+   defining Unicode char U+1E8F (decimal 7823)
+   defining Unicode char U+1E43 (decimal 7747)
+   defining Unicode char U+1E45 (decimal 7749)
+   defining Unicode char U+1E47 (decimal 7751)
+   defining Unicode char U+1E5B (decimal 7771)
+   defining Unicode char U+1E63 (decimal 7779)
+   defining Unicode char U+1E6D (decimal 7789)
+   defining Unicode char U+1E90 (decimal 7824)
+   defining Unicode char U+1E91 (decimal 7825)
+   defining Unicode char U+1E9E (decimal 7838)
+   defining Unicode char U+1EF2 (decimal 7922)
+   defining Unicode char U+1EF3 (decimal 7923)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2010 (decimal 8208)
+   defining Unicode char U+2011 (decimal 8209)
+   defining Unicode char U+2012 (decimal 8210)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2015 (decimal 8213)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+   defining Unicode char U+1E20 (decimal 7712)
+   defining Unicode char U+1E21 (decimal 7713)
+   defining Unicode char U+FB00 (decimal 64256)
+   defining Unicode char U+FB01 (decimal 64257)
+   defining Unicode char U+FB02 (decimal 64258)
+   defining Unicode char U+FB03 (decimal 64259)
+   defining Unicode char U+FB04 (decimal 64260)
+   defining Unicode char U+FB05 (decimal 64261)
+   defining Unicode char U+FB06 (decimal 64262)
+)
+Now handling font encoding TS1 ...
+... processing UTF-8 mapping file for font encoding TS1
+ (/usr/share/texmf-dist/tex/latex/base/ts1enc.dfu
+File: ts1enc.dfu 2022/06/07 v1.3c UTF-8 support
+   defining Unicode char U+00A2 (decimal 162)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00A4 (decimal 164)
+   defining Unicode char U+00A5 (decimal 165)
+   defining Unicode char U+00A6 (decimal 166)
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00A8 (decimal 168)
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AC (decimal 172)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00AF (decimal 175)
+   defining Unicode char U+00B0 (decimal 176)
+   defining Unicode char U+00B1 (decimal 177)
+   defining Unicode char U+00B2 (decimal 178)
+   defining Unicode char U+00B3 (decimal 179)
+   defining Unicode char U+00B4 (decimal 180)
+   defining Unicode char U+00B5 (decimal 181)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+00B9 (decimal 185)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+00BC (decimal 188)
+   defining Unicode char U+00BD (decimal 189)
+   defining Unicode char U+00BE (decimal 190)
+   defining Unicode char U+00D7 (decimal 215)
+   defining Unicode char U+00F7 (decimal 247)
+   defining Unicode char U+0192 (decimal 402)
+   defining Unicode char U+02C7 (decimal 711)
+   defining Unicode char U+02D8 (decimal 728)
+   defining Unicode char U+02DD (decimal 733)
+   defining Unicode char U+0E3F (decimal 3647)
+   defining Unicode char U+2016 (decimal 8214)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+203B (decimal 8251)
+   defining Unicode char U+203D (decimal 8253)
+   defining Unicode char U+2044 (decimal 8260)
+   defining Unicode char U+204E (decimal 8270)
+   defining Unicode char U+2052 (decimal 8274)
+   defining Unicode char U+20A1 (decimal 8353)
+   defining Unicode char U+20A4 (decimal 8356)
+   defining Unicode char U+20A6 (decimal 8358)
+   defining Unicode char U+20A9 (decimal 8361)
+   defining Unicode char U+20AB (decimal 8363)
+   defining Unicode char U+20AC (decimal 8364)
+   defining Unicode char U+20B1 (decimal 8369)
+   defining Unicode char U+2103 (decimal 8451)
+   defining Unicode char U+2116 (decimal 8470)
+   defining Unicode char U+2117 (decimal 8471)
+   defining Unicode char U+211E (decimal 8478)
+   defining Unicode char U+2120 (decimal 8480)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2126 (decimal 8486)
+   defining Unicode char U+2127 (decimal 8487)
+   defining Unicode char U+212E (decimal 8494)
+   defining Unicode char U+2190 (decimal 8592)
+   defining Unicode char U+2191 (decimal 8593)
+   defining Unicode char U+2192 (decimal 8594)
+   defining Unicode char U+2193 (decimal 8595)
+   defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+3008 (decimal 12296)
+   defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+3009 (decimal 12297)
+   defining Unicode char U+2422 (decimal 9250)
+   defining Unicode char U+25E6 (decimal 9702)
+   defining Unicode char U+25EF (decimal 9711)
+   defining Unicode char U+266A (decimal 9834)
+   defining Unicode char U+27E8 (decimal 10216)
+   defining Unicode char U+27E9 (decimal 10217)
+   defining Unicode char U+FEFF (decimal 65279)
+)
+Now handling font encoding OMX ...
+... no UTF-8 mapping file for font encoding OMX
+Now handling font encoding U ...
+... no UTF-8 mapping file for font encoding U
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+02C6 (decimal 710)
+   defining Unicode char U+02DC (decimal 732)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2026 (decimal 8230)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2423 (decimal 9251)
+   defining Unicode char U+FEFF (decimal 65279)
+))) (/usr/share/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks25
+) (/usr/share/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (/usr/share/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count274
+\Gm@cntv=\count275
+\c@Gm@tempcnt=\count276
+\Gm@bindingoffset=\dimen155
+\Gm@wd@mp=\dimen156
+\Gm@odd@mp=\dimen157
+\Gm@even@mp=\dimen158
+\Gm@layoutwidth=\dimen159
+\Gm@layoutheight=\dimen160
+\Gm@layouthoffset=\dimen161
+\Gm@layoutvoffset=\dimen162
+\Gm@dimlist=\toks26
+) (/usr/share/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 2023/07/04 v3.00 enumerate extensions (DPC)
+\@enLab=\toks27
+)
+\c@theorem=\count277
+ (/usr/share/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
+ (/usr/share/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+ (/usr/share/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+) (/usr/share/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
+Package xcolor Info: Model `RGB' extended on input line 1366.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
+) (/usr/share/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+) (/usr/share/texmf-dist/tex/latex/pgfplots/pgfplots.sty (/usr/share/texmf-dist/tex/generic/pgfplots/pgfplots.revision.tex)
+Package: pgfplots 2021/05/15 v1.18.1 Data Visualization (1.18.1)
+ (/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+)
+\Gin@req@height=\dimen163
+\Gin@req@width=\dimen164
+) (/usr/share/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (/usr/share/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty (/usr/share/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks28
+\pgfutil@tempdima=\dimen165
+\pgfutil@tempdimb=\dimen166
+) (/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box54
+) (/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex (/usr/share/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
+))
+Package: pgf 2023-01-15 v3.1.10 (3.1.10)
+ (/usr/share/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty (/usr/share/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty (/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
+ (/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks29
+\pgfkeys@temptoks=\toks30
+ (/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks31
+))
+\pgf@x=\dimen167
+\pgf@y=\dimen168
+\pgf@xa=\dimen169
+\pgf@ya=\dimen170
+\pgf@xb=\dimen171
+\pgf@yb=\dimen172
+\pgf@xc=\dimen173
+\pgf@yc=\dimen174
+\pgf@xd=\dimen175
+\pgf@yd=\dimen176
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count278
+\c@pgf@countb=\count279
+\c@pgf@countc=\count280
+\c@pgf@countd=\count281
+\t@pgf@toka=\toks32
+\t@pgf@tokb=\toks33
+\t@pgf@tokc=\toks34
+\pgf@sys@id@count=\count282
+ (/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
+)
+Driver file for pgf: pgfsys-pdftex.def
+ (/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
+ (/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
+))) (/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfsyssoftpath@smallbuffer@items=\count283
+\pgfsyssoftpath@bigbuffer@items=\count284
+) (/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
+ (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen177
+\pgfmath@count=\count285
+\pgfmath@box=\box55
+\pgfmath@toks=\toks35
+\pgfmath@stack@operand=\toks36
+\pgfmath@stack@operation=\toks37
+) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count286
+)) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfint.code.tex) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@picminx=\dimen178
+\pgf@picmaxx=\dimen179
+\pgf@picminy=\dimen180
+\pgf@picmaxy=\dimen181
+\pgf@pathminx=\dimen182
+\pgf@pathmaxx=\dimen183
+\pgf@pathminy=\dimen184
+\pgf@pathmaxy=\dimen185
+\pgf@xx=\dimen186
+\pgf@xy=\dimen187
+\pgf@yx=\dimen188
+\pgf@yy=\dimen189
+\pgf@zx=\dimen190
+\pgf@zy=\dimen191
+) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@path@lastx=\dimen192
+\pgf@path@lasty=\dimen193
+) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@shorten@end@additional=\dimen194
+\pgf@shorten@start@additional=\dimen195
+) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfpic=\box56
+\pgf@hbox=\box57
+\pgf@layerbox@main=\box58
+\pgf@picture@serial@count=\count287
+) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgflinewidth=\dimen196
+) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@pt@x=\dimen197
+\pgf@pt@y=\dimen198
+\pgf@pt@temp=\dimen199
+) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowsep=\dimen256
+) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@max=\dimen257
+\pgf@sys@shading@range@num=\count288
+\pgf@shadingcount=\count289
+) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfexternal@startupbox=\box59
+) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))) (/usr/share/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodeparttextbox=\box60
+) (/usr/share/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (/usr/share/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
+\pgf@nodesepstart=\dimen258
+\pgf@nodesepend=\dimen259
+) (/usr/share/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
+)) (/usr/share/texmf-dist/tex/latex/pgf/utilities/pgffor.sty (/usr/share/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty (/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)) (/usr/share/texmf-dist/tex/latex/pgf/math/pgfmath.sty (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)) (/usr/share/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
+\pgffor@iter=\dimen260
+\pgffor@skip=\dimen261
+\pgffor@stack=\toks38
+\pgffor@toks=\toks39
+)) (/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2023-01-15 v3.1.10 (3.1.10)
+ (/usr/share/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@plot@mark@count=\count290
+\pgfplotmarksize=\dimen262
+)
+\tikz@lastx=\dimen263
+\tikz@lasty=\dimen264
+\tikz@lastxsaved=\dimen265
+\tikz@lastysaved=\dimen266
+\tikz@lastmovetox=\dimen267
+\tikz@lastmovetoy=\dimen268
+\tikzleveldistance=\dimen269
+\tikzsiblingdistance=\dimen270
+\tikz@figbox=\box61
+\tikz@figbox@bg=\box62
+\tikz@tempbox=\box63
+\tikz@tempbox@bg=\box64
+\tikztreelevel=\count291
+\tikznumberofchildren=\count292
+\tikznumberofcurrentchild=\count293
+\tikz@fig@count=\count294
+ (/usr/share/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfmatrixcurrentrow=\count295
+\pgfmatrixcurrentcolumn=\count296
+\pgf@matrix@numberofcolumns=\count297
+)
+\tikz@expandcount=\count298
+ (/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))) (/usr/share/texmf-dist/tex/generic/pgfplots/pgfplots.code.tex (/usr/share/texmf-dist/tex/generic/pgfplots/pgfplotscore.code.tex
+\t@pgfplots@toka=\toks40
+\t@pgfplots@tokb=\toks41
+\t@pgfplots@tokc=\toks42
+\pgfplots@tmpa=\dimen271
+\c@pgfplots@coordindex=\count299
+\c@pgfplots@scanlineindex=\count300
+ (/usr/share/texmf-dist/tex/generic/pgfplots/sys/pgfplotssysgeneric.code.tex)) (/usr/share/texmf-dist/tex/generic/pgfplots/libs/pgfplotslibrary.code.tex) (/usr/share/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplotsoldpgfsupp_loader.code.tex (/usr/share/texmf-dist/tex/generic/pgf/libraries/pgflibraryfpu.code.tex)
+Package pgfplots: loading complementary utilities for your pgf version...
+\t@pgf@toka=\toks43
+\t@pgf@tokb=\toks44
+\t@pgf@tokc=\toks45
+(/usr/share/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplotsoldpgfsupp_pgfutil-common-lists.tex)) (/usr/share/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.code.tex (/usr/share/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsliststructure.code.tex) (/usr/share/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsliststructureext.code.tex) (/usr/share/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsarray.code.tex
+\c@pgfplotsarray@tmp=\count301
+) (/usr/share/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsmatrix.code.tex) (/usr/share/texmf-dist/tex/generic/pgfplots/numtable/pgfplotstableshared.code.tex
+\c@pgfplotstable@counta=\count302
+\t@pgfplotstable@a=\toks46
+) (/usr/share/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsdeque.code.tex) (/usr/share/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.code.tex (/usr/share/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.data.code.tex)) (/usr/share/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.verb.code.tex) (/usr/share/texmf-dist/tex/generic/pgfplots/libs/pgflibrarypgfplots.surfshading.code.tex
+\c@pgfplotslibrarysurf@no=\count303
+ (/usr/share/texmf-dist/tex/generic/pgfplots/sys/pgflibrarypgfplots.surfshading.pgfsys-pdftex.def))) (/usr/share/texmf-dist/tex/generic/pgfplots/util/pgfplotscolormap.code.tex (/usr/share/texmf-dist/tex/generic/pgfplots/util/pgfplotscolor.code.tex)) (/usr/share/texmf-dist/tex/generic/pgfplots/pgfplotsstackedplots.code.tex) (/usr/share/texmf-dist/tex/generic/pgfplots/pgfplotsplothandlers.code.tex (/usr/share/texmf-dist/tex/generic/pgfplots/pgfplotsmeshplothandler.code.tex (/usr/share/texmf-dist/tex/generic/pgfplots/pgfplotsmeshplotimage.code.tex))) (/usr/share/texmf-dist/tex/generic/pgfplots/pgfplots.scaling.code.tex) (/usr/share/texmf-dist/tex/generic/pgfplots/pgfplotscoordprocessing.code.tex) (/usr/share/texmf-dist/tex/generic/pgfplots/pgfplots.errorbars.code.tex) (/usr/share/texmf-dist/tex/generic/pgfplots/pgfplots.markers.code.tex) (/usr/share/texmf-dist/tex/generic/pgfplots/pgfplotsticks.code.tex) (/usr/share/texmf-dist/tex/generic/pgfplots/pgfplots.paths.code.tex) (/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.code.tex (/usr/share/texmf-dist/tex/generic/pgf/modules/pgfmoduledecorations.code.tex
+\pgfdecoratedcompleteddistance=\dimen272
+\pgfdecoratedremainingdistance=\dimen273
+\pgfdecoratedinputsegmentcompleteddistance=\dimen274
+\pgfdecoratedinputsegmentremainingdistance=\dimen275
+\pgf@decorate@distancetomove=\dimen276
+\pgf@decorate@repeatstate=\count304
+\pgfdecorationsegmentamplitude=\dimen277
+\pgfdecorationsegmentlength=\dimen278
+)
+\tikz@lib@dec@box=\box65
+) (/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.pathmorphing.code.tex (/usr/share/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.pathmorphing.code.tex)) (/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.pathreplacing.code.tex (/usr/share/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.pathreplacing.code.tex)) (/usr/share/texmf-dist/tex/generic/pgfplots/libs/tikzlibrarypgfplots.contourlua.code.tex)
+\pgfplots@numplots=\count305
+\pgfplots@xmin@reg=\dimen279
+\pgfplots@xmax@reg=\dimen280
+\pgfplots@ymin@reg=\dimen281
+\pgfplots@ymax@reg=\dimen282
+\pgfplots@zmin@reg=\dimen283
+\pgfplots@zmax@reg=\dimen284
+) (/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryplotmarks.code.tex
+File: tikzlibraryplotmarks.code.tex 2023-01-15 v3.1.10 (3.1.10)
+ (/usr/share/texmf-dist/tex/generic/pgf/libraries/pgflibraryplotmarks.code.tex
+File: pgflibraryplotmarks.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))) (/usr/share/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
+ (/usr/share/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+ (/usr/share/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen285
+\captionmargin=\dimen286
+\caption@leftmargin=\dimen287
+\caption@rightmargin=\dimen288
+\caption@width=\dimen289
+\caption@indent=\dimen290
+\caption@parindent=\dimen291
+\caption@hangindent=\dimen292
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count306
+\c@continuedfloat=\count307
+)
+Package caption Info: New subtype `subfigure' on input line 238.
+\c@subfigure=\count308
+Package caption Info: New subtype `subtable' on input line 238.
+\c@subtable=\count309
+) (/usr/share/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+ (/usr/share/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (/usr/share/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (/usr/share/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)) (/usr/share/texmf-dist/tex/latex/pythonhighlight/pythonhighlight.sty
+Package: pythonhighlight 2017/02/09 python code highlighting; provided by Olivier Verdier <olivier.verdier@gmail.com>
+ (/usr/share/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count310
+\lst@gtempboxa=\box66
+\lst@token=\toks47
+\lst@length=\count311
+\lst@currlwidth=\dimen293
+\lst@column=\count312
+\lst@pos=\count313
+\lst@lostspace=\dimen294
+\lst@width=\dimen295
+\lst@newlines=\count314
+\lst@lineno=\count315
+\lst@maxwidth=\dimen296
+ (/usr/share/texmf-dist/tex/latex/listings/lstpatch.sty
+File: lstpatch.sty 2024/02/21 1.10 (Carsten Heinz)
+) (/usr/share/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2024/02/21 1.10 (Carsten Heinz)
+\c@lstnumber=\count316
+\lst@skipnumbers=\count317
+\lst@framebox=\box67
+) (/usr/share/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2024/02/21 1.10 listings configuration
+))
+Package: listings 2024/02/21 1.10 (Carsten Heinz)
+) (/usr/share/texmf-dist/tex/latex/appendix/appendix.sty
+Package: appendix 2020/02/08 v1.2c extra appendix facilities
+\c@@pps=\count318
+\c@@ppsavesec=\count319
+\c@@ppsaveapp=\count320
+) (/usr/share/texmf-dist/tex/latex/arydshln/arydshln.sty
+Package: arydshln 2019/02/21 v1.76 
+\dashlinedash=\dimen297
+\dashlinegap=\dimen298
+\adl@box=\box68
+\adl@height=\dimen299
+\adl@heightsave=\dimen300
+\adl@depth=\dimen301
+\adl@depthsave=\dimen302
+\adl@finaldepth=\dimen303
+\adl@columns=\count321
+\adl@ncol=\count322
+\adl@currentcolumn=\count323
+\adl@currentcolumnsave=\count324
+\adl@totalheight=\count325
+\adl@totalheightsave=\count326
+\adl@dash=\count327
+\adl@gap=\count328
+\adl@cla=\count329
+\adl@clb=\count330
+\adl@everyvbox=\toks48
+\adl@LTpagetotal=\dimen304
+) (/usr/share/texmf-dist/tex/latex/physics/physics.sty
+Package: physics 
+ (/usr/share/texmf-dist/tex/latex/l3packages/xparse/xparse.sty (/usr/share/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2024-02-20 L3 programming layer (loader) 
+ (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count331
+\l__pdf_internal_box=\box69
+))
+Package: xparse 2024-02-18 L3 Experimental document command parser
+)) (/usr/share/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen305
+\lightrulewidth=\dimen306
+\cmidrulewidth=\dimen307
+\belowrulesep=\dimen308
+\belowbottomsep=\dimen309
+\aboverulesep=\dimen310
+\abovetopsep=\dimen311
+\cmidrulesep=\dimen312
+\cmidrulekern=\dimen313
+\defaultaddspace=\dimen314
+\@cmidla=\count332
+\@cmidlb=\count333
+\@aboverulesep=\dimen315
+\@belowrulesep=\dimen316
+\@thisruleclass=\count334
+\@lastruleclass=\count335
+\@thisrulewidth=\dimen317
+) (/usr/share/texmf-dist/tex/latex/adjustbox/adjustbox.sty
+Package: adjustbox 2022/10/17 v1.3a Adjusting TeX boxes (trim, clip, ...)
+ (/usr/share/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+ (/usr/share/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/usr/share/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks49
+\XKV@tempa@toks=\toks50
+)
+\XKV@depth=\count336
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) (/usr/share/texmf-dist/tex/latex/adjustbox/adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back-ends (calc, etex, pgfmath)
+) (/usr/share/texmf-dist/tex/latex/adjustbox/trimclip.sty
+Package: trimclip 2020/08/19 v1.2 Trim and clip general TeX material
+ (/usr/share/texmf-dist/tex/latex/collectbox/collectbox.sty
+Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
+\collectedbox=\box70
+)
+\tc@llx=\dimen318
+\tc@lly=\dimen319
+\tc@urx=\dimen320
+\tc@ury=\dimen321
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+ (/usr/share/texmf-dist/tex/latex/adjustbox/tc-pdftex.def
+File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen322
+\adjbox@Height=\dimen323
+\adjbox@Depth=\dimen324
+\adjbox@Totalheight=\dimen325
+\adjbox@pwidth=\dimen326
+\adjbox@pheight=\dimen327
+\adjbox@pdepth=\dimen328
+\adjbox@ptotalheight=\dimen329
+ (/usr/share/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
+\c@checkoddpage=\count337
+) (/usr/share/texmf-dist/tex/latex/varwidth/varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box71
+\sift@deathcycles=\count338
+\@vwid@loff=\dimen330
+\@vwid@roff=\dimen331
+)) (/usr/share/texmf-dist/tex/latex/mdframed/mdframed.sty
+Package: mdframed 2013/07/01 1.9b: mdframed
+ (/usr/share/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+ (/usr/share/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)) (/usr/share/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count339
+) (/usr/share/texmf-dist/tex/latex/zref/zref-abspage.sty
+Package: zref-abspage 2023-09-14 v2.35 Module abspage for zref (HO)
+ (/usr/share/texmf-dist/tex/latex/zref/zref-base.sty
+Package: zref-base 2023-09-14 v2.35 Module base for zref (HO)
+ (/usr/share/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (/usr/share/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+) (/usr/share/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+Package zref Info: New property list: main on input line 767.
+Package zref Info: New property: default on input line 768.
+Package zref Info: New property: page on input line 769.
+)
+\c@abspage=\count340
+Package zref Info: New property: abspage on input line 67.
+) (/usr/share/texmf-dist/tex/latex/needspace/needspace.sty
+Package: needspace 2010/09/12 v1.3d reserve vertical space
+)
+\mdf@templength=\skip55
+\c@mdf@globalstyle@cnt=\count341
+\mdf@skipabove@length=\skip56
+\mdf@skipbelow@length=\skip57
+\mdf@leftmargin@length=\skip58
+\mdf@rightmargin@length=\skip59
+\mdf@innerleftmargin@length=\skip60
+\mdf@innerrightmargin@length=\skip61
+\mdf@innertopmargin@length=\skip62
+\mdf@innerbottommargin@length=\skip63
+\mdf@splittopskip@length=\skip64
+\mdf@splitbottomskip@length=\skip65
+\mdf@outermargin@length=\skip66
+\mdf@innermargin@length=\skip67
+\mdf@linewidth@length=\skip68
+\mdf@innerlinewidth@length=\skip69
+\mdf@middlelinewidth@length=\skip70
+\mdf@outerlinewidth@length=\skip71
+\mdf@roundcorner@length=\skip72
+\mdf@footenotedistance@length=\skip73
+\mdf@userdefinedwidth@length=\skip74
+\mdf@needspace@length=\skip75
+\mdf@frametitleaboveskip@length=\skip76
+\mdf@frametitlebelowskip@length=\skip77
+\mdf@frametitlerulewidth@length=\skip78
+\mdf@frametitleleftmargin@length=\skip79
+\mdf@frametitlerightmargin@length=\skip80
+\mdf@shadowsize@length=\skip81
+\mdf@extratopheight@length=\skip82
+\mdf@subtitleabovelinewidth@length=\skip83
+\mdf@subtitlebelowlinewidth@length=\skip84
+\mdf@subtitleaboveskip@length=\skip85
+\mdf@subtitlebelowskip@length=\skip86
+\mdf@subtitleinneraboveskip@length=\skip87
+\mdf@subtitleinnerbelowskip@length=\skip88
+\mdf@subsubtitleabovelinewidth@length=\skip89
+\mdf@subsubtitlebelowlinewidth@length=\skip90
+\mdf@subsubtitleaboveskip@length=\skip91
+\mdf@subsubtitlebelowskip@length=\skip92
+\mdf@subsubtitleinneraboveskip@length=\skip93
+\mdf@subsubtitleinnerbelowskip@length=\skip94
+ (/usr/share/texmf-dist/tex/latex/mdframed/md-frame-0.mdf
+File: md-frame-0.mdf 2013/07/01\ 1.9b: md-frame-0
+)
+\mdf@frametitlebox=\box72
+\mdf@footnotebox=\box73
+\mdf@splitbox@one=\box74
+\mdf@splitbox@two=\box75
+\mdf@splitbox@save=\box76
+\mdfsplitboxwidth=\skip95
+\mdfsplitboxtotalwidth=\skip96
+\mdfsplitboxheight=\skip97
+\mdfsplitboxdepth=\skip98
+\mdfsplitboxtotalheight=\skip99
+\mdfframetitleboxwidth=\skip100
+\mdfframetitleboxtotalwidth=\skip101
+\mdfframetitleboxheight=\skip102
+\mdfframetitleboxdepth=\skip103
+\mdfframetitleboxtotalheight=\skip104
+\mdffootnoteboxwidth=\skip105
+\mdffootnoteboxtotalwidth=\skip106
+\mdffootnoteboxheight=\skip107
+\mdffootnoteboxdepth=\skip108
+\mdffootnoteboxtotalheight=\skip109
+\mdftotallinewidth=\skip110
+\mdfboundingboxwidth=\skip111
+\mdfboundingboxtotalwidth=\skip112
+\mdfboundingboxheight=\skip113
+\mdfboundingboxdepth=\skip114
+\mdfboundingboxtotalheight=\skip115
+\mdf@freevspace@length=\skip116
+\mdf@horizontalwidthofbox@length=\skip117
+\mdf@verticalmarginwhole@length=\skip118
+\mdf@horizontalspaceofbox=\skip119
+\mdfsubtitleheight=\skip120
+\mdfsubsubtitleheight=\skip121
+\c@mdfcountframes=\count342
+
+****** mdframed patching \endmdf@trivlist
+
+****** -- success******
+
+\mdf@envdepth=\count343
+\c@mdf@env@i=\count344
+\c@mdf@env@ii=\count345
+\c@mdf@zref@counter=\count346
+Package zref Info: New property: mdf@pagevalue on input line 895.
+) (/usr/share/texmf-dist/tex/latex/relsize/relsize.sty
+Package: relsize 2013/03/29 ver 4.1
+) (/usr/share/texmf-dist/tex/latex/esdiff/esdiff.sty
+Package: esdiff 
+) (/usr/share/texmf-dist/tex/latex/esint/esint.sty
+Package: esint 
+\symlargesymbolsA=\mathgroup4
+) (/usr/share/texmf-dist/tex/latex/xfrac/xfrac.sty
+Package: xfrac 2024-02-13 Split-level fractions
+ (/usr/share/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty (/usr/share/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate-2023-10-10.sty
+Package: xtemplate 2023-10-10 L3 Experimental prototype document functions
+\l__xtemplate_tmp_dim=\dimen332
+\l__xtemplate_tmp_int=\count347
+\l__xtemplate_tmp_muskip=\muskip17
+\l__xtemplate_tmp_skip=\skip122
+))
+\l__xfrac_slash_box=\box77
+\l__xfrac_tmp_box=\box78
+\l__xfrac_denominator_bot_sep_dim=\dimen333
+\l__xfrac_numerator_bot_sep_dim=\dimen334
+\l__xfrac_numerator_top_sep_dim=\dimen335
+\l__xfrac_slash_left_sep_dim=\dimen336
+\l__xfrac_slash_right_sep_dim=\dimen337
+\l__xfrac_slash_left_muskip=\muskip18
+\l__xfrac_slash_right_muskip=\muskip19
+
+Package xtemplate Info: Declaring object type 'xfrac' taking 3 argument(s) on
+(xtemplate)             line 98.
+
+) (/usr/share/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2024-01-20 v7.01h Hypertext links for LaTeX
+ (/usr/share/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (/usr/share/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (/usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+ (/usr/share/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (/usr/share/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count348
+)
+\@linkdim=\dimen338
+\Hy@linkcounter=\count349
+\Hy@pagecounter=\count350
+ (/usr/share/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2024-01-20 v7.01h Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (/usr/share/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count351
+ (/usr/share/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2024-01-20 v7.01h Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 4062.
+Package hyperref Info: Hyper figures OFF on input line 4179.
+Package hyperref Info: Link nesting OFF on input line 4184.
+Package hyperref Info: Hyper index ON on input line 4187.
+Package hyperref Info: Plain pages OFF on input line 4194.
+Package hyperref Info: Backreferencing OFF on input line 4199.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4446.
+\c@Hy@tempcnt=\count352
+ (/usr/share/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip20
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4784.
+\XeTeXLinkMargin=\dimen339
+ (/usr/share/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+)
+\Fld@menulength=\count353
+\Field@Width=\dimen340
+\Fld@charsize=\dimen341
+Package hyperref Info: Hyper figures OFF on input line 6063.
+Package hyperref Info: Link nesting OFF on input line 6068.
+Package hyperref Info: Hyper index ON on input line 6071.
+Package hyperref Info: backreferencing OFF on input line 6078.
+Package hyperref Info: Link coloring ON on input line 6081.
+Package hyperref Info: Link coloring with OCG OFF on input line 6088.
+Package hyperref Info: PDF/A mode OFF on input line 6093.
+ (/usr/share/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count354
+\c@Item=\count355
+\c@Hfootnote=\count356
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (/usr/share/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2024-01-20 v7.01h Hyperref driver for pdfTeX
+ (/usr/share/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
+with kernel methods
+)
+\HyAnn@Count=\count357
+\Fld@listcount=\count358
+\c@bookmark@seq@number=\count359
+ (/usr/share/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+ (/usr/share/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
+)
+\Hy@SectionHShift=\skip123
+) (/usr/share/texmf-dist/tex/latex/cleveref/cleveref.sty
+Package: cleveref 2018/03/27 v0.21.4 Intelligent cross-referencing
+Package cleveref Info: `hyperref' support loaded on input line 2370.
+LaTeX Info: Redefining \cref on input line 2370.
+LaTeX Info: Redefining \Cref on input line 2370.
+LaTeX Info: Redefining \crefrange on input line 2370.
+LaTeX Info: Redefining \Crefrange on input line 2370.
+LaTeX Info: Redefining \cpageref on input line 2370.
+LaTeX Info: Redefining \Cpageref on input line 2370.
+LaTeX Info: Redefining \cpagerefrange on input line 2370.
+LaTeX Info: Redefining \Cpagerefrange on input line 2370.
+LaTeX Info: Redefining \labelcref on input line 2370.
+LaTeX Info: Redefining \labelcpageref on input line 2370.
+Package cleveref Info: `listings' support loaded on input line 3131.
+Package cleveref Info: include cross-reference names in hyperlinks on input line 7836.
+Package cleveref Info: no abbreviation of names on input line 7852.
+Package cleveref Info: include cross-reference names in hyperlinks on input line 7852.
+) (/usr/share/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (/usr/share/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup5
+\symAMSb=\mathgroup6
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (/usr/share/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2023-11-06 v1.5v LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks51
+\verbatim@line=\toks52
+\verbatim@in@stream=\read3
+) (/usr/share/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen342
+\WF@size=\dimen343
+\c@WF@wrappedlines=\count360
+\WF@box=\box79
+\WF@everypar=\toks53
+Package: wrapfig 2003/01/31  v 3.6
+) (/usr/share/texmf-dist/tex/latex/lipsum/lipsum.sty (/usr/share/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2024-02-18 LaTeX2e option processing using LaTeX3 keys
+)
+Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
+\g__lipsum_par_int=\count361
+\l__lipsum_a_int=\count362
+\l__lipsum_b_int=\count363
+ (/usr/share/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex)) (/usr/share/texmf-dist/tex/latex/mathtools/mathtools.sty
+Package: mathtools 2024/03/11 v1.30 mathematical typesetting tools
+ (/usr/share/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count364
+\calc@Bcount=\count365
+\calc@Adimen=\dimen344
+\calc@Bdimen=\dimen345
+\calc@Askip=\skip124
+\calc@Bskip=\skip125
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count366
+\calc@Cskip=\skip126
+) (/usr/share/texmf-dist/tex/latex/mathtools/mhsetup.sty
+Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
+)
+\g_MT_multlinerow_int=\count367
+\l_MT_multwidth_dim=\dimen346
+\origjot=\skip127
+\l_MT_shortvdotswithinadjustabove_dim=\dimen347
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen348
+\l_MT_above_intertext_sep=\dimen349
+\l_MT_below_intertext_sep=\dimen350
+\l_MT_above_shortintertext_sep=\dimen351
+\l_MT_below_shortintertext_sep=\dimen352
+\xmathstrut@box=\box80
+\xmathstrut@dim=\dimen353
+) (/usr/share/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2024/02/07 v24.2 The Babel package
+\babel@savecnt=\count368
+\U@D=\dimen354
+\l@unhyphenated=\language33
+ (/usr/share/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read4
+\bbl@dirlevel=\count369
+ (/usr/share/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'british' set to \l@english
+(babel)             (\language0). Reported on input line 82.
+Package babel Info: Hyphen rules for 'UKenglish' set to \l@english
+(babel)             (\language0). Reported on input line 83.
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@english
+(babel)             (\language0). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@english
+(babel)             (\language0). Reported on input line 108.
+)) (/usr/share/texmf-dist/tex/generic/babel/locale/en/babel-english.tex
+Package babel Info: Importing font and identification data for english
+(babel)             from babel-en.ini. Reported on input line 11.
+) (/usr/share/texmf-dist/tex/latex/cancel/cancel.sty
+Package: cancel 2013/04/12 v2.2 Cancel math terms
+) (/usr/share/texmf-dist/tex/latex/mhchem/mhchem.sty
+Package: mhchem 2024/01/29 v4.10 for typesetting chemical formulae
+ (/usr/share/texmf-dist/tex/latex/chemgreek/chemgreek.sty
+Package: chemgreek 2020/01/16 v1.1a interface for upright Greek letters for use in chemistry (CN)
+\l__chemgreek_tmpa_int=\count370
+\g__chemgreek_tmpa_int=\count371
+)
+\l__mhchem_ce_distanceFromLastComma_int=\count372
+\__mhchem_arrow_extPgfLength_skip=\skip128
+\mhchem@minispace@tmp=\skip129
+\mhchem@minibackspace@tmp=\skip130
+\mhchem@bondwidth=\skip131
+\mhchem@bondheight=\skip132
+\mhchem@smallbondwidth@tmpA=\skip133
+\mhchem@smallbondwidth@tmpB=\skip134
+\mhchem@smallbondwidth=\skip135
+\mhchem@bondtmp@minussidebearingleft=\skip136
+\mhchem@bondtmp@minussidebearingright=\skip137
+\l__mhchem_option_version_int=\count373
+\mhchem@option@minusmathsidebearingleft=\dimen355
+\mhchem@option@minusmathsidebearingright=\dimen356
+\mhchem@option@minustextsidebearingleft=\dimen357
+\mhchem@option@minustextsidebearingright=\dimen358
+
+
+Package mhchem Warning: You did not specify a 'version' option for the mhchem
+(mhchem)                package. Please write \usepackage[version=4]{mhchem}
+(mhchem)                in your preamble (or any lower number for
+(mhchem)                compatibility mode), because you might get slightly
+(mhchem)                different output with the same input in future versions.
+
+) (/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/out/test.aux)
+\openout1 = `test.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(108.405pt, 397.485pt, 108.405pt)
+* v-part:(T,H,B)=(108.405pt, 578.15999pt, 108.405pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=397.485pt
+* \textheight=578.15999pt
+* \oddsidemargin=36.13501pt
+* \evensidemargin=36.13501pt
+* \topmargin=-0.86499pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count374
+\scratchdimen=\dimen359
+\scratchbox=\box81
+\nofMPsegments=\count375
+\nofMParguments=\count376
+\everyMPshowfont=\toks54
+\MPscratchCnt=\count377
+\MPscratchDim=\dimen360
+\MPnumerator=\count378
+\makeMPintoPDFobject=\count379
+\everyMPtoPDFconversion=\toks55
+) (/usr/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+Package pgfplots notification 'compat/show suggested version=true': document has been generated with the most recent feature set (\pgfplotsset{compat=1.18}).
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: wrapfig package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\c@lstlisting=\count380
+Package hyperref Info: Link coloring ON on input line 65.
+(/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/out/test.out) (/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/out/test.out)
+\@outlinefile=\write4
+\openout4 = `test.out'.
+
+
+Package chemgreek Info: Activating mapping `default' on line 65.
+
+LaTeX Font Info:    Trying to load font information for U+esint on input line 67.
+ (/usr/share/texmf-dist/tex/latex/esint/uesint.fd
+File: uesint.fd 
+)
+LaTeX Font Info:    Trying to load font information for U+msa on input line 67.
+ (/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 67.
+ (/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) (/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/out/test.toc [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}])
+\tf@toc=\write5
+\openout5 = `test.toc'.
+
+ [2]
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:102: LaTeX Error: Unicode character ⋅ (U+22C5)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.102 ...ery dense. Carries all the mass. $2.7 ⋅
+                                                   10^{14}$ times denser tha...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+[3{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
+<nucleon_mass_table.png, id=367, 1115.16624pt x 427.5975pt>
+File: nucleon_mass_table.png Graphic file (type png)
+<use nucleon_mass_table.png>
+Package pdftex.def Info: nucleon_mass_table.png  used on input line 154.
+(pdftex.def)             Requested size: 397.485pt x 152.40822pt.
+ [4] [5 <./nucleon_mass_table.png>]
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:181: LaTeX Error: Unicode character λ (U+03BB)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.181 ...using the de Broglie wavelength where $λ
+                                                   = h / p$ with $λ ≤ 10$fm.
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:181: LaTeX Error: Unicode character λ (U+03BB)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.181 ...ie wavelength where $λ = h / p$ with $λ
+                                                   ≤ 10$fm.
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:181: LaTeX Error: Unicode character ≤ (U+2264)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.181 ...avelength where $λ = h / p$ with $λ ≤
+                                                   10$fm.
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:190: LaTeX Error: Unicode character π (U+03C0)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.190     \frac{A}{\frac{4}{3}πR^3}
+                                     ≈ \text{const}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:190: LaTeX Error: Unicode character ≈ (U+2248)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.190     \frac{A}{\frac{4}{3}πR^3} ≈
+                                         \text{const}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:194: LaTeX Error: Unicode character ≈ (U+2248)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.194     R = R_0A^{1/3} \quad , \quad  R_0 ≈
+                                                1.2 \text{ fm}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+<electron_scattering_angles.png, id=388, 1773.62625pt x 1060.96375pt>
+File: electron_scattering_angles.png Graphic file (type png)
+<use electron_scattering_angles.png>
+Package pdftex.def Info: electron_scattering_angles.png  used on input line 202.
+(pdftex.def)             Requested size: 397.485pt x 237.76758pt.
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:207: LaTeX Error: Unicode character θ (U+03B8)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.207 \sin θ
+              = \frac{1.22λ}{d} ⇒ R = \frac{d}{2} = \frac{1.22λ}{2\sin θ}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:207: LaTeX Error: Unicode character λ (U+03BB)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.207 \sin θ = \frac{1.22λ}{d}
+                                 ⇒ R = \frac{d}{2} = \frac{1.22λ}{2\sin θ}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:207: LaTeX Error: Unicode character ⇒ (U+21D2)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.207 \sin θ = \frac{1.22λ}{d} ⇒
+                                     R = \frac{d}{2} = \frac{1.22λ}{2\sin θ}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:207: LaTeX Error: Unicode character λ (U+03BB)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.207 ...R = \frac{d}{2} = \frac{1.22λ}{2\sin θ}
+                                                  
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:207: LaTeX Error: Unicode character θ (U+03B8)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.207 ...R = \frac{d}{2} = \frac{1.22λ}{2\sin θ}
+                                                  
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+[6]
+<deflection_spectrometer.png, id=397, 505.89pt x 364.36125pt>
+File: deflection_spectrometer.png Graphic file (type png)
+<use deflection_spectrometer.png>
+Package pdftex.def Info: deflection_spectrometer.png  used on input line 240.
+(pdftex.def)             Requested size: 198.7425pt x 143.14552pt.
+ [7 <./electron_scattering_angles.png>]
+
+LaTeX Warning: Command \texttimes invalid in math mode on input line 254.
+
+
+LaTeX Warning: Command \texttimes invalid in math mode on input line 254.
+
+Missing character: There is no � in font cmr10!
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:261: LaTeX Error: Unicode character ⇒ (U+21D2)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.261 F_E = F_B ⇒
+                    qE = qvB ⇒ v = \frac{E}{B_1}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:261: LaTeX Error: Unicode character ⇒ (U+21D2)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.261 F_E = F_B ⇒ qE = qvB ⇒
+                                 v = \frac{E}{B_1}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:271: LaTeX Error: Unicode character ρ (U+03C1)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.271 \frac{m}{q} = \frac{B_2ρ}{v}
+                                   
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:273: LaTeX Error: Unicode character ρ (U+03C1)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.273 The radius of the circle is given by $r = ρ
+                                                  $. Setting $B_1 = B_2$ giv...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:275: LaTeX Error: Unicode character ρ (U+03C1)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.275 m = \frac{B_1 B_2 ρ}{E}
+                               = \frac{B^2 ρq}{E}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:275: LaTeX Error: Unicode character ρ (U+03C1)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.275 m = \frac{B_1 B_2 ρ}{E} = \frac{B^2 ρq}{E}
+                                                  
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+[8 <./deflection_spectrometer.png>]
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:282: LaTeX Error: Unicode character Δ (U+0394)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.282     \item The accuracy is about $Δ
+                                         m / m = 10^{6-}$, but that is not e...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:296: LaTeX Error: Unicode character ⇒ (U+21D2)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.296 ...leus}} = \text{Binding Energy}  \quad ⇒
+                                                   \quad Zm_p + Nm_n > M_{\t...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:303: LaTeX Error: Unicode character ∑ (U+2211)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.303 ..._e - \underbrace{∑_{i=1}^{Z} B_i / c^2}
+                                                  _{\text{Often negligible}}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+[9]
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:332: LaTeX Error: Unicode character ⇒ (U+21D2)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.332 ...^2\right] = u931.5\text{MeV /}u \quad ⇒
+                                                   \quad c^2 = 931.5 \text{M...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:344: LaTeX Error: Unicode character ⋅ (U+22C5)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.344 \end{align}
+                 
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:344: LaTeX Error: Unicode character ⋅ (U+22C5)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.344 \end{align}
+                 
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:344: LaTeX Error: Unicode character ⋅ (U+22C5)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.344 \end{align}
+                 
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:344: LaTeX Error: Unicode character ⋅ (U+22C5)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.344 \end{align}
+                 
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:344: LaTeX Error: Unicode character ⋅ (U+22C5)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.344 \end{align}
+                 
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:344: LaTeX Error: Unicode character ⋅ (U+22C5)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.344 \end{align}
+                 
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:344: LaTeX Error: Unicode character ⋅ (U+22C5)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.344 \end{align}
+                 
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:344: LaTeX Error: Unicode character ⋅ (U+22C5)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.344 \end{align}
+                 
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+[10]
+<BE_per_nucleon.png, id=449, 837.1275pt x 731.73375pt>
+File: BE_per_nucleon.png Graphic file (type png)
+<use BE_per_nucleon.png>
+Package pdftex.def Info: BE_per_nucleon.png  used on input line 380.
+(pdftex.def)             Requested size: 298.11374pt x 260.57678pt.
+ [11 <./BE_per_nucleon.png>]
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:393: LaTeX Error: Unicode character δ (U+03B4)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.393 ... - a_{\text{asym}}\frac{(A-2Z)^2}{A} + δ
+                                                  
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:397: LaTeX Error: Unicode character π (U+03C0)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.397 ...s approximated to a sphere $\left(V = 4π
+                                                  R^3/3\right)$. This domina...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:399: LaTeX Error: Unicode character ≈ (U+2248)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.399     a_v ≈
+                  15.8 \text{ MeV}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:402: LaTeX Error: Unicode character π (U+03C0)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.402 ...The binding energy is proportional to $π
+                                                  R^2$
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:404: LaTeX Error: Unicode character ≈ (U+2248)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.404     a_s ≈
+                  16.8 \text{ MeV}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:408: LaTeX Error: Unicode character ≈ (U+2248)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.408     a_c ≈
+                  0.72 \text{ MeV}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:412: LaTeX Error: Unicode character ≈ (U+2248)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.412     a_{\text{asym}} ≈
+                              23 \text{ MeV}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:415: LaTeX Error: Unicode character δ (U+03B4)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.415     \item $\mathbf{δ}
+                            $: \textbf{Pairing term}. This term is not inclu...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:417: LaTeX Error: Unicode character δ (U+03B4)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.417     δ
+             =  \begin{cases}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:424: LaTeX Error: Unicode character ≈ (U+2248)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.424     a_p ≈
+                  34 \text{ MeV}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+[12]
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:434: LaTeX Error: Unicode character δ (U+03B4)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.434 ...brace{a_{\text{asym}}(A-2Z)^2A^{-1} + δ}
+                                                  _{\text{Interactions betwe...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+<SEMF_term_addition.png, id=472, 1388.18625pt x 614.295pt>
+File: SEMF_term_addition.png Graphic file (type png)
+<use SEMF_term_addition.png>
+Package pdftex.def Info: SEMF_term_addition.png  used on input line 438.
+(pdftex.def)             Requested size: 397.485pt x 175.89137pt.
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:456: LaTeX Error: Unicode character ∂ (U+2202)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.456 \end{align}
+                 
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:456: LaTeX Error: Unicode character ∂ (U+2202)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.456 \end{align}
+                 
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:456: LaTeX Error: Unicode character ∂ (U+2202)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.456 \end{align}
+                 
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:456: LaTeX Error: Unicode character ∂ (U+2202)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.456 \end{align}
+                 
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:459: LaTeX Error: Unicode character ≈ (U+2248)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.459 Z_{\text{min}} ≈
+                         \frac{A}{2} \frac{1}{1 + \frac{1}{4}A^{2/3}a_c / a_...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:459: LaTeX Error: Unicode character ≈ (U+2248)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.459 ...{sym}}} \quad , \quad  a_{\text{sym}} ≈
+                                                   23 \text{ MeV} \ , \ a_c ...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:459: LaTeX Error: Unicode character ≈ (U+2248)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.459 ...xt{sym}} ≈ 23 \text{ MeV} \ , \ a_c ≈
+                                                   0.72 \text{ MeV}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+[13 <./SEMF_term_addition.png>]
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:465: LaTeX Error: Unicode character ≈ (U+2248)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.465 Z_{\text{min}} ≈
+                         5 \quad \text{ and } \quad  \frac{Z_{\text{min}}}{A...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:465: LaTeX Error: Unicode character ≈ (U+2248)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.465 ...and } \quad  \frac{Z_{\text{min}}}{A} ≈
+                                                   0.5
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:471: LaTeX Error: Unicode character ≈ (U+2248)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.471 Z_{\text{min}} ≈
+                         79 \quad \text{ and } \quad  \frac{Z_{\text{min}}}{...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:471: LaTeX Error: Unicode character ≈ (U+2248)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.471 ...and } \quad  \frac{Z_{\text{min}}}{A} ≈
+                                                   0.4
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+<valley_beta_stability.png, id=488, 876.27374pt x 587.19376pt>
+File: valley_beta_stability.png Graphic file (type png)
+<use valley_beta_stability.png>
+Package pdftex.def Info: valley_beta_stability.png  used on input line 483.
+(pdftex.def)             Requested size: 238.49342pt x 159.80777pt.
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:490: LaTeX Error: Unicode character β (U+03B2)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.490     \item $β
+                   +$: Proton rich nuclei decay by converting a proton into ...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+[14 <./valley_beta_stability.png>]
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:491: LaTeX Error: Unicode character β (U+03B2)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.491     \item $β
+                   -$: Neutron rich nuclei decay by converting a neutron int...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+<bet_decay_chart.png, id=499, 984.67876pt x 678.535pt>
+File: bet_decay_chart.png Graphic file (type png)
+<use bet_decay_chart.png>
+Package pdftex.def Info: bet_decay_chart.png  used on input line 495.
+(pdftex.def)             Requested size: 397.485pt x 273.9044pt.
+[15 <./bet_decay_chart.png>]
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:517: LaTeX Error: Unicode character ℏ (U+210F)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.517     \end{align}
+                     
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:517: LaTeX Error: Unicode character ℏ (U+210F)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.517     \end{align}
+                     
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:517: LaTeX Error: Unicode character ∈ (U+2208)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.517     \end{align}
+                     
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:517: LaTeX Error: Unicode character ℏ (U+210F)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.517     \end{align}
+                     
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:517: LaTeX Error: Unicode character ℏ (U+210F)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.517     \end{align}
+                     
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:517: LaTeX Error: Unicode character ∈ (U+2208)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.517     \end{align}
+                     
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+<angular_momentum_sphere.png, id=507, 433.62pt x 357.335pt>
+File: angular_momentum_sphere.png Graphic file (type png)
+<use angular_momentum_sphere.png>
+Package pdftex.def Info: angular_momentum_sphere.png  used on input line 521.
+(pdftex.def)             Requested size: 298.11374pt x 245.6781pt.
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:535: LaTeX Error: Unicode character ℏ (U+210F)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.535     \end{align}
+                     
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:535: LaTeX Error: Unicode character ℏ (U+210F)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.535     \end{align}
+                     
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:535: LaTeX Error: Unicode character ∈ (U+2208)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.535     \end{align}
+                     
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:535: LaTeX Error: Unicode character ℏ (U+210F)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.535     \end{align}
+                     
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:535: LaTeX Error: Unicode character ℏ (U+210F)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.535     \end{align}
+                     
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:535: LaTeX Error: Unicode character ∈ (U+2208)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.535     \end{align}
+                     
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+<spin_direction.png, id=509, 973.6375pt x 677.53125pt>
+File: spin_direction.png Graphic file (type png)
+<use spin_direction.png>
+Package pdftex.def Info: spin_direction.png  used on input line 540.
+(pdftex.def)             Requested size: 298.11374pt x 207.44794pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[16 <./angular_momentum_sphere.png>] [17 <./spin_direction.png>]
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:554: LaTeX Error: Unicode character ℏ (U+210F)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.554     \end{align}
+                     
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:554: LaTeX Error: Unicode character ℏ (U+210F)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.554     \end{align}
+                     
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:554: LaTeX Error: Unicode character ∈ (U+2208)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.554     \end{align}
+                     
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+LaTeX Warning: Command \textpm invalid in math mode on input line 554.
+
+
+LaTeX Warning: Command \textpm invalid in math mode on input line 554.
+
+Missing character: There is no � in font cmr10!
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:554: LaTeX Error: Unicode character ℏ (U+210F)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.554     \end{align}
+                     
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:554: LaTeX Error: Unicode character ℏ (U+210F)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.554     \end{align}
+                     
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:554: LaTeX Error: Unicode character ∈ (U+2208)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.554     \end{align}
+                     
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+LaTeX Warning: Command \textpm invalid in math mode on input line 554.
+
+
+LaTeX Warning: Command \textpm invalid in math mode on input line 554.
+
+Missing character: There is no � in font cmr10!
+<total_angular_momentum_visualized.png, id=525, 1368.11125pt x 832.10875pt>
+File: total_angular_momentum_visualized.png Graphic file (type png)
+<use total_angular_momentum_visualized.png>
+Package pdftex.def Info: total_angular_momentum_visualized.png  used on input line 558.
+(pdftex.def)             Requested size: 298.11374pt x 181.3123pt.
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:571: LaTeX Error: Unicode character ℏ (U+210F)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.571     \end{align}
+                     
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:571: LaTeX Error: Unicode character ℏ (U+210F)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.571     \end{align}
+                     
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:571: LaTeX Error: Unicode character ∈ (U+2208)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.571     \end{align}
+                     
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:571: LaTeX Error: Unicode character ℏ (U+210F)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.571     \end{align}
+                     
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:571: LaTeX Error: Unicode character ℏ (U+210F)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.571     \end{align}
+                     
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:571: LaTeX Error: Unicode character ∈ (U+2208)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.571     \end{align}
+                     
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+LaTeX Warning: Command \textrightarrow invalid in math mode on input line 578.
+
+
+LaTeX Warning: Command \textrightarrow invalid in math mode on input line 578.
+
+[18 <./total_angular_momentum_visualized.png>]
+
+LaTeX Warning: Command \textrightarrow invalid in math mode on input line 580.
+
+
+LaTeX Warning: Command \textrightarrow invalid in math mode on input line 580.
+
+
+LaTeX Warning: Command \textrightarrow invalid in math mode on input line 581.
+
+
+LaTeX Warning: Command \textrightarrow invalid in math mode on input line 581.
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:581: LaTeX Error: Unicode character π (U+03C0)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.581 ...tem Spherical coordinates: $r → (-r, π
+                                                  -θ, φ + π)$.
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:581: LaTeX Error: Unicode character θ (U+03B8)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.581 ... Spherical coordinates: $r → (-r, π-θ
+                                                  , φ + π)$.
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:581: LaTeX Error: Unicode character φ (U+03C6)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.581 ...erical coordinates: $r → (-r, π-θ, φ
+                                                   + π)$.
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:581: LaTeX Error: Unicode character π (U+03C0)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.581 ...l coordinates: $r → (-r, π-θ, φ + π
+                                                  )$.
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:584: LaTeX Error: Unicode character ψ (U+03C8)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.584         \item Even parity (+): $\hat{P}ψ
+                                               (\vec{r}) = ψ(\vec{r})$.
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:584: LaTeX Error: Unicode character ψ (U+03C8)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.584 ...Even parity (+): $\hat{P}ψ(\vec{r}) = ψ
+                                                  (\vec{r})$.
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:585: LaTeX Error: Unicode character ψ (U+03C8)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.585         \item Odd parity (-): $\hat{P}ψ
+                                              (\vec{r}) = -ψ(\vec{r})$.
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:585: LaTeX Error: Unicode character ψ (U+03C8)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.585 ...Odd parity (-): $\hat{P}ψ(\vec{r}) = -ψ
+                                                  (\vec{r})$.
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:586: LaTeX Error: Unicode character ψ (U+03C8)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.586 ...mmetric around the origin. This means $ψ
+                                                  (-r) = ψ(r)$ or $ψ(-r) =...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:586: LaTeX Error: Unicode character ψ (U+03C8)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.586 ...round the origin. This means $ψ(-r) = ψ
+                                                  (r)$ or $ψ(-r) = -ψ(r)$.
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:586: LaTeX Error: Unicode character ψ (U+03C8)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.586 ...rigin. This means $ψ(-r) = ψ(r)$ or $ψ
+                                                  (-r) = -ψ(r)$.
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:586: LaTeX Error: Unicode character ψ (U+03C8)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.586 ...s means $ψ(-r) = ψ(r)$ or $ψ(-r) = -ψ
+                                                  (r)$.
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+<even_vs_odd_function.png, id=538, 1208.515pt x 464.73625pt>
+File: even_vs_odd_function.png Graphic file (type png)
+<use even_vs_odd_function.png>
+Package pdftex.def Info: even_vs_odd_function.png  used on input line 590.
+(pdftex.def)             Requested size: 298.11374pt x 114.63786pt.
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:603: LaTeX Error: Unicode character Ψ (U+03A8)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.603     \end{align}
+                     
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:603: LaTeX Error: Unicode character φ (U+03C6)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.603     \end{align}
+                     
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:603: LaTeX Error: Unicode character φ (U+03C6)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.603     \end{align}
+                     
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:603: LaTeX Error: Unicode character θ (U+03B8)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.603     \end{align}
+                     
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:603: LaTeX Error: Unicode character ϕ (U+03D5)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.603     \end{align}
+                     
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:603: LaTeX Error: Unicode character Ψ (U+03A8)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.603     \end{align}
+                     
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:603: LaTeX Error: Unicode character φ (U+03C6)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.603     \end{align}
+                     
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:603: LaTeX Error: Unicode character φ (U+03C6)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.603     \end{align}
+                     
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:603: LaTeX Error: Unicode character θ (U+03B8)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.603     \end{align}
+                     
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:603: LaTeX Error: Unicode character ϕ (U+03D5)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.603     \end{align}
+                     
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:606: LaTeX Error: Unicode character π (U+03C0)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.606     π
+            (-1)^{l}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:608: LaTeX Error: Unicode character π (U+03C0)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.608 ...he intrinsic parity of the nucleon is $π
+                                                   = +1$, because they are f...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:608: LaTeX Error: Unicode character π (U+03C0)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.608 ...s. Anti-fermions (like positron) have $π
+                                                   = -1$.
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:611: LaTeX Error: Unicode character π (U+03C0)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.611       π
+              _{\text{total}} = (-1)^{L}π_1π_2π_3 \ldots \quad , \quad  L...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:611: LaTeX Error: Unicode character π (U+03C0)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.611       π_{\text{total}} = (-1)^{L}π
+                                          _1π_2π_3 \ldots \quad , \quad  L...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:611: LaTeX Error: Unicode character π (U+03C0)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.611       π_{\text{total}} = (-1)^{L}π_1π
+                                              _2π_3 \ldots \quad , \quad  L...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:611: Double subscript.
+l.611       π_{\text{total}} = (-1)^{L}π_1π_
+                                               2π_3 \ldots \quad , \quad  L...
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:611: LaTeX Error: Unicode character π (U+03C0)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.611       π_{\text{total}} = (-1)^{L}π_1π_2π
+                                                  _3 \ldots \quad , \quad  L...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:611: Double subscript.
+l.611 ...  π_{\text{total}} = (-1)^{L}π_1π_2π_
+                                                  3 \ldots \quad , \quad  L ...
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+[19 <./even_vs_odd_function.png>]
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:635: LaTeX Error: Unicode character ∈ (U+2208)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.635 Allowed values are $L ∈
+                                {0,2}$ with a parity of $(-1)^{L}$. A dipole...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:637: LaTeX Error: Unicode character ⋅ (U+22C5)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.637 ... is just the charge of the nucleus $Z ⋅
+                                                   e$.
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:648: LaTeX Error: Unicode character μ (U+03BC)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.648   \left|\vec{μ}
+                      \right| = \frac{e}{2πr / v} πr^2 = \frac{e}{2m}\left...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:648: LaTeX Error: Unicode character μ (U+03BC)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.648   \left|\vec{μ}
+                      \right| = \frac{e}{2πr / v} πr^2 = \frac{e}{2m}\left...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:648: LaTeX Error: Unicode character π (U+03C0)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.648   \left|\vec{μ}\right| = \frac{e}{2πr / v}
+                                                   πr^2 = \frac{e}{2m}\left...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:648: LaTeX Error: Unicode character π (U+03C0)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.648 ...t|\vec{μ}\right| = \frac{e}{2πr / v} π
+                                                  r^2 = \frac{e}{2m}\left|\v...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:652: LaTeX Error: Unicode character μ (U+03BC)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.652   μ
+           = \frac{eℏ}{2m}l
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:652: LaTeX Error: Unicode character ℏ (U+210F)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.652   μ = \frac{eℏ}{2m}
+                            l
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:658: LaTeX Error: Unicode character μ (U+03BC)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.658 \end{align}
+                 
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:658: LaTeX Error: Unicode character ℏ (U+210F)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.658 \end{align}
+                 
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:658: LaTeX Error: Unicode character ⋅ (U+22C5)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.658 \end{align}
+                 
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:658: LaTeX Error: Unicode character μ (U+03BC)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.658 \end{align}
+                 
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:658: LaTeX Error: Unicode character ℏ (U+210F)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.658 \end{align}
+                 
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:658: LaTeX Error: Unicode character ⋅ (U+22C5)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.658 \end{align}
+                 
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:662: LaTeX Error: Unicode character μ (U+03BC)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.662 \end{align}
+                 
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:662: LaTeX Error: Unicode character ℏ (U+210F)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.662 \end{align}
+                 
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:662: LaTeX Error: Unicode character ⋅ (U+22C5)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.662 \end{align}
+                 
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:662: LaTeX Error: Unicode character μ (U+03BC)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.662 \end{align}
+                 
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:662: LaTeX Error: Unicode character ℏ (U+210F)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.662 \end{align}
+                 
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:662: LaTeX Error: Unicode character ⋅ (U+22C5)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.662 \end{align}
+                 
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+[20]
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:664: LaTeX Error: Unicode character μ (U+03BC)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.664 As $μ
+            _{B} ≫ μ_{N}$, the nuclear magnetic moment plays much smaller...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:664: LaTeX Error: Unicode character ≫ (U+226B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.664 As $μ_{B} ≫
+                     μ_{N}$, the nuclear magnetic moment plays much smaller...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:664: LaTeX Error: Unicode character μ (U+03BC)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.664 As $μ_{B} ≫ μ
+                       _{N}$, the nuclear magnetic moment plays much smaller...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:664: Double subscript.
+l.664 As $μ_{B} ≫ μ_
+                        {N}$, the nuclear magnetic moment plays much smaller...
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:670: LaTeX Error: Unicode character μ (U+03BC)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.670 ...ns is caused by their orbital motion. $μ
+                                                   = g_l μ_{N}l$.
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:670: LaTeX Error: Unicode character μ (U+03BC)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.670 ...sed by their orbital motion. $μ = g_l μ
+                                                  _{N}l$.
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:670: Double subscript.
+l.670 ...ed by their orbital motion. $μ = g_l μ_
+                                                  {N}l$.
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:677: LaTeX Error: Unicode character μ (U+03BC)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.677 ...the nucleons is caused by their spin. $μ
+                                                   = g_s μ_{N}s$.
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:677: LaTeX Error: Unicode character μ (U+03BC)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.677 ...ons is caused by their spin. $μ = g_s μ
+                                                  _{N}s$.
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:677: Double subscript.
+l.677 ...ns is caused by their spin. $μ = g_s μ_
+                                                  {N}s$.
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+
+LaTeX Warning: Command \textpm invalid in math mode on input line 679.
+
+
+LaTeX Warning: Command \textpm invalid in math mode on input line 679.
+
+Missing character: There is no � in font cmr10!
+
+LaTeX Warning: Command \textpm invalid in math mode on input line 680.
+
+
+LaTeX Warning: Command \textpm invalid in math mode on input line 680.
+
+Missing character: There is no � in font cmr10!
+<nuclear_magnetic_dipole_samples.png, id=560, 746.79pt x 424.58624pt>
+File: nuclear_magnetic_dipole_samples.png Graphic file (type png)
+<use nuclear_magnetic_dipole_samples.png>
+Package pdftex.def Info: nuclear_magnetic_dipole_samples.png  used on input line 692.
+(pdftex.def)             Requested size: 298.11374pt x 169.48811pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:702: LaTeX Error: Unicode character ∫ (U+222B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.702   eQ = e ∫
+                   ψ^{*}(3z^2 - r^2)ψ \ \mathrm{d}v
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:702: LaTeX Error: Unicode character ψ (U+03C8)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.702   eQ = e ∫ ψ
+                     ^{*}(3z^2 - r^2)ψ \ \mathrm{d}v
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:702: LaTeX Error: Unicode character ψ (U+03C8)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.702   eQ = e ∫ ψ^{*}(3z^2 - r^2)ψ
+                                        \ \mathrm{d}v
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+<nucleus_shape_E2.png, id=562, 433.62pt x 357.335pt>
+File: nucleus_shape_E2.png Graphic file (type png)
+<use nucleus_shape_E2.png>
+Package pdftex.def Info: nucleus_shape_E2.png  used on input line 707.
+(pdftex.def)             Requested size: 198.7425pt x 163.78177pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:714: LaTeX Error: Unicode character π (U+03C0)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.714 ...all nucleons are fermions, the parity $π
+                                                  $ of the orbital is $(-1)^...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+[21]
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:716: LaTeX Error: Unicode character π (U+03C0)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.716 ...all nucleons are fermions, the parity $π
+                                                  $ of the orbital is $(-1)^...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+[22 <./nuclear_magnetic_dipole_samples.png> <./nucleus_shape_E2.png>]
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:720: LaTeX Error: Unicode character ≤ (U+2264)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.720 ... even-$N$ nuclei in the interval $150 ≤
+                                                   A ≤ 190$.
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:720: LaTeX Error: Unicode character ≤ (U+2264)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.720 ...$N$ nuclei in the interval $150 ≤ A ≤
+                                                   190$.
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+<nuclei_excitation_levels_comparison.png, id=577, 1040.88875pt x 701.62125pt>
+File: nuclei_excitation_levels_comparison.png Graphic file (type png)
+<use nuclei_excitation_levels_comparison.png>
+Package pdftex.def Info: nuclei_excitation_levels_comparison.png  used on input line 724.
+(pdftex.def)             Requested size: 298.11374pt x 200.93835pt.
+<mirror_nuclei_excitation_levels_comparison.png, id=579, 807.015pt x 960.58875pt>
+File: mirror_nuclei_excitation_levels_comparison.png Graphic file (type png)
+<use mirror_nuclei_excitation_levels_comparison.png>
+Package pdftex.def Info: mirror_nuclei_excitation_levels_comparison.png  used on input line 741.
+(pdftex.def)             Requested size: 198.7425pt x 236.55553pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[23 <./nuclei_excitation_levels_comparison.png>]
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:751: LaTeX Error: Unicode character α (U+03B1)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.751 ...}, would be quadratic and not linear $(α
+                                                  _vA)$
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+LaTeX Warning: Command \textrightarrow invalid in math mode on input line 771.
+
+
+LaTeX Warning: Command \textrightarrow invalid in math mode on input line 771.
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:771: LaTeX Error: Unicode character γ (U+03B3)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.771     \end{align}
+                     
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:771: LaTeX Error: Unicode character γ (U+03B3)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.771     \end{align}
+                     
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:771: LaTeX Error: Unicode character ≈ (U+2248)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.771     \end{align}
+                     
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+LaTeX Warning: Command \textrightarrow invalid in math mode on input line 771.
+
+
+LaTeX Warning: Command \textrightarrow invalid in math mode on input line 771.
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:771: LaTeX Error: Unicode character γ (U+03B3)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.771     \end{align}
+                     
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:771: LaTeX Error: Unicode character γ (U+03B3)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.771     \end{align}
+                     
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:771: LaTeX Error: Unicode character ≈ (U+2248)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.771     \end{align}
+                     
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+[24 <./mirror_nuclei_excitation_levels_comparison.png>]
+<deuteron_potential.png, id=596, 771.88374pt x 810.02625pt>
+File: deuteron_potential.png Graphic file (type png)
+<use deuteron_potential.png>
+Package pdftex.def Info: deuteron_potential.png  used on input line 787.
+(pdftex.def)             Requested size: 198.7425pt x 208.56245pt.
+ [25 <./deuteron_potential.png>]
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:800: LaTeX Error: Unicode character π (U+03C0)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.800 ... This is a positive parity state with $π
+                                                   = (-1)^{l} = 1$. We then ...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/test.tex:800: LaTeX Error: Unicode character π (U+03C0)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.800 ...h $π = (-1)^{l} = 1$. We then get $I^{π
+                                                  }$
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+[26]
+
+LaTeX Warning: Command \textpm invalid in math mode on input line 845.
+
+
+LaTeX Warning: Command \textpm invalid in math mode on input line 845.
+
+Missing character: There is no � in font cmr7!
+<SM_particles.png, id=622, 5304.81876pt x 3583.3875pt>
+File: SM_particles.png Graphic file (type png)
+<use SM_particles.png>
+Package pdftex.def Info: SM_particles.png  used on input line 857.
+(pdftex.def)             Requested size: 357.73407pt x 241.62216pt.
+[27 <./SM_particles.png (PNG copy)>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\new@ifnextchar' on input line 882.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 882.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 882.
+
+<feynman_diagram_vertices.png, id=628, 766.865pt x 903.375pt>
+File: feynman_diagram_vertices.png Graphic file (type png)
+<use feynman_diagram_vertices.png>
+Package pdftex.def Info: feynman_diagram_vertices.png  used on input line 885.
+(pdftex.def)             Requested size: 397.485pt x 468.24142pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[28] [29 <./feynman_diagram_vertices.png>] (/home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/out/test.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-02-20>
+ ***********
+Package rerunfilecheck Info: File `test.out' has not changed.
+(rerunfilecheck)             Checksum: 538327DC1C55BE468E1856516F5BFB8E;11836.
+ ) 
+Here is how much of TeX's memory you used:
+ 42464 strings out of 475476
+ 944321 string characters out of 5777762
+ 1946187 words of memory out of 5000000
+ 63716 multiletter control sequences out of 15000+600000
+ 567634 words of font info for 77 fonts, out of 8000000 for 9000
+ 350 hyphenation exceptions out of 8191
+ 99i,20n,101p,784b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
+Output written on /home/oskar/repos/courses/FYS3500-ParticlePhysics/LectureNotes/out/test.pdf (29 pages, 3676230 bytes).
+PDF statistics:
+ 753 PDF objects out of 1000 (max. 8388607)
+ 663 compressed objects within 7 object streams
+ 208 named destinations out of 1000 (max. 500000)
+ 639 words of extra memory for PDF output out of 10000 (max. 10000000)
+

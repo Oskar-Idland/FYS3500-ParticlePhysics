@@ -27,14 +27,15 @@
 \usepackage{fixltx2e}
 \usepackage{esint}  %for lukket-linje-integral
 \usepackage{xfrac} %for sfrac
-\usepackage[colorlinks=true]{hyperref} %for linker, må ha med hypersetup
-\usepackage[noabbrev, nameinlink]{cleveref} % to be loaded after hyperref
+% \usepackage[colorlinks=true, pdfencoding=auto, psdectra]{hyperref} %for linker, må ha med hypersetup
+\usepackage[capitalise,nameinlink]{cleveref} % to be loaded after hyperref
 \usepackage{amssymb} %\mathbb{R} for reelle tall, \mathcal{B} for "matte"-font
 \usepackage{listings} %for kode/lstlisting
 \usepackage{verbatim}
 \usepackage{graphicx,wrapfig,lipsum,caption} %for wrapping av bilder
 \usepackage{mathtools} %for \abs{x}
 \usepackage{mhchem} %for kjemi
+\usepackage{scalerel}
 \usepackage[english]{babel}
 \definecolor{codegreen}{rgb}{0,0.6,0}
 \definecolor{codegray}{rgb}{0.5,0.5,0.5}
@@ -62,7 +63,6 @@
 \author{Oskar Idland}
 \title{FYS3500: Particle Physics \\ Lecture Notes}
 \date{}
-\usepackage{fancyhdr}
 \begin{document}
 \maketitle
 \tableofcontents
@@ -105,6 +105,8 @@
 \input{W20-2} %# 36
 \input{W21-1} %# 37
 \input{W21-2} %# 38
+
+
 
 
 \end{document}
