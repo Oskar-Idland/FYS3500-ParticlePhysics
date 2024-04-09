@@ -130,3 +130,20 @@
 \contentsline {subsection}{\numberline {16.3}Shell Model \cref {fig: shell_model_energy_levels}}{48}{}%
 \contentsline {subsubsection}{\numberline {16.3.1}Simplifying the Complex System to a Simple Model \cref {fig: central_pot_simplification}}{48}{}%
 \contentsline {subsubsection}{\numberline {16.3.2}Finding the Hamiltonian}{48}{}%
+\contentsline {section}{\numberline {17}Relativistic Kinematics}{49}{}%
+\contentsline {paragraph}{Example:}{50}{}%
+\contentsline {subsection}{\numberline {17.1}Four-Vectors}{50}{}%
+\contentsline {subsubsection}{\numberline {17.1.1}Dot product}{50}{}%
+\contentsline {subsubsection}{\numberline {17.1.2}Dot product in different reference frames}{50}{}%
+\contentsline {subsubsection}{\numberline {17.1.3}Attributes Summary}{50}{}%
+\contentsline {subsection}{\numberline {17.2}Four-Momentum Transfer}{51}{}%
+\contentsline {subsection}{\numberline {17.3}Invariant Mass of Virtual Photon}{51}{}%
+\contentsline {subsubsection}{\numberline {17.3.1}Fixed-Target Experiment}{51}{}%
+\contentsline {section}{\numberline {18}Particle Accelerators}{52}{}%
+\contentsline {subsection}{\numberline {18.1}Linear Accelerators}{52}{}%
+\contentsline {subsection}{\numberline {18.2}Cyclotrons}{52}{}%
+\contentsline {subsection}{\numberline {18.3}Focusing of Particles}{53}{}%
+\contentsline {subsection}{\numberline {18.4}Characteristics of Accelerators}{53}{}%
+\contentsline {subsection}{\numberline {18.5}Large Hadron Collider (LHC)}{53}{}%
+\contentsline {subsection}{\numberline {18.6}Particle Types}{53}{}%
+\contentsline {subsection}{\numberline {18.7}Limitations}{53}{}%
