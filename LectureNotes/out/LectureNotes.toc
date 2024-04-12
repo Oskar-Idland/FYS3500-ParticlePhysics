@@ -51,18 +51,18 @@
 \contentsline {subsubsection}{\numberline {6.2.1}Splitting the Wave Function}{21}{}%
 \contentsline {section}{\numberline {7}Electric and Magnetic Moments}{22}{}%
 \contentsline {subsection}{\numberline {7.1}Parity Selection Rules}{22}{}%
-\contentsline {subsubsection}{\numberline {7.1.1}}{22}{}%
-\contentsline {subsubsection}{\numberline {7.1.2}}{22}{}%
+\contentsline {subsubsection}{\numberline {7.1.1}Electric Dipole Moments $E_0$}{22}{}%
+\contentsline {subsubsection}{\numberline {7.1.2}Magnetic Dipole Moments $M_1$}{22}{}%
 \contentsline {subsection}{\numberline {7.2}Bohr Magneton \& Nuclear Magneton}{23}{}%
 \contentsline {subsection}{\numberline {7.3}Magnetic Moments of Nuclei}{23}{}%
 \contentsline {subsubsection}{\numberline {7.3.1}Nuclear Structure from Magnetic Moments}{23}{}%
-\contentsline {subsection}{\numberline {7.4}}{24}{}%
-\contentsline {subsection}{\numberline {7.5}Example: Calculating Parity of State}{25}{}%
-\contentsline {paragraph}{Case 1: Calculate the parity of two nucleons in the $p_{3 /2}$ orbital}{25}{}%
+\contentsline {subsection}{\numberline {7.4}Electric Quadrupole Moments $E_2$ \& Shape of the Nucleus}{24}{}%
+\contentsline {subsection}{\numberline {7.5}Example: Calculating Parity of State}{24}{}%
+\contentsline {paragraph}{Case 1: Calculate the parity of two nucleons in the $p_{3 /2}$ orbital}{24}{}%
 \contentsline {paragraph}{Case 2: Calculate the parity of two nucleons in the $g_{9 /2}$ orbital}{25}{}%
 \contentsline {subsection}{\numberline {7.6}Level Schemes \& Excited States}{25}{}%
 \contentsline {section}{\numberline {8}Nuclear Force}{25}{}%
-\contentsline {subsection}{\numberline {8.1}Effects of the Short Range of the Strong Force}{26}{}%
+\contentsline {subsection}{\numberline {8.1}Effects of the Short Range of the Strong Force}{25}{}%
 \contentsline {subsection}{\numberline {8.2}Deuteron}{26}{}%
 \contentsline {subsubsection}{\numberline {8.2.1}Deuteron Binding Energy}{26}{}%
 \contentsline {subsubsection}{\numberline {8.2.2}Nucleon-Nucleon Potential}{27}{}%
@@ -147,3 +147,35 @@
 \contentsline {subsection}{\numberline {18.5}Large Hadron Collider (LHC)}{53}{}%
 \contentsline {subsection}{\numberline {18.6}Particle Types}{53}{}%
 \contentsline {subsection}{\numberline {18.7}Limitations}{53}{}%
+\contentsline {section}{\numberline {19}Neutrino Mixing Continued}{54}{}%
+\contentsline {subsection}{\numberline {19.1}Neutrino Mixing in Practice}{54}{}%
+\contentsline {subsection}{\numberline {19.2}Quark Mixing}{54}{}%
+\contentsline {subsubsection}{\numberline {19.2.1}Quark Number \& Flavour Conservation}{54}{}%
+\contentsline {subsection}{\numberline {19.3}Hadrons}{55}{}%
+\contentsline {subsection}{\numberline {19.4}Isospin}{55}{}%
+\contentsline {subsubsection}{\numberline {19.4.1}Isospin Doublet}{55}{}%
+\contentsline {subsection}{\numberline {19.5}Isospin Mathematics}{56}{}%
+\contentsline {subsubsection}{\numberline {19.5.1}Isospin of Deuteron}{56}{}%
+\contentsline {paragraph}{Proton:}{56}{}%
+\contentsline {paragraph}{Neutron:}{56}{}%
+\contentsline {paragraph}{Deuteron:}{56}{}%
+\contentsline {subsubsection}{\numberline {19.5.2}Isospin of a Pion and nucleon}{56}{}%
+\contentsline {paragraph}{Solution 1:}{56}{}%
+\contentsline {paragraph}{Solution 2:}{56}{}%
+\contentsline {section}{\numberline {20}Spectroscopic Notation}{57}{}%
+\contentsline {subsection}{\numberline {20.1}Use-case Example: Deuteron}{57}{}%
+\contentsline {section}{\numberline {21}Quark Model}{57}{}%
+\contentsline {subsection}{\numberline {21.1}Hadron Spectroscopy}{57}{}%
+\contentsline {subsubsection}{\numberline {21.1.1}Mesons}{57}{}%
+\contentsline {subsubsection}{\numberline {21.1.2}Baryons}{58}{}%
+\contentsline {subsection}{\numberline {21.2}Intrinsic Parity of Hadrons}{58}{}%
+\contentsline {subsection}{\numberline {21.3}Charge Conjugation (particle $\leftrightarrow $ anti-particle)}{58}{}%
+\contentsline {subsubsection}{\numberline {21.3.1}C-parity of pion $π^{0}$}{59}{}%
+\contentsline {subsubsection}{\numberline {21.3.2}C-parity of $η$}{59}{}%
+\contentsline {subsubsection}{\numberline {21.3.3}C-parity of Spin-1/2 Fermions}{59}{}%
+\contentsline {subsection}{\numberline {21.4}Quantum Numbers}{59}{}%
+\contentsline {subsubsection}{\numberline {21.4.1}Hadrons With $C = \tilde {B} = T = 0$}{60}{}%
+\contentsline {paragraph}{Example: $Σ^{+}$}{61}{}%
+\contentsline {subsubsection}{\numberline {21.4.2}Light Baryon Multiplets $L_{12} = L_3 = 0$ (\cref {fig: light_baryon_multiplets})}{61}{}%
+\contentsline {subsubsection}{\numberline {21.4.3}Light Mesons Nonets (\cref {fig: light_mesons_nonets,fig: quark_content})}{61}{}%
+\contentsline {subsection}{\numberline {21.5}Baryon Quark-Spin Wave Functions}{61}{}%
