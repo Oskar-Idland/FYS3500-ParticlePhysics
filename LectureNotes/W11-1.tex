@@ -1,0 +1,55 @@
+\section{Shell Model Continued}
+\subsection{Predicting the Magic Numbers}
+\begin{itemize}
+    \item Separate the wave function into a radial and angular part.
+    \item Decide the form of the $U(r)$ potential. 
+    \item Solve the Hamiltonian.
+    \item Obtain single-particle energies $E_i$. This means the single-particle orbits. 
+    \item The location of the single-particle orbits should be such that finally the correct magic numbers are reproduced. 
+\end{itemize}
+
+\subsubsection{Separating the Wave Function}
+The angular dependance is independent of the radial distance from the central potential. The angular coordinates give the quantization conditions on $l$ and $m$, aka. $θ$ and $ϕ$
+\begin{equation}
+  Ψ_{nlm}(\vec{r}) = \frac{1}{r} R_{nl}(r) Y_{lm}(θ, ϕ)
+\end{equation}
+It is the radial part that gives the radial behavior and energies of the single-particle states. Solving the Schrödinger equation, we take into account the centrifugal force due to angular momentum.
+\begin{equation}
+  U = U(\vec{r}) + U_{\text{centrifugal}}
+\end{equation}
+\begin{equation}
+  U_{\text{centrifugal}} = ∫ mw^2 r \ \mathrm{d}r = \frac{l(l+1) \hbar^2}{2m r^2}
+\end{equation}
+The solution of the Schrödinger equation for the radial part using this potential gives energy levels $E_{nl}$. The higher the $n$, the higher the energies. If equal $n$, the highest $l$ has the highest energy.
+
+\subsubsection{Deciding the Form of the Potential}
+\paragraph{Harmonic Oscillator / Square Well Potential:}
+
+Solving the potential as an harmonic oscillator potential, gives energy levels $2, 8, 20, 40, 70$ and $112$. Only the the first three are actually magic numbers. We need some corrections. Using a square-well potential we can also produce some of the magic numbers, but not all. 
+
+\paragraph{Degeneracy:}
+The total number of states with the same energy is called the occupation number or total magnetic substance. This determines the total number of nucleons in each shell, and therefore the magic numbers. The total number is the number of possible spin-states and the number of possible angular momentum states. This gives: 
+\begin{equation}
+  m_{\text{total}} = m_s m_l = 2(2l+1)
+\end{equation}
+At the bottom, we have the $s$-state, with $l = 0 → m_l = 1$ and $m_s = 2$, giving $m_{\text{total}} = 2$, meaning only two nucleons can be in the $s$-state.
+
+\paragraph{Wood-Saxon Potential:} 
+This kind of potential works for the lowest magic numbers, but is still wrong. It adds a $l^2$ term which flattens the potential at the bottom. This is because it predicts larger orbits (having larger $l$) will be shifted towards the bottom. 
+
+\paragraph{Wood-Saxon Potential with Spin-Orbit Term:}
+The original Wood-Saxon potential is very close to a realistic model. Adding the spin-orbit term gives the correct magic numbers. 
+\begin{equation}
+  V(\vec{r}) = \frac{-V_0}{1 + \exp \left((r - R)/a\right)} - V_{ls}(r, \vec{l},\vec{s})
+\end{equation}
+When adding the spin-orbit term, we write the energy levels with a $j$-component, where $j = s + l$. The energy difference between the levels $ΔE_{ls}$ is given by:
+\begin{equation}
+    ΔE_{ls} = \frac{2l + 1}{2} ℏ^2 \left<V_{ls}\right>
+\end{equation}
+The higher the $l$, the lower the energy. This comes from $\left<V_{ls}\right>$ being negative. The total degeneracy is given by $2j + 1$. This is the new quantum number of interest as $l$ and $s$ can vary. 
+
+\subsection{Predictions of the Shell Model}
+\subsubsection{Ground State Spin-Parity of Even-Odd Nuclei}
+If we want to find the ground-state spin-parity of $\ce{_{}^{15}\text{O}_{}}$, we know by filling up each layer of protons and neutrons separately, that the last nucleon must be in the $1p_{1 / 2}$ shell. This gives $I = 1 / 2$ and parity $π = (-1)^I = -1$. The parity is then $\mathbf{I}^{π}_{gs} = 1 / 2 ^{-}$. 
+
+For $\ce{_{}^{}\text{17}_{}}$ we do the same, but here the last nucleon is in the $1d_{5 / 2}$ shell. This gives $I = 5 / 2$ with $π = +1$, resulting in $\mathbf{I}^{π}_{gs} = 5 / 2 ^{+}$.
