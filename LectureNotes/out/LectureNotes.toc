@@ -183,62 +183,97 @@
 \contentsline {subsubsection}{\numberline {21.6.1}Heavy Quarkonia}{65}{}%
 \contentsline {paragraph}{Potential:}{66}{}%
 \contentsline {subsubsection}{\numberline {21.6.2}Exotic Hadrons}{66}{}%
-\contentsline {section}{\numberline {22}List of Concepts}{66}{}%
-\contentsline {section}{\numberline {23}Quark Dynamics: The Strong Interaction}{67}{}%
-\contentsline {subsection}{\numberline {23.1}Quantum Chromodynamics (QCD)}{67}{}%
-\contentsline {subsubsection}{\numberline {23.1.1}Color Wavefunction}{68}{}%
-\contentsline {subsubsection}{\numberline {23.1.2}Color Confiment}{68}{}%
-\contentsline {subsubsection}{\numberline {23.1.3}Gluon Color-States}{68}{}%
-\contentsline {subsubsection}{\numberline {23.1.4}Confinemenet and Hadronization}{69}{}%
-\contentsline {subsubsection}{\numberline {23.1.5}Confiment and Asymptotic Freedom}{69}{}%
-\contentsline {subsection}{\numberline {23.2}Running Coupling Constant}{69}{}%
-\contentsline {subsubsection}{\numberline {23.2.1}Running $α_s(μ)$ and OZI Rule}{69}{}%
-\contentsline {section}{\numberline {24}Shell Model Continued}{70}{}%
-\contentsline {subsection}{\numberline {24.1}Predicting the Magic Numbers}{70}{}%
-\contentsline {subsubsection}{\numberline {24.1.1}Separating the Wave Function}{70}{}%
-\contentsline {subsubsection}{\numberline {24.1.2}Deciding the Form of the Potential}{70}{}%
+\contentsline {section}{\numberline {22}Quark Dynamics: The Strong Interaction}{66}{}%
+\contentsline {subsection}{\numberline {22.1}Quantum Chromodynamics (QCD)}{66}{}%
+\contentsline {subsubsection}{\numberline {22.1.1}Color Wavefunction}{67}{}%
+\contentsline {subsubsection}{\numberline {22.1.2}Color Confiment}{67}{}%
+\contentsline {subsubsection}{\numberline {22.1.3}Gluon Color-States}{68}{}%
+\contentsline {subsubsection}{\numberline {22.1.4}Confinemenet and Hadronization}{68}{}%
+\contentsline {subsubsection}{\numberline {22.1.5}Confiment and Asymptotic Freedom}{68}{}%
+\contentsline {subsection}{\numberline {22.2}Running Coupling Constant}{68}{}%
+\contentsline {subsubsection}{\numberline {22.2.1}Running $α_s(μ)$ and OZI Rule}{69}{}%
+\contentsline {section}{\numberline {23}Shell Model Continued}{69}{}%
+\contentsline {subsection}{\numberline {23.1}Predicting the Magic Numbers}{69}{}%
+\contentsline {subsubsection}{\numberline {23.1.1}Separating the Wave Function}{69}{}%
+\contentsline {subsubsection}{\numberline {23.1.2}Deciding the Form of the Potential}{70}{}%
 \contentsline {paragraph}{Harmonic Oscillator / Square Well Potential:}{70}{}%
-\contentsline {paragraph}{Degeneracy:}{71}{}%
-\contentsline {paragraph}{Wood-Saxon Potential:}{71}{}%
-\contentsline {paragraph}{Wood-Saxon Potential with Spin-Orbit Term:}{71}{}%
-\contentsline {subsection}{\numberline {24.2}Predictions of the Shell Model}{71}{}%
-\contentsline {subsubsection}{\numberline {24.2.1}Ground State Spin-Parity of Even-Odd Nuclei}{71}{}%
-\contentsline {subsubsection}{\numberline {24.2.2}Ground State Spin-Parity of Odd-Odd Nuclei}{72}{}%
-\contentsline {subsubsection}{\numberline {24.2.3}Ground State Spin-Parity of Even-Even Nuclei}{72}{}%
-\contentsline {section}{\numberline {25}Jets: Quarks and Gluons}{72}{}%
-\contentsline {subsection}{\numberline {25.1}Evidence for 3 Quark Colors}{72}{}%
-\contentsline {subsection}{\numberline {25.2}Di-jet Production at $p p$ (\cref {fig: di-jet_production})}{72}{}%
-\contentsline {subsubsection}{\numberline {25.2.1}Rapidity}{72}{}%
-\contentsline {subsubsection}{\numberline {25.2.2}Pseudorapidity}{73}{}%
-\contentsline {subsubsection}{\numberline {25.2.3}Transverse Momentum}{73}{}%
-\contentsline {subsection}{\numberline {25.3}Current and Constituent Quarks}{73}{}%
-\contentsline {section}{\numberline {26}Weak Interactions and Electroweak Unification}{73}{}%
-\contentsline {subsection}{\numberline {26.1}Low and High Energy Weak Interactions}{74}{}%
-\contentsline {subsection}{\numberline {26.2}Charged Weak Interactions}{74}{}%
-\contentsline {subsubsection}{\numberline {26.2.1}Basic Principles}{74}{}%
-\contentsline {subsection}{\numberline {26.3}Quark Mixing}{74}{}%
-\contentsline {subsubsection}{\numberline {26.3.1}Examples}{74}{}%
-\contentsline {paragraph}{Pion}{75}{}%
-\contentsline {paragraph}{Kaon}{75}{}%
-\contentsline {subsection}{\numberline {26.4}Leptonic $W^{\pm }$-decay}{75}{}%
-\contentsline {subsection}{\numberline {26.5}Cabibbo Suppression}{75}{}%
-\contentsline {paragraph}{Cabibbo allowed process:}{75}{}%
-\contentsline {paragraph}{Cabibbo suppressed process:}{75}{}%
-\contentsline {subsection}{\numberline {26.6}Charm Decays}{76}{}%
-\contentsline {subsubsection}{\numberline {26.6.1}Charmed Hadron Decays}{76}{}%
-\contentsline {subsection}{\numberline {26.7}Selection Rules for Charged Weak Decays}{76}{}%
-\contentsline {subsubsection}{\numberline {26.7.1}Selection rules applied to hadronic part of charged weak decays}{76}{}%
-\contentsline {subsubsection}{\numberline {26.7.2}Semi-Leptonic Charged Weak Decays (\cref {fig: semi-leptonic_charged_weak_decays})}{76}{}%
-\contentsline {subsubsection}{\numberline {26.7.3}Fully Hadronic Charged Weak Decays (\cref {fig: fully_hadronic_charged_weak_decays})}{77}{}%
-\contentsline {subsubsection}{\numberline {26.7.4}Summary}{77}{}%
-\contentsline {subsubsection}{\numberline {26.7.5}Consequence of Selection Rules}{77}{}%
-\contentsline {paragraph}{Example:}{77}{}%
-\contentsline {subsection}{\numberline {26.8}Three Generations}{78}{}%
-\contentsline {subsection}{\numberline {26.9}Part 1 Essentials}{78}{}%
-\contentsline {subsection}{\numberline {26.10}Electroweak Unification and the Higgs boson}{79}{}%
-\contentsline {subsubsection}{\numberline {26.10.1}Gauge Invariance}{79}{}%
-\contentsline {paragraph}{Definition:}{79}{}%
-\contentsline {paragraph}{Gauge Invariance and EM}{79}{}%
-\contentsline {subsubsection}{\numberline {26.10.2}Statndard Model Gauge Interactions}{79}{}%
-\contentsline {subsubsection}{\numberline {26.10.3}Electoweak Unification/Mixing}{80}{}%
-\contentsline {subsubsection}{\numberline {26.10.4}Other Predicitons}{80}{}%
+\contentsline {paragraph}{Degeneracy:}{70}{}%
+\contentsline {paragraph}{Wood-Saxon Potential:}{70}{}%
+\contentsline {paragraph}{Wood-Saxon Potential with Spin-Orbit Term:}{70}{}%
+\contentsline {subsection}{\numberline {23.2}Predictions of the Shell Model}{70}{}%
+\contentsline {subsubsection}{\numberline {23.2.1}Ground State Spin-Parity of Even-Odd Nuclei}{70}{}%
+\contentsline {subsubsection}{\numberline {23.2.2}Ground State Spin-Parity of Odd-Odd Nuclei}{71}{}%
+\contentsline {subsubsection}{\numberline {23.2.3}Ground State Spin-Parity of Even-Even Nuclei}{71}{}%
+\contentsline {section}{\numberline {24}Jets: Quarks and Gluons}{71}{}%
+\contentsline {subsection}{\numberline {24.1}Evidence for 3 Quark Colors}{71}{}%
+\contentsline {subsection}{\numberline {24.2}Di-jet Production at $p p$ (\cref {fig: di-jet_production})}{72}{}%
+\contentsline {subsubsection}{\numberline {24.2.1}Rapidity}{72}{}%
+\contentsline {subsubsection}{\numberline {24.2.2}Pseudorapidity}{72}{}%
+\contentsline {subsubsection}{\numberline {24.2.3}Transverse Momentum}{72}{}%
+\contentsline {subsection}{\numberline {24.3}Current and Constituent Quarks}{72}{}%
+\contentsline {section}{\numberline {25}Weak Interactions and Electroweak Unification}{72}{}%
+\contentsline {subsection}{\numberline {25.1}Low and High Energy Weak Interactions}{73}{}%
+\contentsline {subsection}{\numberline {25.2}Charged Weak Interactions}{73}{}%
+\contentsline {subsubsection}{\numberline {25.2.1}Basic Principles}{73}{}%
+\contentsline {subsection}{\numberline {25.3}Quark Mixing}{73}{}%
+\contentsline {subsubsection}{\numberline {25.3.1}Examples}{74}{}%
+\contentsline {paragraph}{Pion}{74}{}%
+\contentsline {paragraph}{Kaon}{74}{}%
+\contentsline {subsection}{\numberline {25.4}Leptonic $W^{\pm }$-decay}{74}{}%
+\contentsline {subsection}{\numberline {25.5}Cabibbo Suppression}{74}{}%
+\contentsline {paragraph}{Cabibbo allowed process:}{74}{}%
+\contentsline {paragraph}{Cabibbo suppressed process:}{74}{}%
+\contentsline {subsection}{\numberline {25.6}Charm Decays}{74}{}%
+\contentsline {subsubsection}{\numberline {25.6.1}Charmed Hadron Decays}{75}{}%
+\contentsline {subsection}{\numberline {25.7}Selection Rules for Charged Weak Decays}{75}{}%
+\contentsline {subsubsection}{\numberline {25.7.1}Selection rules applied to hadronic part of charged weak decays}{75}{}%
+\contentsline {subsubsection}{\numberline {25.7.2}Semi-Leptonic Charged Weak Decays (\cref {fig: semi-leptonic_charged_weak_decays})}{75}{}%
+\contentsline {subsubsection}{\numberline {25.7.3}Fully Hadronic Charged Weak Decays (\cref {fig: fully_hadronic_charged_weak_decays})}{76}{}%
+\contentsline {subsubsection}{\numberline {25.7.4}Summary}{76}{}%
+\contentsline {subsubsection}{\numberline {25.7.5}Consequence of Selection Rules}{76}{}%
+\contentsline {paragraph}{Example:}{76}{}%
+\contentsline {subsection}{\numberline {25.8}Three Generations}{77}{}%
+\contentsline {subsection}{\numberline {25.9}Part 1 Essentials}{77}{}%
+\contentsline {subsection}{\numberline {25.10}Electroweak Unification and the Higgs boson}{78}{}%
+\contentsline {subsubsection}{\numberline {25.10.1}Gauge Invariance}{78}{}%
+\contentsline {paragraph}{Definition:}{78}{}%
+\contentsline {paragraph}{Gauge Invariance and EM}{78}{}%
+\contentsline {subsubsection}{\numberline {25.10.2}Statndard Model Gauge Interactions}{78}{}%
+\contentsline {subsubsection}{\numberline {25.10.3}Electoweak Unification/Mixing}{79}{}%
+\contentsline {subsubsection}{\numberline {25.10.4}Other Predicitons}{79}{}%
+\contentsline {section}{\numberline {26}Radioactive Decay}{79}{}%
+\contentsline {subsection}{\numberline {26.1}Exponential Decay}{80}{}%
+\contentsline {subsubsection}{\numberline {26.1.1}The Law}{80}{}%
+\contentsline {subsubsection}{\numberline {26.1.2}Half-Life}{80}{}%
+\contentsline {subsubsection}{\numberline {26.1.3}Mean Lifetime}{80}{}%
+\contentsline {subsubsection}{\numberline {26.1.4}Activity}{80}{}%
+\contentsline {paragraph}{Units of Activity:}{81}{}%
+\contentsline {paragraph}{Important Note:}{81}{}%
+\contentsline {subsubsection}{\numberline {26.1.5}Measuring Short and Long Lifetimes and Activity}{81}{}%
+\contentsline {subsubsection}{\numberline {26.1.6}When the Decay Law Fails}{81}{}%
+\contentsline {subsection}{\numberline {26.2}Decay Options}{81}{}%
+\contentsline {subsection}{\numberline {26.3}Mixed Samples}{81}{}%
+\contentsline {subsection}{\numberline {26.4}Types of Radioactive Decay}{81}{}%
+\contentsline {paragraph}{$α$-Decay:}{81}{}%
+\contentsline {paragraph}{$β$-Decay:}{82}{}%
+\contentsline {paragraph}{$γ$-Decay:}{82}{}%
+\contentsline {subsubsection}{\numberline {26.4.1}Branching Ratios and Partial Half-Lives}{82}{}%
+\contentsline {subsubsection}{\numberline {26.4.2}Width-Lifetime Relation}{83}{}%
+\contentsline {paragraph}{Stationary State:}{83}{}%
+\contentsline {paragraph}{Non-Stationary State:}{83}{}%
+\contentsline {subsection}{\numberline {26.5}Alpha Decay}{83}{}%
+\contentsline {subsubsection}{\numberline {26.5.1}Energetics of Alpha Decay}{83}{}%
+\contentsline {subsubsection}{\numberline {26.5.2}$Q$-value and Half-life}{84}{}%
+\contentsline {subsubsection}{\numberline {26.5.3}$Q$ vs $A$ Systematics (\cref {fig: Q_v_A_systematics})}{84}{}%
+\contentsline {subsubsection}{\numberline {26.5.4}Theory of Alpha Decay}{85}{}%
+\contentsline {paragraph}{Classical View}{85}{}%
+\contentsline {paragraph}{Quantum Mechanical View}{85}{}%
+\contentsline {paragraph}{Example: $\ce {_{}^{235}\text {U}_{}}$}{85}{}%
+\contentsline {subsubsection}{\numberline {26.5.5}Spin and Parity in Alpha Decay}{86}{}%
+\contentsline {paragraph}{Example:}{86}{}%
+\contentsline {section}{\numberline {27}Weak Interactions and Electroweak Unification: Continued}{86}{}%
+\contentsline {subsection}{\numberline {27.1}$Z^{0} / γ$ Interactions}{86}{}%
+\contentsline {subsubsection}{\numberline {27.1.1}Electron-Antielectron to Neutrino-Antineutrino}{87}{}%
+\contentsline {subsection}{\numberline {27.2}BEH Mechanism}{87}{}%
+\contentsline {subsubsection}{\numberline {27.2.1}Higgs Boson Decays}{88}{}%
+\contentsline {subsubsection}{\numberline {27.2.2}Higgs Boson Experiment Summary}{88}{}%
