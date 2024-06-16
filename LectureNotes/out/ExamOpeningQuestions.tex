@@ -1,0 +1,392 @@
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{titlesec}
+% \usepackage[mathletters]{ucs}
+\usepackage{mathtools} %for \abs{x}
+\usepackage[warnings-off={mathtools-colon,mathtools-overbracket}]{unicode-math}
+% \setmainfont{TeX Gyre Schola}
+% \setmathfont{TeX Gyre Schola Math}
+% \usepackage[utf8x]{inputenc}
+\usepackage{fontenc}
+\usepackage[margin=1.5in]{geometry}
+\usepackage{enumerate}
+\newtheorem{theorem}{Theorem}
+\usepackage[dvipsnames]{xcolor}
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.18}
+\setlength{\parindent}{0cm}
+\usepackage{graphics}
+\usepackage{graphicx} % Required for including images
+\usepackage{subcaption}
+\usepackage{bigintcalc}
+\usepackage{pythonhighlight} %for pythonkode \begin{python}   \end{python}
+\usepackage{appendix}
+\usepackage{arydshln}
+\usepackage{physics}
+\usepackage{booktabs} 
+\usepackage{adjustbox}
+\usepackage{mdframed}
+\usepackage{relsize}
+\usepackage{physics}
+\usepackage[thinc]{esdiff}
+\usepackage{esint}  %for lukket-linje-integral
+\usepackage{xfrac} %for sfrac
+\usepackage[colorlinks=true,linktoc=page]{hyperref} %for linker, må ha med hypersetup
+\usepackage[noabbrev, nameinlink]{cleveref} % to be loaded after hyperref
+% \usepackage{amssymb} %\mathbb{R} for reelle tall, \mathcal{B} for "matte"-font
+\usepackage{listings} %for kode/lstlisting
+\usepackage{verbatim}
+\usepackage{graphicx,wrapfig,lipsum,caption} %for wrapping av bilder
+\usepackage[english]{babel}
+\usepackage{cancel}
+% \usepackage{alphabeta}
+\usepackage{mhchem} % for atom notasjon
+% \definecolor{codegreen}{rgb}{0,0.6,0}
+% \definecolor{codegray}{rgb}{0.5,0.5,0.5}
+% \definecolor{codepurple}{rgb}{0.58,0,0.82}
+% \definecolor{backcolour}{rgb}{0.95,0.95,0.92}
+% \lstdefinestyle{mystyle}{
+%     backgroundcolor=\color{backcolour},   
+%     commentstyle=\color{codegreen},
+%     keywordstyle=\color{magenta},
+%     numberstyle=\tiny\color{codegray},
+%     stringstyle=\color{codepurple},
+%     basicstyle=\ttfamily\footnotesize,
+%     breakatwhitespace=false,         
+%     breaklines=true,                 
+%     captionpos=b,                    
+%     keepspaces=true,                 
+%     numbers=left,                    
+%     numbersep=5pt,                  
+%     showspaces=false,                
+%     showstringspaces=false,
+%     showtabs=false,                  
+%     tabsize=2
+% }
+
+% \lstset{style=mystyle}
+
+\author{Oskar Idland}
+\title{Exam Opening Questions}
+\date{}
+\begin{document}
+% \tableofcontents
+\maketitle
+\newpage
+
+\section{TODO}
+\begin{enumerate}
+    \item Remaining questions (4 hours)
+   % \item QGP (1 hour)
+    \item Miscellaneous (< 1 hour)
+    \begin{enumerate}
+        \item Deep dive Higgs mechanism (30 min)
+        \item Yukawa potential (10 min)
+        \item Double check jets and find example (5 min)
+        \item Spin parity exercise (5 min)
+    \end{enumerate}
+\end{enumerate}
+
+\section{Nuclear}
+\subsection{Give an overview of the most important properties of the strong nuclear force. Discuss consequences of the different properties.}
+\begin{itemize}
+    \item The strong nuclear force, at very short ranges ($<1$fm) is repulsive. This stops the nucleons from merging in to one. At longer ranges, the force becomes attractive, and keeps the nucleus together. 
+    \item To be affected, one needs to have color charge. Electrons do not couple to the strong force.
+    \item The strong force is charge independent. 
+    \item Shooting positive alpha particles at the nucleus  
+\end{itemize}
+
+\subsection{Discuss the semi-empirical binding energy formula. Explain each of the terms, and discuss how they impact the stability of nuclei.}
+\begin{itemize}
+    \item The semi-empirical binding energy formula, is an experimentally derived formula for how much binding energy a nucleus configuration has. It is defined as follows:
+    \begin{equation}
+      B(Z,A) = α_{V} A - α_{S} A^{2/3} - α_{C} \frac{Z(Z-1)}{A^{1/3}} - α_{\text{sym}} \frac{(2Z-A)^2}{A} + δ
+    \end{equation} 
+    \item \textbf{Volume term:} $α_{V}A$ is the first term, and represent how the strong force attracts all nucleons. This is naturally a function of nucleon number $A$. 
+    \item \textbf{Surface term:} $α_{S}A^{2/3}$ is the second term and represent the fact that the strong force is short ranged, and that the nucleons at the surface experience less attraction from the nucleons far away. We must therefore subtract from the binding energy. 
+    \item \textbf{Coulomb term:} $α_{C} Z(Z-1)A^{-1/3}$ is the third term and represent the repulsive force felt between the protons. This is relatively long ranged, and each proton is repulsed by all the others. We must therefore correct for this. 
+    \item \textbf{Symmetry term:} $α_{\text{sym}}(2Z-A)^2A^{-1}$ is the fourth term and corrects for the fact that we know from experiment, that larger molecules, tend to have a more neutrons. This comes from the great radius these nuclei have, making the Coulomb force a bigger factor. This must be balanced out with more neutrons to make the distance greater, and adding attractive strong forces. 
+    \item \textbf{Pairing term:} $δ$ takes into account the pairing of the nucleons. For even-even nuclei, everything is paired up, and this makes it more stable giving a positive addition. Odd-Odd nuclei have an unpaired neutron and proton. As these particles are not identical, the Pauli exclusion principle does not come into play, and we have a triplet configuration. This has a negative contribution. For odd nuclei we have no contribution from the lone nucleon. 
+    \item The first three terms come from the liquid drop model, and the last two, from the interactions between nucleons.  
+\end{itemize}
+
+\subsection{Explain the principles behind the nuclear shell model, and describe experimental evidence for it.}
+\begin{itemize}
+    \item The principles borrows from how we model electrons, using levels $n$, shells $L$ and orbitals $j$ to describe how the nucleus organizes its nucleons. An orbital can only have two nucleons. We separate protons and neutrons to their own shells. 
+    \item When excited, we see the nucleon with the lowest energy-jump to the next gap, make that jump in to a higher shell. 
+    \item Experimental evidence would be how we notice local peaks in binding energy at magic numbers such as $N$ or $Z = 2, 4, 8, 20, 28$ etc. We also know that even-even numbers with these magic numbers for both protons and neutrons are extra stable, suggesting there is is a separate shell for neutrons and protons.  
+\end{itemize}
+
+
+
+
+\subsection{Give an overview of alpha decay.}
+\begin{itemize}
+    \item Alpha decay occurs mostly in the larger proton rich nuclei. This is the ejection of an alpha particle $\ce{_{}^{4}\text{H}_{}}$, as it is the only particle that can be emitted with a positive $Q$-value. A single proton would give a negative $Q$-value.
+    \item We can view this quantummechanicly, as the nucleus being full of alpha particles, with a escape attempt frequency $f$, and a escape probability $P$, resulting in a decay probability $λ = fP$. The higher the potential barrier, the lower the probability. Only through quantum tunneling can the alpha particle escape on the other side, with low enough potential. 
+\end{itemize}
+
+\subsection{Give an overview of gamma decay and explain how we find allowed multipole transitions between states.}
+\begin{itemize}
+    \item Almost all decays also emits gamma decays. All nucleons have their own "fingerprints" of gamma decay. 
+    \item As the photon has no mass or charge, the only thing lost is energy, perfect for lowering ones own energy states. 
+    \item Photons steals, energy, momentum (linear and angular) and parity.  odd
+    \item The charges in the nucleus oscillates and distribute randomly. This creates a radiation field. 
+    \item \textbf{Electric Dipole:} Created by two opposite charges, side by side. It has odd parity 
+    \item \textbf{Magnetic Dipole:} Created by charge moving in a circular ring. It has even parity
+    \item \textbf{Multipole Radiation:} Combinations of multiple dipoles in a grid or cube. The number of poles is $2^{L}$, where $L$ is the orbital angular momentum.  
+    \item Lower multipole decays are more probable. 
+    \item Of the same order, electric decays are more probable.  
+    \item Selection rules: 
+    \begin{itemize}
+        \item Conservation of angular momentum: $I_i = L + I_f → \left|I_i - I_f\right| ≤ L ≤ I_i + I_f$
+        \item Parity: $π(ML) = (-1)^{L+1}$ and $π(EL) = (-1)^{L}$
+        \item There is no $L = 0$.
+        \item If $Δπ = -$ we have odd $E$ and even $M$. 
+        \item If $Δπ = +$ we have even $E$ and odd $M$.  
+    \end{itemize} 
+    \item Example: 
+    \begin{itemize}
+        \item $3/2^{-} → 1/2^{+}$. We have a change in parity, meaning $E$ must be odd, and $M$ must be even. $L$ can takes values of $L=1,2$. This gives $E1$ and $M2$. 
+        \item $2^{+} → 1^{+}$. No parity change, meaning $E$ must be even and $M$ must be odd. $L$ can take values of $L=1,2,3$. This gives $M1$ $E2$ and $M3$,  
+    \end{itemize} 
+    \item $0^{+} → 0^{+}$: Special transition which photon can't do. The energy and orbital angular momentum is transferred to the closest electron which is ejected. This is named an internal process as all parts do not need to be created. This does not use the photon as a mediator. 
+\end{itemize}
+
+
+% TODO: What is the estimate exactly???
+\subsection{!Explain Weisskopf units and how we are comparing them to experimental decay rates.}
+\begin{itemize}
+    \item Weisskopf units is the ratio between the measured transition rates, divided by the Weisskopf estimate. 
+    \item If the measured decay rate is much smaller than the estimate, we have little overlap between the initial and final wavefunction. This results in slow decay. 
+    \item If the measured decay rate is a lot larger than the estimate, we expect more than a single nucleon to be responsible, making it a collective excitation and deformations. 
+    \item If the measurement is around the same as the estimate, there is most likely just a single nucleon responsible.    
+\end{itemize}
+
+\subsection{Give an overview of nuclear fission.}
+\begin{itemize}
+    \item The process of nuclei splitting in to two smaller nuclei. This occurs when it is energetically viable. Few do this naturally as it has a positive $Q$-value, and others we can induce it by shooting neutrons at the nuclei. 
+    \item Atoms to the right of iron on the nuclear chart of binding energy per nucleon, can do this with a atomic number $A ≥ 110$. 
+    \item This releases neutrons and gamma rays. This is the best way to create energy in modern times, as the binding energy increase is so much greater than that of any chemical reaction. 
+    \item Neutrons are released because the smaller nuclei are closer to the $Z=N$ line. The extra neutrons to hold the nuclei together is no longer needed. 
+    \item For very large nuclei, we see a lot bigger $Q$-value when undergoing fission, than with fusion. 
+    \item The main barrier is the surface tension created by the strong force. This stops the nuclei to split in two. This is called the fission barrier. Extremely large nuclei have a lower fission barrier and can do it spontaneously. Other need a little push. 
+    \item Magic numbers make some shapes favorable, meaning there can be multiple fusion barriers. Sometimes they do not split clean in half, but rather to a close magic number. 
+    \item The more energy, the more cleanly they tend to split, as they have excess energy to do it. 
+    \item As neutrons can induce fission, and fission creates free neutrons, we can get a chain reaction. 
+    \item This is very hard to describe as there are many bodies. 
+\end{itemize}
+
+
+\subsection{Give an overview of beta decay}
+\begin{itemize}
+    \item There are two types of beta decay.
+    \begin{itemize}
+        \item $β^{+}$: A neutron turns into a proton, and emits an electron and anti neutrino. The electron has a bit less momentum than the anti neutrino, as it is attracted to the nucleus. 
+        \item $β^{-}$: A proton turns into a neutron, and emits an anti electron and a neutrino. This can't happen in lone protons, as the $Q$-value is negative for free protons. The anti electron is emitted with a bit more momentum than the neutrino as it is repelled by the nucleus. 
+    \end{itemize}
+    
+    \item \textbf{Fermi's golden rule of beta decay:} The theory of beta decay must explain the new particles formation, be treated relativistically, and explain the continuous momentum as a three body problem. This is is opposite to alpha decay, which assumes the alpha particles already exist, is not relativistic, and is a two body problem with monoenergetic energies. 
+    \item Forbidden decays are not strictly forbidden, but happen with lower probability. 
+    \item As particles are created at the core, there is no orbital angular momentum. The only change is $s = 1/2$ by the electron and neutrino. They can be anti parallel or parallel with $S = 0$ for $S = 1$. 
+    \item \textbf{Fermi Decays:} Super allowed, and happens with $S = 0$. There is no change to angular momentum. 
+    \item \textbf{Gamow-Teller Decays:} Happens when $S = 1$. This is a triplet state which could have a change of angular momentum of $±1$.
+    \item We have selecttion rules of $ΔI = 0,1$. Parity is always conserved in these allowed beta decays. 
+    \item $0^{+}$ to $0^{+}$ decay happens only with fermi decay. Other, with $ΔI = 0$, can be both. 
+    \item \textbf{Forbidden Decays:} Happens when parity changes. Can have $ΔI = 0,1,2$. Parity only changes when $L$ is odd. 
+    \item \textbf{Second Forbidden Decays:} Happens with no parity change and $ΔI = 2,3$
+    \item \textbf{Third Forbidden Decays:} Happens with parity change and $ΔI = 3,4$
+    \item \textbf{Double Beta Decay:} Sometimes, beta decay is not energetically possible.
+    \item \textbf{Neutrinoless Decay:} Theorized to happen during double beta decay, releasing two electrons. Depends on neutrinos being their own anti-particles. This should be a to body decay, with monoenergetic energies. This would take very long to observe, as it is very unlikely. 
+    \item \textbf{Valley of Stability:} Beta decay can take a nuclei from an odd-odd config, to even-even, as it has a higher binding energy. We need two different curves of binding energy as a function of proton-neutron balance. For any isobars we can create such a curve, creating a valley at the highest binding energies.  
+    \item \textbf{Pure Decay:} When decaying to the ground state of the new nucleus, instead of an excited state. This does not normally occur. 
+\end{itemize}
+
+
+\subsection{Describe important nuclear properties, and how we can measure them (keywords: mass, charge, radius)}
+\begin{itemize}
+    \item \textbf{Mass:} Can be thought of as localized and confined energy. We can measure this mass by mass spectroscopy. We can do mass spectroscopy by shooting ions through an electric field, and filter out ions with velocities not going straight. A new magnet field perpendicular to the velocity can then be applied to see how much the ion curves. Another method for short lived particles can be relativistic kinematics, where we observe and calculate the energies of two particles before and after collision. The most precise method is a penning trap, which holds an ion in place using electric and magnetic fields. The mass is also equivalent with its energy at rest.  
+    \item \textbf{Charge:} A property describing the force a particle feels and exerts on other charged objects though the electromagnetic field. We can measure this through how a particle interacts with other charged particles or in a magnetic field. 
+    \item \textbf{Radius:} There boundary of which the nucleus stops. Through electron scattering we can find the charge distribution by looking at the scattering angles. From this we get the approximate $R = R_0A^{1/3}$ with $R_0 = 1.2$fm. The mass radius can be found by using hadron scattering, with neutral particles like neutrons. These correlate very closely, alluding to the neutrons and protons being evenly mixed.  
+\end{itemize}
+
+
+\subsection{Give an overview of radioactive decay (keywords: Exponential law, decay constant, half-life, mean lifetime)}
+\begin{itemize}
+    \item Occurs in radioactive nuclei and is the emitting of radiation in the form of alpha, beta and gamma decay. When the $Q$-value is positive, it will can happen spontaneously. 
+    \item Decay is exponential and on the form of $N_0e^{-λt}$, with $N_0$ being the initial amount.
+    \item The decay of an amount of substance $N_0$ goes faster with a larger decay constant $λ$. 
+    \item Half-life $t_{1/2}$ is how long it takes before you have half the amount you started with. 
+    \item Mean life time $τ = \ln 2λ^{-1}$ is how long the average nuclei in your substance lives before decaying. 
+\end{itemize} 
+
+
+\subsection{Give an overview of nuclear chart (keywords: stability line, N=Z line, binding energy, magic numbers, beta-minus, beta-plus, alpha decays, fission, half-lives)}
+\begin{itemize}
+    \item The nuclear chart shows nuclei and their decay modes. Along with the periodic table, we have many isotones and isotopes as well. The $x$-axis is the number of neutrons $N$, and the $y-$axis the number of protons $Z$. 
+    \item \textbf{White:} Stable nuclei. Also called the stability line. 
+    \item \textbf{Pink:} $β^{-}$-decay. Happens in neutron rich nuclei. 
+    \item \textbf{Blue:} $β^{+}$-decay. Happens in proton rich nuclei. 
+    \item \textbf{Dark green:} $α$-decay. Happens in larger, proton rich, nuclei. 
+    \item \textbf{Light green:} Fission. Happens in larger nuclei 
+    \item \textbf{$Z=N$:} Lighter nuclei lie along the line of $Z=N$. As nuclei grow larger, we see the effect of the short range of the strong force, as the Coulomb force begin to dominate. To have stable nuclei we must have more neutrons. 
+\end{itemize}
+
+
+\section{Particle}
+\subsection{What are jets? How do they occur in lepton-lepton, lepton-hadron, and hadron-hadron collisions? Give at least one example that clearly relates jets to some property of quarks or gluons.}
+\begin{itemize}
+    \item Jets occur in collision with  hadrons and leptons or other hadrons. This comes from the fact that the strong interaction resist releasing a quark from the hadron. If enough energy is applied, a quark-anti-quark pair is created, which makes a new hadrons to be ejected.
+    \item Their momentum stems from the quarks which they were created from. 
+    \item This stops us from observing lone quarks. The energy needed to separate one, creates a new quarks. 
+    \item The simples case is an electron and anti-electron annihilation, producing a photon turning into a quark-anti-quark pair. 
+\end{itemize}
+
+% TODO
+\subsection{!Give an overview of how the Higgs boson couples to fermions and the experimental consequences of these predictions}
+\begin{itemize} 
+    \item The Higgs boson couples to all fermions differently. The more they couple, the more massive the particle. This accounts for around $1\%$ of the mass of hadrons. The rest comes from the strong force's binding energy. It also couples to all massive particles. Without it, everything would move at the speed of light. 
+    \item What makes the Higgs field special, is the fact that it has a non-zero vacuum expectation value. Instead of a complex field being represented by a parabola, it is more like a hat. The non-zero vev makes the field present everywhere with a mass. Vacuum is not actually empty, besides the virtual particles. This value is around 246 GeV. A proton has about 1 GeV of energy. 
+    \item Finding the Higgs boson, confirms the existence of the Higgs field and mechanism. This is why it's discovery in 2012 was so important. 
+    \item Why the Higgs boson couples the way it does is still unknown. We therefore can't use it to explain new phenomena like dark matter. 
+    \item Does not couple to the neutrinos. How they get their mass is unknown. 
+\end{itemize}
+
+% TODO
+\subsection\protect{!Explain how semi-leptonic decays of neutral kaons can be used to determine the strangeness of a decaying kaon. Describe qualitatively how a lepton charge asymmetry as a function of time occurs for a beam initially consisting of 100\% $K^{0} (s \bar{d})$}
+
+% TODO
+\subsection{!What is meant by “left-handed neutrinos and right-handed anti-neutrinos”? Give an example of an experiment where postulating these as the only interacting neutrinos in the Standard Model leads to parity violation.}
+\begin{itemize}
+    \item All particles have an intrinsic quality of chirality. For massless particles, this is the same as their helicity, which is just the projection of the eigen spin, onto the momentum vector. For particles with mass, helicity is just a pseudonestor and can be changed though a Lorenz boost.
+    \item This intrinsic handedness is not important in the strong interaction. In the weak interaction, one must be left handed as a particle, and 
+    \item As neutrinos only (as far as we know) interact weakly, we have not observed any right handed neutrinos. 
+\end{itemize}
+
+% TODO
+\subsection\protect{!What do we mean by “running coupling constant”? Explain how the running of the strong coupling constant affects the mass spectrum of heavy quarkonia states (e.g. $b \bar{b}$).}
+\begin{itemize}
+    \item A coupling constant tells us the strength of any interaction. Stronger interactions are more likely. 
+    \item A running coupling constant changes in different circumstances. For the strong force, this means becoming extremely strong at low energies, as it is dependant on the momentum transfer. At short distances this momentum is large. At high energies or small distances, the coupling becomes very small. At large distance or low energies, the coupling is big. Gluons and quarks are both confined in hadrons. 
+    \item Heavy quarkonia needs higher energies to form, meaning lower coupling. They are therefore supressed in terms of decaying. 
+    \item The EM coupling constant increases at higher energies. 
+\end{itemize}
+
+\subsection{Give an overview of the forces and particles included in the Standard Model.}
+
+
+
+% TODO
+\subsection{!What quantum numbers are conserved/violated in different interactions? Explain the different quantum numbers.}
+The quantum numbers are the following: 
+\begin{itemize}
+    \item Strangeness $S = - (N_s - N_{\bar{s}})$ 
+    \item Charm $C = (N_c - N_{\bar{c}})$
+    \item Topness $T = (N_t - N_{\bar{t}})$
+    \item Bottomness $B' = (N_b - N_{\bar{b}})$
+    \item Baryon Number $B = (N_q - N_{\bar{q}})/3 $
+    \item Hypercharge $Y$ being the sum of the above. 
+    \item Lepton Number $L = (N_l - N_{\bar{l}})$
+    \item Charge $Q$ 
+    \item Isospin $I_3$. Can either be $1/2((N_u-N_d) - (N_{\bar{u}} - N_{\bar{d}}))$ or $Q - Y/2$. This is the only quantity not being opposite for anti-particles. 
+\end{itemize}
+The strong interaction conserves everything. 
+
+The electromagnetic force conserves, $S, C, Q, T, B', N_l, N_b$, parity, time reversal, charge conjugation, 
+
+The weak interaction does not conserve topness $T$, bottomness $B'$, Charm $C$, and therefore also hypercharge. 
+
+
+% TODO
+\subsection{!Give an overview of key aspects of QCD, including the quark-gluon plasma.}
+\subsubsection{QCD}
+\begin{itemize}
+    \item Asymptotic freedom: color charges become weaker at higher energies
+    \item Color confinement: No single quark can be observed. They need to be a white or black hadron. 
+    \item $99\%$ of the mass of the nucleon comes from the binding energy between gluons. 
+\end{itemize}
+
+\subsubsection{Quark-Gluon plasmo}
+\begin{itemize}
+    \item May happen naturally in neutron star core, and the first moments of the big bang.  
+    \item Comes about at high temperature, pressures or both. Can also appear when colliding heavy ions. 
+    \item After particle collisions, we see a release in lepton and photon radiation. Then it cools down, and we see lots of different hadrons form. Mostly pions, kaons and protons. 
+    \item Color deconfinement: Lots of quarks are no longer bound to a hadron. Color flows freely like electrons in plasma. 
+    \item Heavy quarkonia is produced at a higher rate. 
+\end{itemize}
+
+
+
+\subsection{What is the basis of the electroweak unification? Give an overview.}
+\begin{itemize}
+    \item At high energies, the cross-section of the weak and electromagnetic force are approximately the same. This means they both contribute about equally to any reaction. This is backed by experiments. 
+    \item At lower energies, these are seen as separate, as the cross section of the $Z_0$-boson is a lot larger.  
+    \item The photon and the $Z^{0}$-boson is though to be a mix of the $B^{0}$ and $W^{0}$ boson. Their strength is calculated the same way as with the quark mixing with a matrix. 
+    \begin{equation}
+      \begin{pmatrix*}[r]
+       γ \\
+       Z^{0} \\
+      \end{pmatrix*} = 
+      \begin{pmatrix*}[r]
+       \cos θ_{W} & \sin θ_{W} \\
+       - \sin θ_{W} & \cos θ_{W} \\
+      \end{pmatrix*}
+      \begin{pmatrix*}[r]
+       B^{0} \\
+       W^{0} \\
+      \end{pmatrix*}
+    \end{equation}
+    $θ_{W}$ is the weinberg angle and is found by $\cos θ_{W} = m_{W} / m_{Z}$. The $Z^{0}$ boson is slightly heavier, making this ratio close to 1, and the angle must be small. 
+    \item The strength of the interaction approximately the charge of the electron.
+    \begin{equation}
+    e = g_{W} \sin θ_{W} = g_{Z}\cos θ_{W}
+    \end{equation}
+\end{itemize}
+
+
+\subsection{What is the principle of quark mixing? In your explanation, include the following concepts: Cabibbo angle, allowed/suppressed transitions, CKM matrix.}
+\begin{itemize}
+    \item The quarks are eigenstates of the strong interaction. It cannot change one quark flavour another. 
+    \item The quarks are not eigenstates of the weak interaction, meaning a quark of one flavour can be converted to another. We can express these states as combinations of the strong eigenstates though the CKM matrix. 
+    \begin{equation}
+      \begin{pmatrix*}[r]
+       d' \\
+       s' \\
+       b' \\
+      \end{pmatrix*} = 
+      \begin{pmatrix*}[r]
+       V_{ud} & V_{us} & V_{ub} \\
+       V_{cd} & V_{cs} & V_{cb} \\
+       V_{td} & V_{ts} & V_{tb} \\
+      \end{pmatrix*}
+      \begin{pmatrix*}[r]
+       d \\
+       s \\
+       b \\
+      \end{pmatrix*} = 
+      \begin{pmatrix*}[r]
+       \cos θ_c & \sin θ_c & 0 \\
+       -\sin θ_c & \cos θ_c & 0 \\
+       0 & 0 & 1 \\
+      \end{pmatrix*} 
+      \begin{pmatrix*}[r]
+       d \\
+       s \\
+       b \\
+      \end{pmatrix*}
+    \end{equation}
+    The matrix elements noted to be zero are not actually zero, but are very low. The angle $θ_c$ is the Cabibbo angle. This is known experimentally to be around $13.2^∘$. 
+    \item With such small angle we the cosine elements are close to one, while the sine elements are close to zero. This predicts that the up quark turning into a down quark, the charm quark turning into a strange quarks are Cabibbo allowed, while the up quark turning into the strange quark and the charm quark turning into the down quark is suppressed. The top quark turning into the bottom quark is even more allowed, and all other events extremely unlikely, but not impossible. 
+    \item $g_{ud} = g_{W} \cos θ_{C}$ and $g_{us} = g_{W} \sin θ_{W}$. Looking at the matrix we also get. $g_{us} = - g_{cd} = g_{W} \sin θ_{C}$. 
+\end{itemize}
+
+
+% TODO
+\subsection{!Explain CP violation and give an overview of an experiment where we can observe this.}
+\begin{itemize}
+    \item $CP$ is conserved when either both $C$ and $P$ is conserved or not conserved. 
+    \item This is conserved for all strong and electromagnetic interactions, and nearly all weak interactions. 
+\end{itemize}
+
+
+\end{document}

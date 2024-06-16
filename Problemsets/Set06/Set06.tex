@@ -1,0 +1,126 @@
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{titlesec}
+% \usepackage[mathletters]{ucs}
+\usepackage{mathtools} %for \abs{x}
+\usepackage[warnings-off={mathtools-colon,mathtools-overbracket}]{unicode-math}
+% \setmainfont{TeX Gyre Schola}
+% \setmathfont{TeX Gyre Schola Math}
+% \usepackage[utf8x]{inputenc}
+\usepackage{fontenc}
+\usepackage[margin=1.5in]{geometry}
+\usepackage{enumerate}
+\newtheorem{theorem}{Theorem}
+\usepackage[dvipsnames]{xcolor}
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.18}
+\setlength{\parindent}{0cm}
+\usepackage{graphics}
+\usepackage{graphicx} % Required for including images
+\usepackage{subcaption}
+\usepackage{bigintcalc}
+\usepackage{pythonhighlight} %for pythonkode \begin{python}   \end{python}
+\usepackage{appendix}
+\usepackage{arydshln}
+\usepackage{physics}
+\usepackage{booktabs} 
+\usepackage{adjustbox}
+\usepackage{mdframed}
+\usepackage{relsize}
+\usepackage{physics}
+\usepackage[thinc]{esdiff}
+\usepackage{esint}  %for lukket-linje-integral
+\usepackage{xfrac} %for sfrac
+\usepackage[colorlinks=true,linktoc=page]{hyperref} %for linker, må ha med hypersetup
+\usepackage[noabbrev, nameinlink]{cleveref} % to be loaded after hyperref
+% \usepackage{amssymb} %\mathbb{R} for reelle tall, \mathcal{B} for "matte"-font
+\usepackage{listings} %for kode/lstlisting
+\usepackage{verbatim}
+\usepackage{graphicx,wrapfig,lipsum,caption} %for wrapping av bilder
+\usepackage[english]{babel}
+\usepackage{cancel}
+% \usepackage{alphabeta}
+\usepackage{mhchem} % for atom notasjon
+% \definecolor{codegreen}{rgb}{0,0.6,0}
+% \definecolor{codegray}{rgb}{0.5,0.5,0.5}
+% \definecolor{codepurple}{rgb}{0.58,0,0.82}
+% \definecolor{backcolour}{rgb}{0.95,0.95,0.92}
+% \lstdefinestyle{mystyle}{
+%     backgroundcolor=\color{backcolour},   
+%     commentstyle=\color{codegreen},
+%     keywordstyle=\color{magenta},
+%     numberstyle=\tiny\color{codegray},
+%     stringstyle=\color{codepurple},
+%     basicstyle=\ttfamily\footnotesize,
+%     breakatwhitespace=false,         
+%     breaklines=true,                 
+%     captionpos=b,                    
+%     keepspaces=true,                 
+%     numbers=left,                    
+%     numbersep=5pt,                  
+%     showspaces=false,                
+%     showstringspaces=false,
+%     showtabs=false,                  
+%     tabsize=2
+% }
+
+% \lstset{style=mystyle}
+
+\author{Oskar Idland}
+\title{Problem Set 6}
+\date{}
+\makeatletter
+\newcommand{\leqnomode}{\tagsleft@true\let\veqno\@@leqno}
+\begin{document}
+% \tableofcontents
+\maketitle
+\newpage
+\section*{Problem 1 (3.16)}
+\begin{mdframed}
+Draw the lowest-order Feynman diagrams at the quark level for the following decays:
+\begin{equation}\leqnomode
+  \tag{a} \hspace{-9.5cm}  D^{-} →  K^{0} + π^{-}
+\end{equation}
+\vspace{-1cm}
+\begin{equation}\leqnomode
+    \tag{b} \hspace{-9.25cm} Λ → p + e^{-} + \bar{ν}_e
+  \end{equation}
+  where the quarks composition of the $D^{-}$ and the $Λ$ are given in Table 3.3. 
+\end{mdframed}
+Quark composition:
+\begin{align}
+    &D^{-} = d \bar{c} \\
+    &K^{0} = d \bar{s} \\
+    &π^{-} = d \bar{u} \\
+    &Λ = uds \\
+    &p = uud 
+\end{align}
+\subsection*{a)}
+\begin{equation}
+  D^{-} → K^{0} + π^{-} \quad =  \quad   d \bar{c} → d \bar{s} + d \bar{u}
+\end{equation}
+
+
+\section*{Problem 2 (3.13)}
+\begin{mdframed}
+    The particle $Y^{-}$ can be produced in the strong interaction process $K^{-} + p → K^{+} + Y^{-}$. Deduce its baryon number, strangeness, charm, and bottom, and, using these, its quark content. The $Y^{-}$(1311) decays by the reaction $Y^{-} → Λ + π^{-}$. Give a rough estimate of its lifetime.
+\end{mdframed}
+
+\section*{Problem 3 (3.11)}
+\begin{mdframed}
+    Find the values of the parity $P$ and, where appropriate, the charge conjugation $C$ for the ground-state ($J$ = 0) mesons $π^{±}$ and $π^{0}$, and their first
+    excited ($J$ = 1) states $ρ^{±}$ and $ρ^{0}$, where the latter have a mass of about
+    770 MeV/$c^2$. Why does the charged pion have a longer lifetime than the
+    charged $ρ$? Explain also why the decay $ρ^{0}$ $→ π^{+} π^{-}$ has been observed, but
+    not the decay $ρ^{0} →  π^{0} π^{0}$
+\end{mdframed}
+
+\section*{Problem 4 (3.21)}
+\begin{mdframed}
+    Derive the allowed combinations of charm $C$ and electric charge $Q$ for mesons and baryons in the simple quark model. 
+\end{mdframed}
+
+
+
+
+\end{document}

@@ -1,0 +1,109 @@
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{titlesec}
+% \usepackage[mathletters]{ucs}
+\usepackage{mathtools} %for \abs{x}
+\usepackage[warnings-off={mathtools-colon,mathtools-overbracket}]{unicode-math}
+% \setmainfont{TeX Gyre Schola}
+% \setmathfont{TeX Gyre Schola Math}
+% \usepackage[utf8x]{inputenc}
+\usepackage{fontenc}
+\usepackage[margin=1.5in]{geometry}
+\usepackage{enumerate}
+\newtheorem{theorem}{Theorem}
+\usepackage[dvipsnames]{xcolor}
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.18}
+\setlength{\parindent}{0cm}
+\usepackage{graphics}
+\usepackage{graphicx} % Required for including images
+\usepackage{subcaption}
+\usepackage{bigintcalc}
+\usepackage{pythonhighlight} %for pythonkode \begin{python}   \end{python}
+\usepackage{appendix}
+\usepackage{arydshln}
+\usepackage{physics}
+\usepackage{booktabs} 
+\usepackage{adjustbox}
+\usepackage{mdframed}
+\usepackage{relsize}
+\usepackage{physics}
+\usepackage[thinc]{esdiff}
+\usepackage{esint}  %for lukket-linje-integral
+\usepackage{xfrac} %for sfrac
+\usepackage[colorlinks=true,linktoc=page]{hyperref} %for linker, må ha med hypersetup
+\usepackage[noabbrev, nameinlink]{cleveref} % to be loaded after hyperref
+% \usepackage{amssymb} %\mathbb{R} for reelle tall, \mathcal{B} for "matte"-font
+\usepackage{listings} %for kode/lstlisting
+\usepackage{verbatim}
+\usepackage{graphicx,wrapfig,lipsum,caption} %for wrapping av bilder
+\usepackage[english]{babel}
+\usepackage{cancel}
+% \usepackage{alphabeta}
+\usepackage{mhchem} % for atom notasjon
+% \definecolor{codegreen}{rgb}{0,0.6,0}
+% \definecolor{codegray}{rgb}{0.5,0.5,0.5}
+% \definecolor{codepurple}{rgb}{0.58,0,0.82}
+% \definecolor{backcolour}{rgb}{0.95,0.95,0.92}
+% \lstdefinestyle{mystyle}{
+%     backgroundcolor=\color{backcolour},   
+%     commentstyle=\color{codegreen},
+%     keywordstyle=\color{magenta},
+%     numberstyle=\tiny\color{codegray},
+%     stringstyle=\color{codepurple},
+%     basicstyle=\ttfamily\footnotesize,
+%     breakatwhitespace=false,         
+%     breaklines=true,                 
+%     captionpos=b,                    
+%     keepspaces=true,                 
+%     numbers=left,                    
+%     numbersep=5pt,                  
+%     showspaces=false,                
+%     showstringspaces=false,
+%     showtabs=false,                  
+%     tabsize=2
+% }
+
+% \lstset{style=mystyle}
+
+\author{Oskar Idland}
+\title{Problem set 7}
+\date{}
+\begin{document}
+% \tableofcontents
+\maketitle
+\newpage
+
+\section*{Problem 1}
+\subsection*{a)}
+The nuclear shell model explains the magic in magic numbers. The reason for why some numbers of nucleons are more tightly bound than others. 
+
+\subsection*{b)}
+Magic numbers refers to $N$ and $Z$ giving the lowest ground state energy. As they increase, the ground state energie increases, but there are local dips around these numbers, making them extra stable. This is because they completely fill the shells, and the distance to the next shell is particularly large. 
+
+\subsection*{c)}
+The notation is noting the level $n$, the shell (s, p, d, f, etc), and their total angular momentum $j$. As the total spin $S$ is known, the only variable is the orbital angular momentum $L$. We then write $1p_{1/2}$ and $1p_{3/2}$ to differentiate the two $p$-shells. Each level has half-integer total angular momentum of $m/2$, with $m ∈ ℕ$ and the number of electrons being $m + 1$ in each level. One can also use Pauli's principle to deduce the number of electrons, as they cannot be in the same state. We have $m_j ∈ [-j, -j+1, \ldots , j]$. This gives a total number of possible $m_j$ to be $2j + 1$. For $1p_{3/2}$, we have 4 different $m_j$ values, giving room for 4 electrons. 
+
+\subsection*{d)}
+All fermions have parity $P = 1$, and so the total parity is still $1$. In even-even nuclei, the total angular momentum $J$ is 0, as the positive and negative values cancel. 
+
+\subsection*{e)}
+\begin{itemize}
+    \item $\ce{_{}^{15}\text{O}_{}}$ is missing one neutron. This means $N = 7$, and it has an unpaired electron in the $1p_{1/2}$-orbital. This orbital has orbital angular momentum $l = 1$. The total angular momentum is therefore $P_n(-1)^{1}$, where $P_n$ is the intrinsic parity of the neutron being 1. As all the others cancel out, we get a total parity $P = -1$. The final answer is therefore $1/   2^{-1}$.  
+    \item $\ce{_{}^{16}\text{O}_{}}$ is even-even and of course $0^{1}$. 
+    \item $\ce{_{}^{17}\text{O}_{}}$ has one neutron too many, in the $1d_{5/2}$-orbital. It has has orbital angular momentum $l = 2$, giving a parity of $1$. It also has total angular momentum $J = 2 + 1/2 = 5/2$, giving $5/2^{1}$. 
+\end{itemize}
+
+\subsection*{f)}
+Odd-odd nuclei have both one free proton and neutron. The sum of their total angular momentum is therefore $J = J_p + J_n ∈ [\left|J_p - J_n\right|, \left|J_p - J_n + 1\right|, \ldots , J_p + J_n]$
+
+
+\section*{Problem 2}
+\subsection*{a)}
+$\ce{_{}^{7}\text{Li}_{}}$ has 3 protons and 4 neutrons. The 4 neutrons cancel out their angular momentum. The three protons has two of them together in the $1s$ shell, and one alone in the $1p_{3/2}$. This lone proton has orbital angular momentum $l = 1$, and therefore parity $P_p = -1$. This gives the entire nucleus $J^{P} = 3/2^{-}$, and a magnetic dipole moment of $μ = eℏ/2m$. 
+
+\subsection*{b)}
+$\ce{_{}^{17}\text{F}_{}}$ has 9 protons and 8 neutrons. The neutrons are all paired up as they are the magic amount. There is a single proton at $1d_{5/2}$ in the ground state. At the first excited state, the proton jumps to $2s$, giving it parity $P=1$, and total angular momentum $1/2$. At the second excited state, another proton jumps from $1p_{1/2}$, to $1d_{5/2}$, now filled by two protons. The previous orbital $1p_{1/2}$, is now occupied by a single proton, with angular momentum $1/2$, and parity $P = -1$. 
+
+
+\end{document}

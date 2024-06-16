@@ -1,0 +1,312 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\numberline {1}History}{8}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Proton Discovery: The Rutherford Scattering Experiment}{8}{subsection.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.1}Conclusion}{8}{subsubsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.2}Discovery of the Neutron}{8}{subsection.1.2}%
+\contentsline {section}{\numberline {2}Nucleus}{8}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Notation}{9}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Nuclides}{9}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Stable Numbers}{9}{subsubsection.2.2.1}%
+\contentsline {section}{\numberline {3}Units and Dimensions in Nuclear Physics}{9}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Length}{9}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Time Scale}{9}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Energy}{9}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Mass}{10}{subsection.3.4}%
+\contentsline {section}{\numberline {4}Nuclear Properties}{10}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Connected Terms}{10}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Charge Distribution}{11}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Nuclear Charge Distribution from Electron Scattering}{11}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Nuclear Size}{11}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Nuclear Mass Distribution from Hadron Scattering}{11}{subsection.4.5}%
+\contentsline {subsubsection}{\numberline {4.5.1}Fixed Angle of Observation with Changing Energy}{12}{subsubsection.4.5.1}%
+\contentsline {subsection}{\numberline {4.6}Conclusion from Charge Radius Experiments}{12}{subsection.4.6}%
+\contentsline {subsection}{\numberline {4.7}Nuclear Mass}{13}{subsection.4.7}%
+\contentsline {subsection}{\numberline {4.8}Deflection Spectrometer}{13}{subsection.4.8}%
+\contentsline {subsubsection}{\numberline {4.8.1}Calculating the Mass}{13}{subsubsection.4.8.1}%
+\contentsline {paragraph}{Accuracy}{14}{paragraph*.4}%
+\contentsline {section}{\numberline {5}Binding Energy}{14}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Formulas and Definitions}{14}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Mass of the Nucleus}{14}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Nuclear Binding Energy (B.E.)}{15}{subsection.5.3}%
+\contentsline {subsubsection}{\numberline {5.3.1}}{15}{subsubsection.5.3.1}%
+\contentsline {subsection}{\numberline {5.4}Nuclear Separation Energy}{15}{subsection.5.4}%
+\contentsline {subsubsection}{\numberline {5.4.1}Neutron Separation Energy}{15}{subsubsection.5.4.1}%
+\contentsline {subsubsection}{\numberline {5.4.2}Proton Separation Energy}{16}{subsubsection.5.4.2}%
+\contentsline {subsection}{\numberline {5.5}Semi-Empirical Mass Formula}{17}{subsection.5.5}%
+\contentsline {subsubsection}{\numberline {5.5.1}Explanation of the Terms in the Semi-Empirical Mass Formula}{17}{subsubsection.5.5.1}%
+\contentsline {subsubsection}{\numberline {5.5.2}SEMF Conclusion}{18}{subsubsection.5.5.2}%
+\contentsline {subsection}{\numberline {5.6}Mass Parabolas of Isobars}{18}{subsection.5.6}%
+\contentsline {subsubsection}{\numberline {5.6.1}Finding the Minimum of the Mass Parabola}{19}{subsubsection.5.6.1}%
+\contentsline {paragraph}{Example: A = 10}{19}{paragraph*.7}%
+\contentsline {paragraph}{Example: A = 200}{19}{paragraph*.8}%
+\contentsline {subsubsection}{\numberline {5.6.2}Valley of (beta) stability}{19}{subsubsection.5.6.2}%
+\contentsline {paragraph}{Beta Decay}{19}{paragraph*.10}%
+\contentsline {section}{\numberline {6}Angular Momentum \& Parity}{21}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Angular Momentum of the Nucleus}{21}{subsection.6.1}%
+\contentsline {subsubsection}{\numberline {6.1.1}Orbital Angular Momentum}{21}{subsubsection.6.1.1}%
+\contentsline {subsubsection}{\numberline {6.1.2}Spin}{21}{subsubsection.6.1.2}%
+\contentsline {subsubsection}{\numberline {6.1.3}Total Angular Momentum}{22}{subsubsection.6.1.3}%
+\contentsline {subsubsection}{\numberline {6.1.4}Total Angular Momentum of the Nucleus}{23}{subsubsection.6.1.4}%
+\contentsline {subsection}{\numberline {6.2}Parity}{24}{subsection.6.2}%
+\contentsline {subsubsection}{\numberline {6.2.1}Splitting the Wave Function}{24}{subsubsection.6.2.1}%
+\contentsline {section}{\numberline {7}Electric and Magnetic Moments}{25}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Parity Selection Rules}{25}{subsection.7.1}%
+\contentsline {subsubsection}{\numberline {7.1.1}Electric Dipole Moments $E_0$}{25}{subsubsection.7.1.1}%
+\contentsline {subsubsection}{\numberline {7.1.2}Magnetic Dipole Moments $M_1$}{25}{subsubsection.7.1.2}%
+\contentsline {subsection}{\numberline {7.2}Bohr Magneton \& Nuclear Magneton}{26}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}Magnetic Moments of Nuclei}{26}{subsection.7.3}%
+\contentsline {subsubsection}{\numberline {7.3.1}Nuclear Structure from Magnetic Moments}{26}{subsubsection.7.3.1}%
+\contentsline {subsection}{\numberline {7.4}Electric Quadrupole Moments $E_2$ \& Shape of the Nucleus}{27}{subsection.7.4}%
+\contentsline {subsection}{\numberline {7.5}Example: Calculating Parity of State}{27}{subsection.7.5}%
+\contentsline {paragraph}{Case 1: Calculate the parity of two nucleons in the $p_{3 /2}$ orbital}{27}{paragraph*.18}%
+\contentsline {paragraph}{Case 2: Calculate the parity of two nucleons in the $g_{9 /2}$ orbital}{28}{paragraph*.19}%
+\contentsline {subsection}{\numberline {7.6}Level Schemes \& Excited States}{28}{subsection.7.6}%
+\contentsline {section}{\numberline {8}Nuclear Force}{28}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Effects of the Short Range of the Strong Force}{28}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}Deuteron}{29}{subsection.8.2}%
+\contentsline {subsubsection}{\numberline {8.2.1}Deuteron Binding Energy}{29}{subsubsection.8.2.1}%
+\contentsline {subsubsection}{\numberline {8.2.2}Nucleon-Nucleon Potential}{30}{subsubsection.8.2.2}%
+\contentsline {subsubsection}{\numberline {8.2.3}Deuteron Spin and Parity}{30}{subsubsection.8.2.3}%
+\contentsline {paragraph}{Total Spin:}{30}{paragraph*.23}%
+\contentsline {paragraph}{Spin Configuration with $I = 1$}{31}{paragraph*.24}%
+\contentsline {paragraph}{Electric Quadrupole Moment}{31}{paragraph*.25}%
+\contentsline {section}{\numberline {9}The Standard Model}{31}{section.9}%
+\contentsline {subsection}{\numberline {9.1}The Particles}{31}{subsection.9.1}%
+\contentsline {subsection}{\numberline {9.2}The Forces}{32}{subsection.9.2}%
+\contentsline {section}{\numberline {10}Feynman Diagrams}{32}{section.10}%
+\contentsline {subsection}{\numberline {10.1}Charges}{33}{subsection.10.1}%
+\contentsline {subsubsection}{\numberline {10.1.1}Examples}{33}{subsubsection.10.1.1}%
+\contentsline {subsection}{\numberline {10.2}Allowed Vertices (\cref {fig: feynman_diagram_vertices})}{33}{subsection.10.2}%
+\contentsline {subsubsection}{\numberline {10.2.1}Allowed EM Vertices}{35}{subsubsection.10.2.1}%
+\contentsline {subsubsection}{\numberline {10.2.2}Allowed Strong Vertices}{35}{subsubsection.10.2.2}%
+\contentsline {subsubsection}{\numberline {10.2.3}Neutral Weak Vertices}{35}{subsubsection.10.2.3}%
+\contentsline {subsubsection}{\numberline {10.2.4}Charged Weak Vertices}{36}{subsubsection.10.2.4}%
+\contentsline {subsubsection}{\numberline {10.2.5}Higgs Boson Vertices}{36}{subsubsection.10.2.5}%
+\contentsline {subsubsection}{\numberline {10.2.6}4-Line Vertices}{36}{subsubsection.10.2.6}%
+\contentsline {subsection}{\numberline {10.3}Creating Feynman Diagrams}{37}{subsection.10.3}%
+\contentsline {subsubsection}{\numberline {10.3.1}Tip for Choosing Time-Ordering}{37}{subsubsection.10.3.1}%
+\contentsline {subsubsection}{\numberline {10.3.2}Current interactions}{38}{subsubsection.10.3.2}%
+\contentsline {section}{\numberline {11}Relativity and Anti-Particles}{38}{section.11}%
+\contentsline {subsection}{\numberline {11.1}Dirac Equation}{38}{subsection.11.1}%
+\contentsline {subsection}{\numberline {11.2}Symmetries and Conservation Laws}{39}{subsection.11.2}%
+\contentsline {subsubsection}{\numberline {11.2.1}Symmetries and Conserved Quantities}{39}{subsubsection.11.2.1}%
+\contentsline {subsubsection}{\numberline {11.2.2}Intrinsic Parity}{39}{subsubsection.11.2.2}%
+\contentsline {subsubsection}{\numberline {11.2.3}Parity of Bound States}{39}{subsubsection.11.2.3}%
+\contentsline {subsubsection}{\numberline {11.2.4}Charge Conjugation}{40}{subsubsection.11.2.4}%
+\contentsline {subsubsection}{\numberline {11.2.5}Natural Units}{40}{subsubsection.11.2.5}%
+\contentsline {subsection}{\numberline {11.3}Scattering}{40}{subsection.11.3}%
+\contentsline {subsubsection}{\numberline {11.3.1}Decay}{40}{subsubsection.11.3.1}%
+\contentsline {paragraph}{Tau Particle}{41}{paragraph*.33}%
+\contentsline {subsection}{\numberline {11.4}Cross-Section}{41}{subsection.11.4}%
+\contentsline {subsubsection}{\numberline {11.4.1}Differential Cross-Section}{42}{subsubsection.11.4.1}%
+\contentsline {subsubsection}{\numberline {11.4.2}Measured Cross-Section}{42}{subsubsection.11.4.2}%
+\contentsline {subsubsection}{\numberline {11.4.3}Integrated Luminosity}{42}{subsubsection.11.4.3}%
+\contentsline {subsubsection}{\numberline {11.4.4}Single Beam Particle and Target}{42}{subsubsection.11.4.4}%
+\contentsline {subsubsection}{\numberline {11.4.5}Born Approximation}{43}{subsubsection.11.4.5}%
+\contentsline {subsubsection}{\numberline {11.4.6}Natural Units and Cross Section}{43}{subsubsection.11.4.6}%
+\contentsline {subsection}{\numberline {11.5}Density of States (Energy States)}{43}{subsection.11.5}%
+\contentsline {paragraph}{Non-Relativistic Case:}{43}{paragraph*.34}%
+\contentsline {paragraph}{Relativistic Case:}{43}{paragraph*.35}%
+\contentsline {subsubsection}{\numberline {11.5.1}Conclusion}{44}{subsubsection.11.5.1}%
+\contentsline {subsection}{\numberline {11.6}Theoretical Cross-Section for $ab → cd$}{44}{subsection.11.6}%
+\contentsline {section}{\numberline {12}Particle Phenomenology}{44}{section.12}%
+\contentsline {subsection}{\numberline {12.1}Leptons}{44}{subsection.12.1}%
+\contentsline {section}{\numberline {13}Range of Forces and Amplitudes}{44}{section.13}%
+\contentsline {subsection}{\numberline {13.1}Yukawa Potential}{44}{subsection.13.1}%
+\contentsline {subsection}{\numberline {13.2}Yukawa Amplitude}{45}{subsection.13.2}%
+\contentsline {subsection}{\numberline {13.3}Amplitude of $W$-boson Exchange}{45}{subsection.13.3}%
+\contentsline {subsection}{\numberline {13.4}Amplitude of Other exchanges}{46}{subsection.13.4}%
+\contentsline {subsection}{\numberline {13.5}Muon vs Tau Decays}{46}{subsection.13.5}%
+\contentsline {section}{\numberline {14}Resonance Formation and Decay}{47}{section.14}%
+\contentsline {subsubsection}{\numberline {14.0.1}Width and Lifetime}{47}{subsubsection.14.0.1}%
+\contentsline {section}{\numberline {15}Neutrino Mixing and Oscillations}{48}{section.15}%
+\contentsline {subsection}{\numberline {15.1}Neutrino Mixing}{48}{subsection.15.1}%
+\contentsline {subsubsection}{\numberline {15.1.1}3-generation mixing}{48}{subsubsection.15.1.1}%
+\contentsline {subsection}{\numberline {15.2}Probability of Mixing}{49}{subsection.15.2}%
+\contentsline {subsubsection}{\numberline {15.2.1}Conclusion}{49}{subsubsection.15.2.1}%
+\contentsline {section}{\numberline {16}Nuclear Models}{50}{section.16}%
+\contentsline {subsection}{\numberline {16.1}Liquid-Drop Model}{50}{subsection.16.1}%
+\contentsline {subsection}{\numberline {16.2}Fermi-Gas model \cref {fig: Fermi-Gas_model}}{50}{subsection.16.2}%
+\contentsline {subsection}{\numberline {16.3}Shell Model \cref {fig: shell_model_energy_levels}}{51}{subsection.16.3}%
+\contentsline {subsubsection}{\numberline {16.3.1}Simplifying the Complex System to a Simple Model \cref {fig: central_pot_simplification}}{52}{subsubsection.16.3.1}%
+\contentsline {subsubsection}{\numberline {16.3.2}Finding the Hamiltonian}{52}{subsubsection.16.3.2}%
+\contentsline {section}{\numberline {17}Relativistic Kinematics}{53}{section.17}%
+\contentsline {paragraph}{Example:}{53}{paragraph*.42}%
+\contentsline {subsection}{\numberline {17.1}Four-Vectors}{53}{subsection.17.1}%
+\contentsline {subsubsection}{\numberline {17.1.1}Dot product}{53}{subsubsection.17.1.1}%
+\contentsline {subsubsection}{\numberline {17.1.2}Dot product in different reference frames}{53}{subsubsection.17.1.2}%
+\contentsline {subsubsection}{\numberline {17.1.3}Attributes Summary}{54}{subsubsection.17.1.3}%
+\contentsline {subsection}{\numberline {17.2}Four-Momentum Transfer}{54}{subsection.17.2}%
+\contentsline {subsection}{\numberline {17.3}Invariant Mass of Virtual Photon}{55}{subsection.17.3}%
+\contentsline {subsubsection}{\numberline {17.3.1}Fixed-Target Experiment}{55}{subsubsection.17.3.1}%
+\contentsline {section}{\numberline {18}Particle Accelerators}{55}{section.18}%
+\contentsline {subsection}{\numberline {18.1}Linear Accelerators}{55}{subsection.18.1}%
+\contentsline {subsection}{\numberline {18.2}Cyclotrons}{55}{subsection.18.2}%
+\contentsline {subsection}{\numberline {18.3}Focusing of Particles}{56}{subsection.18.3}%
+\contentsline {subsection}{\numberline {18.4}Characteristics of Accelerators}{56}{subsection.18.4}%
+\contentsline {subsection}{\numberline {18.5}Large Hadron Collider (LHC)}{57}{subsection.18.5}%
+\contentsline {subsection}{\numberline {18.6}Particle Types}{57}{subsection.18.6}%
+\contentsline {subsection}{\numberline {18.7}Limitations}{57}{subsection.18.7}%
+\contentsline {section}{\numberline {19}Neutrino Mixing Continued}{57}{section.19}%
+\contentsline {subsection}{\numberline {19.1}Neutrino Mixing in Practice}{57}{subsection.19.1}%
+\contentsline {subsection}{\numberline {19.2}Quark Mixing}{58}{subsection.19.2}%
+\contentsline {subsubsection}{\numberline {19.2.1}Quark Number \& Flavour Conservation}{58}{subsubsection.19.2.1}%
+\contentsline {subsection}{\numberline {19.3}Hadrons}{58}{subsection.19.3}%
+\contentsline {subsection}{\numberline {19.4}Isospin}{59}{subsection.19.4}%
+\contentsline {subsubsection}{\numberline {19.4.1}Isospin Doublet}{59}{subsubsection.19.4.1}%
+\contentsline {subsection}{\numberline {19.5}Isospin Mathematics}{59}{subsection.19.5}%
+\contentsline {subsubsection}{\numberline {19.5.1}Isospin of Deuteron}{59}{subsubsection.19.5.1}%
+\contentsline {paragraph}{Proton:}{60}{paragraph*.45}%
+\contentsline {paragraph}{Neutron:}{60}{paragraph*.46}%
+\contentsline {paragraph}{Deuteron:}{60}{paragraph*.47}%
+\contentsline {subsubsection}{\numberline {19.5.2}Isospin of a Pion and nucleon}{60}{subsubsection.19.5.2}%
+\contentsline {paragraph}{Solution 1:}{60}{paragraph*.48}%
+\contentsline {paragraph}{Solution 2:}{60}{paragraph*.49}%
+\contentsline {section}{\numberline {20}Spectroscopic Notation}{60}{section.20}%
+\contentsline {subsection}{\numberline {20.1}Use-case Example: Deuteron}{61}{subsection.20.1}%
+\contentsline {section}{\numberline {21}Quark Model}{61}{section.21}%
+\contentsline {subsection}{\numberline {21.1}Hadron Spectroscopy}{61}{subsection.21.1}%
+\contentsline {subsubsection}{\numberline {21.1.1}Mesons}{61}{subsubsection.21.1.1}%
+\contentsline {subsubsection}{\numberline {21.1.2}Baryons}{61}{subsubsection.21.1.2}%
+\contentsline {subsection}{\numberline {21.2}Intrinsic Parity of Hadrons}{62}{subsection.21.2}%
+\contentsline {subsection}{\numberline {21.3}Charge Conjugation (particle $↔$ anti-particle)}{62}{subsection.21.3}%
+\contentsline {subsubsection}{\numberline {21.3.1}C-parity of pion $π^{0}$}{62}{subsubsection.21.3.1}%
+\contentsline {subsubsection}{\numberline {21.3.2}C-parity of $η$}{62}{subsubsection.21.3.2}%
+\contentsline {subsubsection}{\numberline {21.3.3}C-parity of Spin-1/2 Fermions}{63}{subsubsection.21.3.3}%
+\contentsline {subsection}{\numberline {21.4}Quantum Numbers}{63}{subsection.21.4}%
+\contentsline {subsubsection}{\numberline {21.4.1}Hadrons With $C = \tilde {B} = T = 0$}{64}{subsubsection.21.4.1}%
+\contentsline {paragraph}{Example: $Σ^{+}$}{64}{paragraph*.53}%
+\contentsline {subsubsection}{\numberline {21.4.2}Light Baryon Multiplets $L_{12} = L_3 = 0$ (\cref {fig: light_baryon_multiplets})}{65}{subsubsection.21.4.2}%
+\contentsline {subsubsection}{\numberline {21.4.3}Light Mesons Nonets (\cref {fig: light_mesons_nonets,fig: quark_content})}{65}{subsubsection.21.4.3}%
+\contentsline {subsection}{\numberline {21.5}Baryon Quark-Spin Wave Functions}{65}{subsection.21.5}%
+\contentsline {subsection}{\numberline {21.6}Heavy Quark-States (b,c)}{66}{subsection.21.6}%
+\contentsline {subsubsection}{\numberline {21.6.1}Heavy Quarkonia}{67}{subsubsection.21.6.1}%
+\contentsline {paragraph}{Potential:}{67}{paragraph*.59}%
+\contentsline {subsubsection}{\numberline {21.6.2}Exotic Hadrons}{68}{subsubsection.21.6.2}%
+\contentsline {section}{\numberline {22}Quark Dynamics: The Strong Interaction}{68}{section.22}%
+\contentsline {subsection}{\numberline {22.1}Quantum Chromodynamics (QCD)}{68}{subsection.22.1}%
+\contentsline {subsubsection}{\numberline {22.1.1}Color Wavefunction}{68}{subsubsection.22.1.1}%
+\contentsline {subsubsection}{\numberline {22.1.2}Color Confiment}{69}{subsubsection.22.1.2}%
+\contentsline {subsubsection}{\numberline {22.1.3}Gluon Color-States}{69}{subsubsection.22.1.3}%
+\contentsline {subsubsection}{\numberline {22.1.4}Confinemenet and Hadronization}{69}{subsubsection.22.1.4}%
+\contentsline {subsubsection}{\numberline {22.1.5}Confiment and Asymptotic Freedom}{70}{subsubsection.22.1.5}%
+\contentsline {subsection}{\numberline {22.2}Running Coupling Constant}{70}{subsection.22.2}%
+\contentsline {subsubsection}{\numberline {22.2.1}Running $α_s(μ)$ and OZI Rule}{70}{subsubsection.22.2.1}%
+\contentsline {section}{\numberline {23}Shell Model Continued}{71}{section.23}%
+\contentsline {subsection}{\numberline {23.1}Predicting the Magic Numbers}{71}{subsection.23.1}%
+\contentsline {subsubsection}{\numberline {23.1.1}Separating the Wave Function}{71}{subsubsection.23.1.1}%
+\contentsline {subsubsection}{\numberline {23.1.2}Deciding the Form of the Potential}{71}{subsubsection.23.1.2}%
+\contentsline {paragraph}{Harmonic Oscillator / Square Well Potential:}{71}{paragraph*.62}%
+\contentsline {paragraph}{Degeneracy:}{71}{paragraph*.63}%
+\contentsline {paragraph}{Wood-Saxon Potential:}{72}{paragraph*.64}%
+\contentsline {paragraph}{Wood-Saxon Potential with Spin-Orbit Term:}{72}{paragraph*.65}%
+\contentsline {subsection}{\numberline {23.2}Predictions of the Shell Model}{72}{subsection.23.2}%
+\contentsline {subsubsection}{\numberline {23.2.1}Ground State Spin-Parity of Even-Odd Nuclei}{72}{subsubsection.23.2.1}%
+\contentsline {subsubsection}{\numberline {23.2.2}Ground State Spin-Parity of Odd-Odd Nuclei}{72}{subsubsection.23.2.2}%
+\contentsline {subsubsection}{\numberline {23.2.3}Ground State Spin-Parity of Even-Even Nuclei}{73}{subsubsection.23.2.3}%
+\contentsline {section}{\numberline {24}Jets: Quarks and Gluons}{73}{section.24}%
+\contentsline {subsection}{\numberline {24.1}Evidence for 3 Quark Colors}{73}{subsection.24.1}%
+\contentsline {subsection}{\numberline {24.2}Di-jet Production at $p p$ (\cref {fig: di-jet_production})}{73}{subsection.24.2}%
+\contentsline {subsubsection}{\numberline {24.2.1}Rapidity}{74}{subsubsection.24.2.1}%
+\contentsline {subsubsection}{\numberline {24.2.2}Pseudorapidity}{74}{subsubsection.24.2.2}%
+\contentsline {subsubsection}{\numberline {24.2.3}Transverse Momentum}{74}{subsubsection.24.2.3}%
+\contentsline {subsection}{\numberline {24.3}Current and Constituent Quarks}{74}{subsection.24.3}%
+\contentsline {section}{\numberline {25}Weak Interactions and Electroweak Unification}{74}{section.25}%
+\contentsline {subsection}{\numberline {25.1}Low and High Energy Weak Interactions}{74}{subsection.25.1}%
+\contentsline {subsection}{\numberline {25.2}Charged Weak Interactions}{75}{subsection.25.2}%
+\contentsline {subsubsection}{\numberline {25.2.1}Basic Principles}{75}{subsubsection.25.2.1}%
+\contentsline {subsection}{\numberline {25.3}Quark Mixing}{75}{subsection.25.3}%
+\contentsline {subsubsection}{\numberline {25.3.1}Examples}{75}{subsubsection.25.3.1}%
+\contentsline {paragraph}{Pion}{75}{paragraph*.67}%
+\contentsline {paragraph}{Kaon}{75}{paragraph*.68}%
+\contentsline {subsection}{\numberline {25.4}}{76}{subsection.25.4}%
+\contentsline {subsection}{\numberline {25.5}Cabibbo Suppression}{76}{subsection.25.5}%
+\contentsline {paragraph}{Cabibbo allowed process:}{76}{paragraph*.69}%
+\contentsline {paragraph}{Cabibbo suppressed process:}{76}{paragraph*.70}%
+\contentsline {subsection}{\numberline {25.6}Charm Decays}{76}{subsection.25.6}%
+\contentsline {subsubsection}{\numberline {25.6.1}Charmed Hadron Decays}{77}{subsubsection.25.6.1}%
+\contentsline {subsection}{\numberline {25.7}Selection Rules for Charged Weak Decays}{77}{subsection.25.7}%
+\contentsline {subsubsection}{\numberline {25.7.1}Selection rules applied to hadronic part of charged weak decays}{77}{subsubsection.25.7.1}%
+\contentsline {subsubsection}{\numberline {25.7.2}Semi-Leptonic Charged Weak Decays (\cref {fig: semi-leptonic_charged_weak_decays})}{77}{subsubsection.25.7.2}%
+\contentsline {subsubsection}{\numberline {25.7.3}Fully Hadronic Charged Weak Decays (\cref {fig: fully_hadronic_charged_weak_decays})}{77}{subsubsection.25.7.3}%
+\contentsline {subsubsection}{\numberline {25.7.4}Summary}{78}{subsubsection.25.7.4}%
+\contentsline {subsubsection}{\numberline {25.7.5}Consequence of Selection Rules}{78}{subsubsection.25.7.5}%
+\contentsline {paragraph}{Example:}{78}{paragraph*.74}%
+\contentsline {subsection}{\numberline {25.8}Three Generations}{78}{subsection.25.8}%
+\contentsline {subsection}{\numberline {25.9}Part 1 Essentials}{79}{subsection.25.9}%
+\contentsline {subsection}{\numberline {25.10}Electroweak Unification and the Higgs boson}{79}{subsection.25.10}%
+\contentsline {subsubsection}{\numberline {25.10.1}Gauge Invariance}{79}{subsubsection.25.10.1}%
+\contentsline {paragraph}{Definition:}{79}{paragraph*.75}%
+\contentsline {paragraph}{Gauge Invariance and EM}{80}{paragraph*.76}%
+\contentsline {subsubsection}{\numberline {25.10.2}Statndard Model Gauge Interactions}{80}{subsubsection.25.10.2}%
+\contentsline {subsubsection}{\numberline {25.10.3}Electoweak Unification/Mixing}{80}{subsubsection.25.10.3}%
+\contentsline {subsubsection}{\numberline {25.10.4}Other Predicitons}{81}{subsubsection.25.10.4}%
+\contentsline {section}{\numberline {26}Radioactive Decay}{81}{section.26}%
+\contentsline {subsection}{\numberline {26.1}Exponential Decay}{81}{subsection.26.1}%
+\contentsline {subsubsection}{\numberline {26.1.1}The Law}{81}{subsubsection.26.1.1}%
+\contentsline {subsubsection}{\numberline {26.1.2}Half-Life}{82}{subsubsection.26.1.2}%
+\contentsline {subsubsection}{\numberline {26.1.3}Mean Lifetime}{82}{subsubsection.26.1.3}%
+\contentsline {subsubsection}{\numberline {26.1.4}Activity}{82}{subsubsection.26.1.4}%
+\contentsline {paragraph}{Units of Activity:}{82}{paragraph*.78}%
+\contentsline {paragraph}{Important Note:}{83}{paragraph*.79}%
+\contentsline {subsubsection}{\numberline {26.1.5}Measuring Short and Long Lifetimes and Activity}{83}{subsubsection.26.1.5}%
+\contentsline {subsubsection}{\numberline {26.1.6}When the Decay Law Fails}{83}{subsubsection.26.1.6}%
+\contentsline {subsection}{\numberline {26.2}Decay Options}{83}{subsection.26.2}%
+\contentsline {subsection}{\numberline {26.3}Mixed Samples}{83}{subsection.26.3}%
+\contentsline {subsection}{\numberline {26.4}Types of Radioactive Decay}{83}{subsection.26.4}%
+\contentsline {paragraph}{$α$-Decay:}{83}{paragraph*.81}%
+\contentsline {paragraph}{$β$-Decay:}{83}{paragraph*.82}%
+\contentsline {paragraph}{$γ$-Decay:}{84}{paragraph*.83}%
+\contentsline {subsubsection}{\numberline {26.4.1}Branching Ratios and Partial Half-Lives}{84}{subsubsection.26.4.1}%
+\contentsline {subsubsection}{\numberline {26.4.2}Width-Lifetime Relation}{84}{subsubsection.26.4.2}%
+\contentsline {paragraph}{Stationary State:}{84}{paragraph*.85}%
+\contentsline {paragraph}{Non-Stationary State:}{85}{paragraph*.86}%
+\contentsline {subsection}{\numberline {26.5}Alpha Decay}{85}{subsection.26.5}%
+\contentsline {subsubsection}{\numberline {26.5.1}Energetics of Alpha Decay}{85}{subsubsection.26.5.1}%
+\contentsline {subsubsection}{\numberline {26.5.2}$Q$-value and Half-life}{86}{subsubsection.26.5.2}%
+\contentsline {subsubsection}{\numberline {26.5.3}$Q$ vs $A$ Systematics (\cref {fig: Q_v_A_systematics})}{86}{subsubsection.26.5.3}%
+\contentsline {subsubsection}{\numberline {26.5.4}Theory of Alpha Decay}{86}{subsubsection.26.5.4}%
+\contentsline {paragraph}{Classical View}{87}{paragraph*.88}%
+\contentsline {paragraph}{Quantum Mechanical View}{87}{paragraph*.90}%
+\contentsline {paragraph}{Example: $\ce {_{}^{235}\text {U}_{}}$}{87}{paragraph*.91}%
+\contentsline {subsubsection}{\numberline {26.5.5}Spin and Parity in Alpha Decay}{88}{subsubsection.26.5.5}%
+\contentsline {paragraph}{Example:}{88}{paragraph*.92}%
+\contentsline {section}{\numberline {27}Weak Interactions and Electroweak Unification: Continued}{88}{section.27}%
+\contentsline {subsection}{\numberline {27.1}$Z^{0} / γ$ Interactions}{88}{subsection.27.1}%
+\contentsline {subsubsection}{\numberline {27.1.1}Electron-Antielectron to Neutrino-Antineutrino}{89}{subsubsection.27.1.1}%
+\contentsline {subsection}{\numberline {27.2}BEH Mechanism}{89}{subsection.27.2}%
+\contentsline {subsubsection}{\numberline {27.2.1}Higgs Boson Decays}{89}{subsubsection.27.2.1}%
+\contentsline {subsubsection}{\numberline {27.2.2}Higgs Boson Experiment Summary}{90}{subsubsection.27.2.2}%
+\contentsline {section}{\numberline {28}Symmetry: The Weak Interaction}{90}{section.28}%
+\contentsline {subsection}{\numberline {28.1}Symmetry Breaking}{90}{subsection.28.1}%
+\contentsline {subsubsection}{\numberline {28.1.1}Weak Parity Violation}{91}{subsubsection.28.1.1}%
+\contentsline {paragraph}{Cobalt Decay \cref {fig: cobalt_symmetry_breaking}}{91}{paragraph*.95}%
+\contentsline {paragraph}{Muon Decay \cref {fig: muon_symmetry_breaking}}{91}{paragraph*.97}%
+\contentsline {subsection}{\numberline {28.2}CP Conservation}{91}{subsection.28.2}%
+\contentsline {subsection}{\numberline {28.3}Chirality and Helicity}{91}{subsection.28.3}%
+\contentsline {subsubsection}{\numberline {28.3.1}Right- and Left-Handedness \cref {fig: left_vs_right_handedness}}{92}{subsubsection.28.3.1}%
+\contentsline {subsubsection}{\numberline {28.3.2}The Weak Interaction}{92}{subsubsection.28.3.2}%
+\contentsline {subsubsection}{\numberline {28.3.3}Electron-Electron Scattering \cref {fig: electron_electron_parity}}{92}{subsubsection.28.3.3}%
+\contentsline {subsection}{\numberline {28.4}V - A Interaction}{93}{subsection.28.4}%
+\contentsline {subsection}{\numberline {28.5}Neutral Kaon Oscillation}{93}{subsection.28.5}%
+\contentsline {section}{\numberline {29}Beta Decay}{93}{section.29}%
+\contentsline {subsection}{\numberline {29.1}$β^{-}$ Decay}{93}{subsection.29.1}%
+\contentsline {subsection}{\numberline {29.2}$β^{+}$ Decay}{95}{subsection.29.2}%
+\contentsline {subsection}{\numberline {29.3}Electron Capture}{95}{subsection.29.3}%
+\contentsline {subsection}{\numberline {29.4}Free Proton Decay}{95}{subsection.29.4}%
+\contentsline {subsection}{\numberline {29.5}Energy Conservation}{95}{subsection.29.5}%
+\contentsline {subsubsection}{\numberline {29.5.1}Neutron Decay}{95}{subsubsection.29.5.1}%
+\contentsline {subsubsection}{\numberline {29.5.2}$β^{-}$ Decay}{96}{subsubsection.29.5.2}%
+\contentsline {paragraph}{Example:}{96}{paragraph*.106}%
+\contentsline {subsubsection}{\numberline {29.5.3}Electron Capture}{96}{subsubsection.29.5.3}%
+\contentsline {subsubsection}{\numberline {29.5.4}Comparing Electron Capture \& $β^{+}$ Decay}{97}{subsubsection.29.5.4}%
+\contentsline {subsection}{\numberline {29.6}Fermi's Golden Rule}{97}{subsection.29.6}%
+\contentsline {subsubsection}{\numberline {29.6.1}Fermi's Golden Rule for Decay}{98}{subsubsection.29.6.1}%
+\contentsline {paragraph}{Beta Decay:}{98}{paragraph*.108}%
+\contentsline {paragraph}{Alpha Decay:}{98}{paragraph*.109}%
+\contentsline {subsubsection}{\numberline {29.6.2}Fermi's Theory of Beta Decay}{98}{subsubsection.29.6.2}%
+\contentsline {section}{\numberline {30}Symmetry Breaking Weak Interactions}{98}{section.30}%
+\contentsline {subsection}{\numberline {30.1}Key Questions About CP-Violation}{98}{subsection.30.1}%
+\contentsline {subsubsection}{\numberline {30.1.1}CPT Invariance}{99}{subsubsection.30.1.1}%
+\contentsline {subsection}{\numberline {30.2}CP and Flavour Oscillations in B-Decays}{99}{subsection.30.2}%
+\contentsline {subsection}{\numberline {30.3}Wolfenstein Parametrization}{99}{subsection.30.3}%

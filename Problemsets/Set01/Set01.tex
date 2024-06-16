@@ -1,0 +1,155 @@
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{titlesec}
+% \usepackage[mathletters]{ucs}
+\usepackage{mathtools} %for \abs{x}
+\usepackage[warnings-off={mathtools-colon,mathtools-overbracket}]{unicode-math}
+% \setmainfont{TeX Gyre Schola}
+% \setmathfont{TeX Gyre Schola Math}
+% \usepackage[utf8x]{inputenc}
+\usepackage{fontenc}
+\usepackage[margin=1.5in]{geometry}
+\usepackage{enumerate}
+\newtheorem{theorem}{Theorem}
+\usepackage[dvipsnames]{xcolor}
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.18}
+\setlength{\parindent}{0cm}
+\usepackage{graphics}
+\usepackage{graphicx} % Required for including images
+\usepackage{subcaption}
+\usepackage{bigintcalc}
+\usepackage{pythonhighlight} %for pythonkode \begin{python}   \end{python}
+\usepackage{appendix}
+\usepackage{arydshln}
+\usepackage{physics}
+\usepackage{booktabs} 
+\usepackage{adjustbox}
+\usepackage{mdframed}
+\usepackage{relsize}
+\usepackage{physics}
+\usepackage[thinc]{esdiff}
+\usepackage{esint}  %for lukket-linje-integral
+\usepackage{xfrac} %for sfrac
+\usepackage[colorlinks=true,linktoc=page]{hyperref} %for linker, må ha med hypersetup
+\usepackage[noabbrev, nameinlink]{cleveref} % to be loaded after hyperref
+% \usepackage{amssymb} %\mathbb{R} for reelle tall, \mathcal{B} for "matte"-font
+\usepackage{listings} %for kode/lstlisting
+\usepackage{verbatim}
+\usepackage{graphicx,wrapfig,lipsum,caption} %for wrapping av bilder
+\usepackage[english]{babel}
+\usepackage{cancel}
+% \usepackage{alphabeta}
+\usepackage{mhchem} % for atom notasjon
+% \definecolor{codegreen}{rgb}{0,0.6,0}
+% \definecolor{codegray}{rgb}{0.5,0.5,0.5}
+% \definecolor{codepurple}{rgb}{0.58,0,0.82}
+% \definecolor{backcolour}{rgb}{0.95,0.95,0.92}
+% \lstdefinestyle{mystyle}{
+%     backgroundcolor=\color{backcolour},   
+%     commentstyle=\color{codegreen},
+%     keywordstyle=\color{magenta},
+%     numberstyle=\tiny\color{codegray},
+%     stringstyle=\color{codepurple},
+%     basicstyle=\ttfamily\footnotesize,
+%     breakatwhitespace=false,         
+%     breaklines=true,                 
+%     captionpos=b,                    
+%     keepspaces=true,                 
+%     numbers=left,                    
+%     numbersep=5pt,                  
+%     showspaces=false,                
+%     showstringspaces=false,
+%     showtabs=false,                  
+
+%     tabsize=2
+% }
+
+% \lstset{style=mystyle} 
+
+\author{Oskar Idland}
+\title{Problem Set 1}
+\date{}
+\begin{document}
+\maketitle
+\newpage
+\section*{Problem 1}
+\subsection*{a)}
+Thorium has 90 protons, and $\ce{_{}^{232}\text{Th}_{}}$ has $232 - 90 = 142$ neutrons. Uranium has 92 protons, and $\ce{_{}^{235}\text{U}_{}}$ has $235 - 92 = 143$ neutrons.  
+
+\subsection*{b)}
+There is only one stable nuclei with mass number $A = 20$, that being Neon $\ce{_{10}^{20}\text{Ne}_{10}}$. 
+
+\subsection*{c)}
+The element number $Z = 82$, belongs to Lead. It has stable isotopes with mass numbers $\ce{_{}^{124}\text{Pb}_{}}, \ce{_{}^{125}\text{Pb}_{}}, \ce{_{}^{126}\text{Pb}_{}}$.
+
+\subsection*{d)}
+Polonium has $Z = 84$, and has no stable isotopes. 
+
+\subsection*{e)}
+The colors of the chart tells us if an isotope is stable or not, and what decay channel it most likely will undergo. The pink being mostly neutron rich, undergoing $β^{-}$, decay. The blue are mostly proton rich and undergo $β^{+}$ decay. The yellow is alpha decay. The white is stable isotopes.
+
+
+\section*{Problem 2}
+\subsection*{a)}
+\begin{equation}
+  \ce{_{8}^{16}\text{O}_{8}}, \ce{_{7}^{15}\text{N}_{8}}, \ce{_{6}^{16}\text{C}_{10}}, \ce{_{10}^{16}\text{Ne}_{6}}, \ce{_{6}^{14}\text{C}_{8}}, \ce{_{7}^{20}\text{N}_{13}}, \ce{_{10}^{20}\text{Ne}_{10}}
+\end{equation}
+
+\subsection*{b)}
+Isotopes have the same number of protons. 
+\begin{itemize}
+  \item $\ce{_{}^{15}\text{N}_{}}$ and $\ce{_{}^{20}\text{N}_{}}$ are isotopes. 
+  \item $\ce{_{}^{16}\text{Ne}_{}}$ and $\ce{_{}^{20}\text{Ne}_{}}$ are isotopes. 
+  \item $\ce{_{}^{14}\text{C}_{}}$ and $\ce{_{}^{16}\text{C}_{}}$ are isotopes. 
+\end{itemize}
+
+\subsection*{c)}
+Isotones have the same number of neutrons. 
+\begin{itemize}
+  \item $\ce{_{}^{16}\text{O}_{}}$, $\ce{_{}^{14}\text{C}_{}}$ and $\ce{_{}^{15}\text{N}_{}}$ are isotones. 
+  \item $\ce{_{}^{16}\text{C}_{}}$ and $\ce{_{}^{20}\text{Ne}_{}}$ are isotones. 
+\end{itemize}
+
+\subsection*{d)}
+Isobars have the same number of nucleons. 
+\begin{itemize}
+  \item $\ce{_{}^{16}\text{O}_{}}$, $\ce{_{}^{16}\text{Ne}_{}}$ and $\ce{_{}^{16}\text{C}_{}}$ are isotones. 
+  \item $\ce{_{}^{20}\text{N}_{}}$ and $\ce{_{}^{20}\text{Ne}_{}}$ are isotones. 
+\end{itemize}
+
+
+\section*{Problem 3}
+\subsection*{a)}
+\begin{itemize}
+  \item Nuclear radius is the distance where we find the boundary of the nucleus. The nucleus is made up of multiple nucleons, which have a rough, ill-defined boundary. We define it to be the radius where we have half the charge-density of the maximum. 
+  \item We can measure the radius is multiple ways. We can send neutral particles, and based on the scattering angles, determine the the radius. We can also send charged particles, which interact with the positively charged core, and use the scattering angles to determine the size. 
+  \item All the positive charge is located at the center of the atom, in the nucleus. The overwhelming majority of the mass is also located in the nucleus. Therefore, both the charge radius, and mass radius gives approximately the same answer. 
+\end{itemize}
+
+\subsection*{b)}
+As both the nucleus and the $α$-particles are positively charged, we expect the particles to be repelled by the nucleus. The closer the distance, the more repulsion of the straight path the particles would otherwise travel. By looking at the scattering angle, we can approximate the radius. The radius $R$ is given by:
+\begin{equation}
+  R = R_0A^{1/3} \quad , \quad  R_0 = 1.2 \text{ fm}
+\end{equation}
+
+\subsection*{c)}
+\begin{equation}
+  R \Big(\ce{_{}^{208}\text{Pb}_{}}\Big) = 1.2 \text{ fm} ⋅ 208^{1/3} ≈ 7.11 \text{ fm}
+\end{equation}
+
+\subsection*{d)}
+Given too much energy, we would overcome the Coulomb forces and the dominant force would be the strong force. The Rutherford formula does not take this in to account, and is therefore invalid. Sometimes, we would even see absorption of the particle into the nucleus. This creates a diffraction pattern in the angles. 
+
+\section*{Problem 4}
+\begin{itemize}
+  \item The plot shows how the average binding energy per nucleon changes as a function of number of nucleons. As part of the mass of the atom comes from this binding energy, it also reflects the mass per nucleon. 
+  \item Fission is the process of splitting up heavier atoms to the right of iron into lighter atoms closer to iron. This releases energy. 
+  \item Fusion is the process of joining two atoms lighter atoms to the left of iron, into heavier atoms closer to iron. This releases A LOT of energy. 
+  \item Heavier atoms are created under extreme conditions inside stars, as fusion has high energy requirements, and even more so when doing it to heavier atoms. 
+  \item The mass of $\ce{_{}^{130}\text{Xe}_{}}$, can be approximated as the sum of each individual nucleon and electron, and subtracting the binding energy. From the graph we see the binding energy is approximately 8.3 MeV. 
+  \begin{equation}
+    54 ⋅  m_p + 76 ⋅ m_n + 54 ⋅ m_e - 130 ⋅ 8.3 ≈ 1.21 ⋅ 10^{5} \text{ MeV}
+  \end{equation}
+\end{itemize}
+\end{document}

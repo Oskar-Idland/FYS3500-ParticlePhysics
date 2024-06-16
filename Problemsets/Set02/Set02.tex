@@ -1,0 +1,128 @@
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{titlesec}
+% \usepackage[mathletters]{ucs}
+\usepackage{mathtools} %for \abs{x}
+\usepackage[warnings-off={mathtools-colon,mathtools-overbracket}]{unicode-math}
+% \setmainfont{TeX Gyre Schola}
+% \setmathfont{TeX Gyre Schola Math}
+% \usepackage[utf8x]{inputenc}
+\usepackage{fontenc}
+\usepackage[margin=1.5in]{geometry}
+\usepackage{enumerate}
+\newtheorem{theorem}{Theorem}
+\usepackage[dvipsnames]{xcolor}
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.18}
+\setlength{\parindent}{0cm}
+\usepackage{graphics}
+\usepackage{graphicx} % Required for including images
+\usepackage{subcaption}
+\usepackage{bigintcalc}
+\usepackage{pythonhighlight} %for pythonkode \begin{python}   \end{python}
+\usepackage{appendix}
+\usepackage{arydshln}
+\usepackage{physics}
+\usepackage{booktabs} 
+\usepackage{adjustbox}
+\usepackage{mdframed}
+\usepackage{relsize}
+\usepackage{physics}
+\usepackage[thinc]{esdiff}
+\usepackage{esint}  %for lukket-linje-integral
+\usepackage{xfrac} %for sfrac
+\usepackage[colorlinks=true,linktoc=page]{hyperref} %for linker, må ha med hypersetup
+\usepackage[noabbrev, nameinlink]{cleveref} % to be loaded after hyperref
+% \usepackage{amssymb} %\mathbb{R} for reelle tall, \mathcal{B} for "matte"-font
+\usepackage{listings} %for kode/lstlisting
+\usepackage{verbatim}
+\usepackage{graphicx,wrapfig,lipsum,caption} %for wrapping av bilder
+\usepackage[english]{babel}
+\usepackage{cancel}
+% \usepackage{alphabeta}
+\usepackage{mhchem} % for atom notasjon
+% \definecolor{codegreen}{rgb}{0,0.6,0}
+% \definecolor{codegray}{rgb}{0.5,0.5,0.5}
+% \definecolor{codepurple}{rgb}{0.58,0,0.82}
+% \definecolor{backcolour}{rgb}{0.95,0.95,0.92}
+% \lstdefinestyle{mystyle}{
+%     backgroundcolor=\color{backcolour},   
+%     commentstyle=\color{codegreen},
+%     keywordstyle=\color{magenta},
+%     numberstyle=\tiny\color{codegray},
+%     stringstyle=\color{codepurple},
+%     basicstyle=\ttfamily\footnotesize,
+%     breakatwhitespace=false,         
+%     breaklines=true,                 
+%     captionpos=b,                    
+%     keepspaces=true,                 
+%     numbers=left,                    
+%     numbersep=5pt,                  
+%     showspaces=false,                
+%     showstringspaces=false,
+%     showtabs=false,                  
+%     tabsize=2
+% }
+
+% \lstset{style=mystyle}
+
+\author{Oskar Idland}
+\title{Problem Set 2}
+\date{}
+\begin{document}
+% \tableofcontents
+\maketitle
+\newpage
+\section*{Problem 1}
+\subsection*{a)}
+\begin{equation}
+  M\Big(\ce{_{}^{27}\text{Al}_{}}\Big) = M(27,13) = 26.9815
+\end{equation}
+\begin{equation}
+  B = 13\left(m_p + m_e\right) c^2+ \left(27 - 13\right)m_nc^2 - M\Big(\ce{_{}^{27}\text{Al}_{}}\Big)c^2 ≈ 0.24152 \text{ u} = 224.97173 \text{ MeV}
+\end{equation}
+
+\subsection*{b)}
+\begin{equation}
+  B(27,13) = 15.5 \text{ MeV} ⋅ 27 - 16.8 \text{ MeV} ⋅ 27^{2/3} - 0.72 \text{ MeV} \frac{27 ⋅ 26}{27^{1/3}} - 23 \text{ MeV} \frac{(27 - 2 ⋅ 13)^2}{27}
+\end{equation}
+\begin{equation}
+  B(27,13) ≈ 229.0081 \text{ MeV}
+\end{equation}
+This slight deviation between the expressions comes from the assumption of the liquid drop model of the semi-empirical formula. The nucleus is actually divided into shells as well, and each nucleon has a different binding energy. 
+
+\section*{Problem 2}
+\subsection*{a)}
+The formula is semi-empirical, because the values are derived from experiment. 
+\begin{enumerate}
+  \item The volume term $α_{v}$, represents a base level of binding energy as a function of the number of nucleons. As the strong force is very short ranged, the Coulomb force takes over at a distance of a few nucleons. This is where the next term corrects this overshoot. 
+  \item The surface term $α_s$, subtracts from, as not all nucleons are surrounded by other nucleons. The ones on the surface have a lower binding energy. 
+  \item The Coulomb term $α_c$, adds the instability (lower binding energy), of large atoms with a too many protons. Large nuclei, have greater distance between nucleons, meaning the Coulomb force plays a bigger part. 
+  \item The symmetry term $α_{\text{sym}}$, takes into account the fact that not having an equal amount of protons and neutrons makes it less stable. This comes from Pauli's exclusion principle, were the nucleons can't be in the same state, and we therefore do not see Hydrogen with 100's of neutrons. 
+  \item The paring term $δ$, comes from an even or odd configuration of both neutrons and protons. Being even-even, adds binding energy. Being odd-odd subtracts energy. If $A$ is odd, then there is no effect. This comes from the coupling of nucleons in a spin-0 state which is tightly bound. 
+\end{enumerate}
+
+\subsection*{b)}
+\begin{itemize}
+  \item For light nuclei, the symmetry term is the most dominant. They have a much lower ratio of neutrons to nucleons. 
+  \item For heavy nuclei, the Coulomb term plays a bigger part, as the extra protons push on each other more than the strong force can hold them together. 
+  \item The $N/A$ ratio increase as more neutrons are needed to keep the nucleus stable. 
+\end{itemize}
+
+\section*{Problem 3}
+\subsection*{a)}
+The nuclear force does not care about electric charge, but it does care about spin. Pauli's exclusion principle dictates that two identical fermions can't be in the same state. Two protons and two neutrons must therefore have opposite spins. Opposite spins means $S = 0$, which decreases the binding energy from the strong force, making it unstable. A proton and neutron can be stable, as they can have spin $S = 1$. 
+
+\subsection*{b)}
+The most important parts to describe the nuclear potential is the following:
+\begin{itemize}
+  \item At short distances, we have a finite well created by the strong force. This has negative potential, keeping the nucleons bound. 
+  \item The Coulomb forces are repulsive, and therefore creates a barrier, which must be overcome to enter the nucleus. This makes the potential become positive, pushing positively charged particles away. 
+  \item As the strong force is spin dependent, having a singlet state gives a deeper well, than a triplet state. 
+  \item The asymmetric term makes the potential non-central if $l > 0$. 
+\end{itemize}
+
+\subsection*{c)}
+The parity is given by $π_a π_b (-1)^{l}$. As deuteron is just one proton and neutron, both having intrinsic parity 1, we know $l$ must be an even number. We know the spin $S$ to be either 0 or 1, but 1 is the most stable. This gives the most likely state of $S = 1$, and $L = 0$. 
+
+\end{document}
